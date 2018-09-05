@@ -1,0 +1,39 @@
+.newsletter-article{
+    margin: auto;
+    background-color: #DFDEDE;
+    width: 94.9%;   /* default: 1280px aprox. */
+    height: auto; /* 3448px */
+    overflow-y: auto;
+}
+.newsletter-article__container{
+    width: 100%;
+    padding-top: 182.66px;
+}
+.newsletter-article__container__sm{
+    width: 23.5%;
+    padding-top: 30px;
+    padding-left: 70px;
+    padding-bottom: 40px
+}
+.newsletter-article__container__content{
+    width: 100%;
+    display: flex;
+    justify-content: center; 
+}
+
+
+/* Mobile version */
+@media only screen and (max-width: 800px){
+    .newsletter-article{
+        width: 100%;
+        background-color: #FFFFFF;
+    }
+    .newsletter-article__container{
+        padding-top: 58px;
+    }
+    .newsletter-article__container__sm{
+        width: auto;
+        padding-left: 0;
+        padding-bottom: 20px
+    }
+}

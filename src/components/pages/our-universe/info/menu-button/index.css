@@ -1,0 +1,39 @@
+
+.our-menu-button{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.our-menu-button__container{
+    width: 440px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.our-menu-button__container button{
+    width: 120px;
+    height: 34px;
+    border-radius: 18px;
+    border: 1px #686260 solid;
+    outline: none;
+    background-color: inherit;
+    cursor: pointer;
+    font-size: 14px;
+    font-family: GOTHAM-BOLD;
+    color: #686260;
+}
+
+
+/* Mpbile version */
+@media only screen and (max-width: 800px){
+    .our-menu-button__container{
+        justify-content: space-evenly;
+        padding-top: 20px;
+    padding-bottom: 20px;
+    }
+    .our-menu-button__container button{
+        width: 105.14px;
+        height: 29.79px;
+    }
+}

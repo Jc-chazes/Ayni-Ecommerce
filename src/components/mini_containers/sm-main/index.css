@@ -1,0 +1,46 @@
+
+.shop-catalog-small-main{
+    width: auto; /* 116px */
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.shop-catalog-small-main__text{
+    font-size: 12px;
+    font-family: GOTHAM-LIGHT;
+    color: darkgrey;
+    cursor: pointer;
+    display: flex;
+}
+.shop-catalog-small-main__text-selected{
+    font-size: 12px;
+    font-family: GOTHAM-LIGHT;
+    color: darkgrey;
+    cursor: pointer;
+    display: flex;
+    text-decoration: underline;
+}
+.shop-catalog-small-main__slash{
+    width: 10px;
+    /*transform: rotate(110deg);*/
+}
+
+@media only screen and (max-width: 800px){
+    .shop-catalog-small-main{
+        width: auto;
+        height: 40px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .shop-catalog-small-main__text{
+        color: #686260;
+        font-family: 'Times New Roman';
+        font-size: 14px;
+        font-style: italic;
+    }
+    .shop-catalog-small-main__slash{
+        font-weight: bold;
+        
+    }
+}

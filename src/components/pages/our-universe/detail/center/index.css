@@ -1,0 +1,145 @@
+
+
+.our-univ-detail-center{
+    width: 80%;
+    height: auto;
+}
+.our-univ-detail-center__content{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.our-univ-detail-center__content__section{
+    margin-left: 5%;
+    font-size: 18px;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    text-align: left;
+    color: #000000;
+}
+.our-univ-detail-center__content__title{
+    margin-top: 3%;
+    margin-left: 5%;
+    font-size: 65px;
+    font-family: GOTHAM-LIGHT;
+    text-align: left;
+    color: #393939;
+}
+.our-univ-detail-center__content__hr{
+    margin-top: 2.5%;
+    padding-left: 5%;
+    width: 10%;
+    margin-left: 0;
+}
+.our-univ-detail-center__content__description{
+    margin-top: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 18px;
+    font-family: GOTHAM-LIGHT;
+    text-align: left;
+    color: #393939;
+    text-align: justify;
+}
+/* Pair image */
+.our-univ-detail-center__content__image{
+    margin-top: 6%;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 3%;
+}
+.our-univ-detail-center__content__image div{
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.our-univ-detail-center__content__image__pic1{
+    width: 37.7%;
+    height: 555px;
+    background-image: url('http://localhost:3000/images/resources/OUR-UNIVERSE_Bio-image.jpg');
+    background-size: 100% 100%;
+}
+.our-univ-detail-center__content__image__pic2{
+    width: 61%;
+    height: 555px;
+    background-image: url('http://localhost:3000/images/our-univ-detail-img2.png');
+    background-size: 100% 100%;
+}
+
+/* Lonely image */
+.our-univ-detail-center__content__lonely-image{
+    margin-top: 10%;
+    width: 100%;
+    height: 626.5px;
+    background-size: 100% 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-image: url('http://localhost:3000/images/our-univ-detail-img3.png');
+}
+
+/* Close CSS */
+.our-univ-detail-center__close{
+    margin-top: 1.5%;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.our-univ-detail-center__close__icon{
+    width: 20px;
+    height: 20px;
+    background-image: url('http://localhost:3000/icons/close.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+.our-univ-detail-center__close__text{
+    font-size: 16px;
+    font-family: Gotham-Book;
+    padding-left: 10px;
+}
+
+
+@media only screen and (max-width: 800px){
+    .our-univ-detail-center{
+        width: 100%;   
+    }
+    .our-univ-detail-center__content{
+        margin: auto;
+        width: 85%;
+    }
+    .our-univ-detail-center__content__section{
+        width: 100%;
+        font-size: 10px;
+        margin-left: 0;
+    }
+    .our-univ-detail-center__content__title{
+        font-size: 35px;
+        margin-left: 0;
+    }
+    .our-univ-detail-center__content__hr{
+        width: 114px;
+        padding-left: 0;
+    }
+    .our-univ-detail-center__content__description{
+        font-size: 10px;
+        margin-left: 0;
+        margin-right: 0;
+    }
+    .our-univ-detail-center__content__image__pic1{
+        display: none;
+    }
+    .our-univ-detail-center__content__image__pic2{
+        width: 100%;
+        height: 308.17px;
+        background-size: contain;
+    }
+
+    .our-univ-detail-center__content__lonely-image{
+        background-size: contain;
+        height: 200.5px;
+    } 
+}
+

@@ -1,0 +1,57 @@
+.checkout_utils_form-footer {
+    height: 46px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-wrap: wrap-reverse;
+}
+.checkout_utils_form-footer__back-container{
+    width: 165px;
+    height: 46px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    font-family: Raleway-Bold;
+    font-size: 14px;
+    color: #C6BCB3;
+    cursor: pointer;
+}
+.checkout_utils_form-footer__back-container__arrow{
+    background-image: url(http://localhost:3000/Icons/left-brown.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 10px;
+    width: 17px;
+}
+.checkout_utils_form-footer__next-container {
+    background-color: #C6BCB3;
+    width: 210px;
+    height: 46px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-family: Raleway-Bold;
+    font-size: 14px;
+    color: #fff;
+    border-radius: 6px;
+    cursor: pointer;
+    border:none;
+}
+
+@media only screen and (min-width: 320px) and (max-width : 768px) {
+    .checkout_utils_form-footer {
+        justify-content: center;
+        flex-direction: row-reverse;
+        height: 100px;
+    }
+  
+}
+@media only screen and (max-width:800px){
+    .checkout_utils_form-footer {
+        margin-top: 251px;
+    }
+}

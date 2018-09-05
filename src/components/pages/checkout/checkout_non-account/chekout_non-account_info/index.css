@@ -1,0 +1,116 @@
+.checkout-non-account-info {
+    width: 100%;
+    height: 800px;
+}
+.checkout-non-account-info__container {
+    height: 582px;
+    border: 1px solid #ECE9E6;
+    border-radius: 6px;
+    padding: 31px 19px 30px 25px;
+    display: flex;
+    justify-content: center;
+}
+.checkout-non-account-info__container__column-info {
+    width: 53%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    justify-content: space-between;
+}
+.checkout-non-account-info__container__column-info__form {
+    height: 377px;
+    border-top: 1px solid #EDEAE7;
+    padding-top: 10px;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    justify-content: space-between;
+}
+.checkout-non-account-info__container__column-info__form__title {
+    font-family: Raleway-Medium;
+    font-size: 13px;
+    color: #393939;
+}
+.checkout-non-account-info__container__column-info__form__input-container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    height: 62px;
+}
+.checkout-non-account-info__container__column-info__form__input-container__columns {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.checkout-non-account-info__container__column-info__form__input-container__columns__label {
+    font-family: Raleway-Bold;
+    font-size: 13px;
+    color: #988575;
+}
+.checkout-non-account-info__container__column-info__form__input-container__columns__input {
+    padding-left: 12px;
+    border: 1px solid #C6BCB3;
+    border-radius: 4px;
+    box-sizing: border-box;
+    height: 38px;
+    width: 100%;
+    font-family: Raleway;
+    font-size: 13px;
+    color: #B7B7B7;
+}
+.checkout-non-account-info__container__column-info__save-info {
+    text-align: left;
+    font-family: Raleway;
+    font-size: 13px;
+    font-weight: 550;
+    color: #393939;
+}
+.checkout-non-account-info__container__column-info__sheddule {
+    text-align: left;
+    font-family: Raleway-Medium;
+    font-size: 14px;
+    color: #B7B7B7;
+}
+
+@media only screen and (min-width: 320px) and (max-width : 768px) {
+    .checkout-non-account-info__container__column-info {
+        width: 100%;
+        align-items: center;
+    }
+    .checkout-non-account-info__container {
+        padding: 24px 20px 45px 20px;
+        height: 887px;
+    }
+    .checkout-non-account-info__container__column-info__form__title {
+        color: #C6BCB3;
+    }
+    .checkout-non-account-info__container__column-info__form {
+        height: 460px;
+        width: 300px;
+        border: none;
+    }
+    .checkout-non-account-info__container__column-info__form__input-container {
+        height: 140px;
+        justify-content: space-between;
+        text-align: left;
+        align-items: center;
+    }
+    .checkout-non-account-info__container__column-info__form__input-container__columns {
+        margin: 0px auto;
+        height: 62px;
+    }
+    .checkout-non-account-info__container__column-info__save-info {
+        width: 300px;
+    }
+    .checkout-non-account-info__container__column-info__sheddule {
+        width: 300px;
+    }
+    .checkout-non-account-info__container__column-info {   
+        height: 600px !important;
+    }
+    .checkout-non-account-info__container__column-info {
+        height: 564px !important;
+    }
+}

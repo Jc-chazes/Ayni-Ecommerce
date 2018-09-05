@@ -1,0 +1,250 @@
+
+
+.newsletter-article-center{
+    width: 68%;
+}
+.newsletter-article-center__section{
+    width: 100%;
+    text-align: left;
+    font-size: 18px;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    color: #000000;
+}
+.newsletter-article-center__title{
+    margin-top: 20px;
+    width: 100%;
+    text-align: left;
+    font-size: 65px;
+    font-family: Gotham-BookItalic;
+    color: #393939;
+}
+.newsletter-article-center__date{
+    margin-top: 5px;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    font-weight: bold;  
+    width: 191px;
+    height: 49px;
+    border: 1px #707070 solid;
+    color: #686260;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.newsletter-article-center__description{
+    margin-top: 40px;
+    width: 100%;
+    text-align: justify;
+    font-size: 18px;
+    font-family: GOTHAM-LIGHT;
+    color: #393939;
+    box-sizing: border-box;
+    padding-left: 5px;
+}
+
+/* Interests */
+.newsletter-article-center__interests{
+    margin-top: 45px;
+    width: 100%;
+}
+.newsletter-article-center__interests__title{
+    width: 100%;
+    font-size: 24px;
+    font-family: GOTHAM-BOLD;
+    text-align: left;
+}
+.newsletter-article-center__interests__description{
+    width: 100%;
+    text-align: justify;
+    font-size: 18px;
+    font-family: GOTHAM-LIGHT;
+    color: #393939;
+    padding-top: 2px;
+}
+
+/* Image fanpage facebook */
+.newsletter-article-center__fb-image1{
+    margin-top: 95px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    padding-left: 3%;
+}
+.newsletter-article-center__fb-image1__img{
+    width: 593px;
+    height: 930px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.newsletter-article-center__fb-image1__img__picture{
+    width: 100%;
+    height: 889px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: #686260;
+}
+.newsletter-article-center__fb-image1__img__text{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    color: #393939;
+}
+.newsletter-article-center__fb-image1__img__text__from{
+    font-size: 16px;
+    font-family: Raleway-MediumItalic;  
+    padding-left: 20px;
+}
+.newsletter-article-center__fb-image1__img__text__date{
+    font-size: 12px;
+    font-family: Raleway-Medium;
+}
+.newsletter-article-center__fb-image1__arrow-icon{
+    margin-left: 35px;
+    width: 19.08px;
+    height: 39.68px;
+    background-image: url('http://localhost:3000/icons/arrow-up.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    cursor: pointer;
+}
+
+/* facebook image 2 */
+.newsletter-article-center__fb-image2{
+    margin-top: 40px;
+    width: 100%;
+    height: 590px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+}
+.newsletter-article-center__fb-image2__picture{
+    width: 100%; /* 820px */
+    height: 546.53px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.newsletter-article-center__fb-image2__text{
+    width: 99%;
+    text-align: left;
+    font-size: 16px;
+    font-family: 'Times New Roman';
+    font-style: italic;
+}
+
+/* Content text only */
+.newsletter-article-center__other-side{
+    margin-top: 40px;
+    width: 100%;
+    height: 85px;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.newsletter-article-center__other-side__title{
+    font-size: 27px;
+    font-family: GOTHAM-BOLD;
+}
+.newsletter-article-center__other-side__body{
+    font-size: 17px;
+    font-family: GOTHAM-LIGHT;
+    text-align: justify;
+    padding-top: 3px;
+}
+
+/* Close container */
+.newsletter-article-center__close{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.newsletter-article-center__close__icon{
+    width: 20px;
+    height: 20px;
+    background-image: url('http://localhost:3000/icons/close.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+.newsletter-article-center__close__text{
+    font-size: 16px;
+    font-family: Gotham-Book;
+    padding-left: 10px;
+}
+
+
+@media only screen and (max-width: 800px){
+    .newsletter-article-center{
+        width: 86%;
+    }
+    .newsletter-article-center__section{
+        font-size: 10px;
+    }
+    .newsletter-article-center__title{
+        margin-top: 10px;
+        font-size: 35px;
+    }
+    .newsletter-article-center__date{
+        width: 107.84px;
+        height: 27.67px;
+        font-size: 11px;
+    }
+    .newsletter-article-center__description{
+        margin-top: 28px;
+        padding-left: 0;
+        font-size: 10px;
+    }
+
+    /* Interests */
+    .newsletter-article-center__interests{
+        margin-top: 35px;
+        padding-bottom: 45px;
+    }
+    .newsletter-article-center__interests__title{
+        font-size: 10px;
+    }
+    .newsletter-article-center__interests__description{
+        font-size: 10px;
+    }
+
+    /* fb image */
+    .newsletter-article-center__fb-image1{
+        display: none;
+    }
+    
+    /* fb image 2 */
+    .newsletter-article-center__fb-image2{
+        margin-top: 18px;
+        height: auto;
+    }
+    .newsletter-article-center__fb-image2__picture{
+        height: 309px;
+    }
+    .newsletter-article-center__fb-image2__text{
+        display: none;
+    }
+
+
+    /* Other side */
+    .newsletter-article-center__other-side{
+        margin-top: 33px;
+        height: 58px;
+    }
+    .newsletter-article-center__other-side__title{
+        font-size: 10px;
+    }
+    .newsletter-article-center__other-side__body{
+        font-size: 10px;
+    }
+}

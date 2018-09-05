@@ -1,0 +1,10 @@
+
+.header-desktop{
+    width: 1280px;
+}
+
+@media only screen and (max-width: 800px){
+    .header-desktop{
+        display: none;
+    }
+}

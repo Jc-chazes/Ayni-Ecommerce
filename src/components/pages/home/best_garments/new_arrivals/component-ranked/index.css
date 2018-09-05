@@ -1,0 +1,34 @@
+.card_arrivals{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    height:496px;
+}
+.card_arrivals_name{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    width:280px;
+    height:16px;
+    font-size: 13px;
+    font-family: raleway-regular;
+}
+.card_arrivals_price{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    width:51px;
+    height:18px;
+    font-size: 13px;
+    font-family:raleway-semibold;
+    font-weight: bold;
+}
+@font-face {
+    font-family: raleway-regular;
+    src:url("http://localhost:3000/fonts/Raleway-Regular.ttf");
+}
+@font-face {
+    font-family: raleway-semibold;
+    src:url("http://localhost:3000/fonts/Raleway-SemiBold.ttf");
+}

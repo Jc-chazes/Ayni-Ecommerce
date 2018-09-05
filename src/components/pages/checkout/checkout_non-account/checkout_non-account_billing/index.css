@@ -1,0 +1,179 @@
+.checkout_non-account_billing {
+    display: flex;
+    flex-direction: column;
+}
+.checkout_non-account_billing__container{
+    width: 100%;
+    height: 560px;
+    display: flex;
+    justify-content: center;
+}
+.checkout_non-account_billing__container__form {
+    width: 604px;
+    height: 491px;
+    border-radius: 6px;
+    border: 1px solid #ECE9E6;
+    padding:31px 14px 36px 14px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.checkout_non-account_billing__container__form__content {
+    border-top: 1px solid #EDEAE7;
+    padding: 32px 28px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 275px;
+}
+.checkout_non-account_billing__container__form__content__label-top {
+    font-family: Raleway-Medium;
+    font-size: 13px;
+    color: #393939;
+    margin-bottom: 20px;
+}
+.checkout_non-account_billing__container__form__content__info-card {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.checkout_non-account_billing__container__form__content__info-card__column {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 150px;
+}
+.checkout_non-account_billing__container__form__content__info-card__column__inputs {
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 65px;   
+    align-items: center;
+}
+.checkout_non-account_billing__container__form__content__info-card__column__inputs__label {
+    font-family: Raleway-Bold;
+    font-size: 13px;
+    color: #C6BCB3;
+    width: 100%;
+}
+.checkout_non-account_billing__container__form__content__info-card__column__inputs__input {
+    border-radius: 6px;
+    border: 1px solid #C6BCB3;
+    height: 34px;
+    font-family: Raleway;
+    font-size: 14px;
+    color: #C6BCB3;
+    padding-left: 13px;
+}
+.checkout_non-account_billing__container__form__content__info-card__column__inputs__icon-security {
+    background-image: url(http://localhost:3000/icons/candado.png);
+    width: 13px;
+    height: 18px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 5px;
+}
+.checkout_non-account_billing__container__form__content__info-card__column__inputs__date {
+    font-family: Raleway-Bold;
+    font-size: 13px;
+    text-align: left;
+    color: #C6BCB3;
+    width: 100%;
+}
+.checkout_non-account_billing__container__form__content__info-card__column__inputs__date-exp {
+    display: flex;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+.checkout_non-account_billing__container__form__content__info-card__column__inputs__date-exp__select {
+    width: 128px;
+    height: 38px;
+    border: 1px solid #ECE9E6;
+    border-radius: 4px;
+    font-family: Raleway-Medium;
+    font-size: 14px;
+    color: #B7B7B7;
+}
+.checkout_non-account_billing__container__form__content__info-card__column__inputs__icon-question {
+    background-image: url(http://localhost:3000/icons/question.png);
+    width: 18px;
+    height: 18px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 5px;
+}
+.checkout_non-account_billing__container__form__content__info-card__column__label {
+    font-family: "Avenir 85";
+    color: #C6BCB3;
+    font-size: 12px;
+    text-align: left;
+}
+.checkout_non-account_billing__container__form__content__info-card__column2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 150px;
+}
+.checkout_non-account_billing__container__form__content__label-button{
+    font-family: Raleway-Medium;
+    font-size: 13px;
+    color: #393939;
+    text-align: left;
+    margin-top: 18px;
+}
+@media only screen and (max-width:800px){
+    .checkout_non-account_billing__container__form__content__label-top {
+        width: 300px;   
+    }
+    .checkout_non-account_billing__container__form__content {
+       width: 312px; 
+    }
+    .checkout_non-account_billing__container__form {
+        height: 570px !important;
+    }
+    .checkout_non-account_billing__container {
+        height: 817px;
+    }
+}
+@media only screen and (min-width: 320px) and (max-width : 720px) {
+    .checkout_non-account_billing__container__form {
+        padding: 24px 16px 40px 21px;
+        width: calc(100% - 50px);
+        align-items: center;
+        height: 739px;
+    }
+    .checkout_non-account_billing__container__form__content {
+        padding: 23px 0px;
+        height: 365px;
+    }
+    .checkout_non-account_billing__container__form__content__info-card {
+        justify-content: space-between;
+        flex-direction: column;
+        height: 280px;
+    }
+    .checkout_non-account_billing__container__form__content__info-card__column2 {
+        height: 110px;
+    }
+    .checkout_non-account_billing__container__form__content__info-card__column__inputs__label {
+        width: 83%;
+    }
+    .checkout_non-account_billing__container__form__content__info-card__column__inputs__date {
+        width: 83%;
+    }
+    .checkout_non-account_billing__container__form__content__info-card__column__inputs {
+        align-items: flex-start;
+        width: 83%;
+        margin: 0px auto;
+    }
+    .checkout_non-account_billing__container__form__content__info-card__column__label {
+        width: 83%;
+        margin: 0px auto;
+    }
+}

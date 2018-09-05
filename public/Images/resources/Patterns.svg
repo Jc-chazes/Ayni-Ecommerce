@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1018 670">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Patterns);
+      }
+
+      .cls-2 {
+        fill: #393939;
+        font-size: 12px;
+        font-family: Raleway-Bold, Raleway;
+        font-weight: 700;
+        text-decoration: underline;
+      }
+
+      .cls-3 {
+        fill: none;
+        stroke: #988575;
+        stroke-width: 1.5px;
+      }
+
+      .cls-4 {
+        fill: #fff;
+      }
+    </style>
+    <clipPath id="clip-Patterns">
+      <rect width="1018" height="670"/>
+    </clipPath>
+  </defs>
+  <g id="Patterns" class="cls-1">
+    <rect class="cls-4" width="1018" height="670"/>
+    <g id="Group_8945" data-name="Group 8945" transform="translate(-7 -84)">
+      <text id="INGRESAR_CUPÓN" data-name="INGRESAR CUPÓN" class="cls-2" transform="translate(63.09 124)"><tspan x="0" y="0">INGRESAR CUPÓN</tspan></text>
+      <g id="Group_8678" data-name="Group 8678" transform="translate(23.369 117.378)">
+        <path id="Path_588" data-name="Path 588" class="cls-3" d="M0,.524,4.6,0,4.072,4.6" transform="translate(29.376 0) rotate(45)"/>
+        <line id="Line_3242" data-name="Line 3242" class="cls-3" x2="12.554" transform="translate(20.025 3.25)"/>
+      </g>
+    </g>
+    <path id="Path_14289" data-name="Path 14289" d="M144.4,472.993l-25.42-36.2h-2.129l26.618,38.063v24.621h1.73V474.857l25.952-38.063h-2.129Zm91.3,24.089-49.376-60.289h-2v62.684h1.73V439.322L235.3,499.478h2V436.794h-1.73v60.289ZM91.032,436.794,64.148,499.478h1.863l25.553-59.357,24.754,59.357h1.863L91.964,436.794ZM325,0H312.224L222.656,131.224,167.957,0h-6.388L105.006,131.624,12.91,0H0L100.082,143.069.8,374.509H12.377l94.891-221.192,51.9,74.13V374.509H169.82V227.314l50.573-74.13,92.23,221.192h11.446L260.905,222.993,227.447,142.8ZM164.5,216.4l-52.3-74.662L164.629,19.564,215.6,141.605Zm93.294,283.077h1.73V436.794h-1.73Z" transform="translate(347 111)"/>
+  </g>
+</svg>

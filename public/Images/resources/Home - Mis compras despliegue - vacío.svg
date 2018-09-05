@@ -1,0 +1,292 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 800">
+  <defs>
+    <style>
+      .cls-1, .cls-11, .cls-15, .cls-28 {
+        fill: none;
+      }
+
+      .cls-1, .cls-11, .cls-12, .cls-15, .cls-18 {
+        stroke: #393939;
+      }
+
+      .cls-1 {
+        stroke-width: 1.7px;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-Home_-_Mis_compras_despliegue_-_vacío);
+      }
+
+      .cls-10, .cls-12, .cls-16, .cls-17, .cls-18, .cls-3 {
+        fill: #393939;
+      }
+
+      .cls-17, .cls-3 {
+        font-size: 12px;
+      }
+
+      .cls-26, .cls-3 {
+        font-family: Gotham-Bold, Gotham;
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-5 {
+        fill: url(#pattern);
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-7 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-8 {
+        fill: #dfdede;
+        opacity: 0.27;
+      }
+
+      .cls-22, .cls-9 {
+        font-size: 30px;
+      }
+
+      .cls-9 {
+        font-family: GothamLight, Gotham;
+        letter-spacing: 0.1em;
+      }
+
+      .cls-10, .cls-26 {
+        font-size: 13px;
+      }
+
+      .cls-10 {
+        font-family: Raleway-Medium, Raleway;
+        font-weight: 500;
+      }
+
+      .cls-11 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-12 {
+        stroke-width: 0.5px;
+        fill-rule: evenodd;
+      }
+
+      .cls-13 {
+        fill: #2b2e34;
+      }
+
+      .cls-14 {
+        fill: url(#pattern-2);
+      }
+
+      .cls-16 {
+        font-size: 10px;
+      }
+
+      .cls-16, .cls-17 {
+        font-family: Raleway-SemiBold, Raleway;
+        font-weight: 600;
+      }
+
+      .cls-18 {
+        stroke-width: 0.2px;
+      }
+
+      .cls-19 {
+        clip-path: url(#clip-path-4);
+      }
+
+      .cls-20, .cls-26, .cls-29 {
+        fill: #fff;
+      }
+
+      .cls-20 {
+        stroke: #ece9e6;
+      }
+
+      .cls-21 {
+        opacity: 0.07;
+        fill: url(#pattern-3);
+      }
+
+      .cls-22 {
+        fill: #b7b7b7;
+        font-family: TimesNewRomanPSMT, Times New Roman;
+      }
+
+      .cls-23 {
+        letter-spacing: 0.04em;
+      }
+
+      .cls-24 {
+        font-family: TimesNewRomanPS-ItalicMT, Times New Roman;
+        font-style: italic;
+      }
+
+      .cls-25 {
+        fill: #686260;
+      }
+
+      .cls-26 {
+        letter-spacing: 0.01em;
+      }
+
+      .cls-27 {
+        stroke: none;
+      }
+
+      .cls-30 {
+        filter: url(#Rectangle_9529);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="Path_14310" data-name="Path 14310" d="M816.691,1.1h389.422l267.429,642.709H542.7Z" transform="translate(-542.7 -1.1)"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 1066 532">
+      <image width="1066" height="532" xlink:href="Home%20-%20Mis%20compras%20despliegue%20-%20vac%C3%ADo-image.jpg"/>
+    </pattern>
+    <clipPath id="clip-path-2">
+      <path id="Path_14311" data-name="Path 14311" d="M1621.9,1.1h419.49V642.535H1888.119Z" transform="translate(-1621.9 -1.1)"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Path_14312" data-name="Path 14312" d="M692.685,1.1H260.9V642.535H419.268Z" transform="translate(-260.9 -1.1)"/>
+    </clipPath>
+    <pattern id="pattern-2" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 330 378">
+      <image width="330" height="378" xlink:href="Home%20-%20Mis%20compras%20despliegue%20-%20vac%C3%ADo-image4.png"/>
+    </pattern>
+    <clipPath id="clip-path-4">
+      <rect id="Rectangle_16" data-name="Rectangle 16" class="cls-1" width="24" height="9.644"/>
+    </clipPath>
+    <filter id="Rectangle_9529" x="793" y="77" width="496" height="297" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <pattern id="pattern-3" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 121 204">
+      <image width="121" height="204" xlink:href="Home%20-%20Mis%20compras%20despliegue%20-%20vac%C3%ADo-image5.png"/>
+    </pattern>
+    <clipPath id="clip-Home_-_Mis_compras_despliegue_-_vacío">
+      <rect width="1280" height="800"/>
+    </clipPath>
+  </defs>
+  <g id="Home_-_Mis_compras_despliegue_-_vacío" data-name="Home - Mis compras despliegue - vacío" class="cls-2">
+    <rect class="cls-29" width="1280" height="800"/>
+    <g id="Group_13881" data-name="Group 13881" transform="translate(-2209 2294)">
+      <text id="COLECTIONS" class="cls-3" transform="translate(2882 -2162)"><tspan x="0" y="0">COLECTIONS</tspan></text>
+      <text id="OUR_UNIVERSE" data-name="OUR UNIVERSE" class="cls-3" transform="translate(2667 -2162)"><tspan x="0" y="0">OUR UNIVERSE</tspan></text>
+      <text id="HOME" class="cls-3" transform="translate(2594 -2162)"><tspan x="0" y="0">HOME</tspan></text>
+      <text id="NEWSLETTER" class="cls-3" transform="translate(3018 -2162)"><tspan x="0" y="0">NEWSLETTER</tspan></text>
+      <g id="Group_13534" data-name="Group 13534" transform="translate(4)">
+        <g id="Group_12953" data-name="Group 12953" transform="translate(-2606.813 8971)">
+          <text id="SHOP" class="cls-3" transform="translate(5400.813 -11133)"><tspan x="0" y="0">SHOP</tspan></text>
+        </g>
+        <path id="Path_14305" data-name="Path 14305" d="M-15030.5-5914.125h8.25l-4.125,6.625Z" transform="translate(17866 3744.125)"/>
+      </g>
+      <path id="Path_14352" data-name="Path 14352" d="M-15030.5-5914.125h8.25l-4.125,6.625Z" transform="translate(18005 3744.125)"/>
+    </g>
+    <g id="Group_13579" data-name="Group 13579" transform="translate(-262.401 219.996)">
+      <g id="Group_13570" data-name="Group 13570" transform="translate(440.418 1.1)">
+        <g id="Group_13569" data-name="Group 13569" class="cls-4">
+          <rect id="Rectangle_9575" data-name="Rectangle 9575" class="cls-5" width="1286.536" height="641.463" transform="translate(-179.54 -0.014)"/>
+        </g>
+      </g>
+      <g id="Group_13572" data-name="Group 13572" transform="translate(1127.911 1.1)">
+        <g id="Group_13571" data-name="Group 13571" class="cls-6">
+          <image id="Rectangle_9576" data-name="Rectangle 9576" width="622.387" height="932.626" transform="translate(-55.127 -0.701)" xlink:href="Home%20-%20Mis%20compras%20despliegue%20-%20vac%C3%ADo-image2.jpg"/>
+        </g>
+      </g>
+      <g id="Group_13574" data-name="Group 13574" transform="translate(260.9 1.1)">
+        <g id="Group_13573" data-name="Group 13573" class="cls-7">
+          <image id="Rectangle_9577" data-name="Rectangle 9577" width="622.63" height="932.635" transform="translate(-166.204 -0.701)" xlink:href="Home%20-%20Mis%20compras%20despliegue%20-%20vac%C3%ADo-image3.jpg"/>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectangle_9579" data-name="Rectangle 9579" class="cls-8" width="1282" height="643" transform="translate(-2 221)"/>
+    <text id="TODAY_FOR_YOU_TOMORROW_FOR_ME." data-name="TODAY FOR YOU,
+TOMORROW FOR ME." class="cls-9" transform="translate(640 670)"><tspan x="-157.065" y="0">TODAY FOR YOU,</tspan><tspan x="-190.665" y="45">TOMORROW FOR ME.</tspan></text>
+    <path id="Exclusion_5" data-name="Exclusion 5" d="M15349.531,3556.809h-3.023l-24.352-58.368L15308.813,3518v38.813h-2.793V3518l-13.711-19.578-25.051,58.382h-3.039l26.207-61.072L15264,3458h3.4l24.316,34.72,14.895-34.72h1.7l14.441,34.616,23.617-34.616h3.383l-25.719,37.689,25.5,61.12Zm-42.09-93.644h0l-13.836,32.245,13.793,19.7,13.477-19.745-13.434-32.2Z" transform="translate(-14666.777 -2964.549)"/>
+    <g id="Group_13547" data-name="Group 13547" transform="translate(-497 60)">
+      <text id="Buscar" class="cls-10" transform="translate(1037.813 119)"><tspan x="0" y="0">Buscar</tspan></text>
+      <line id="Line_3457" data-name="Line 3457" class="cls-11" x2="199" transform="translate(1037.5 126.5)"/>
+      <path id="Path_1358" data-name="Path 1358" class="cls-12" d="M883.085-1650.7l3.575,3.576-.782.782-3.575-3.576a5.667,5.667,0,0,1-3.613,1.295,5.689,5.689,0,0,1-5.689-5.689,5.689,5.689,0,0,1,5.689-5.689,5.689,5.689,0,0,1,5.689,5.689A5.666,5.666,0,0,1,883.085-1650.7Zm-4.4-8.164a4.551,4.551,0,0,0-4.552,4.552,4.552,4.552,0,0,0,4.552,4.551,4.552,4.552,0,0,0,4.552-4.551A4.551,4.551,0,0,0,878.689-1658.863Z" transform="translate(344.37 1766)"/>
+    </g>
+    <g id="Group_13548" data-name="Group 13548" transform="translate(580.158 90.447)">
+      <g id="Group_13531" data-name="Group 13531" transform="translate(32.574 -47.112)">
+        <path id="Path_14301" data-name="Path 14301" class="cls-13" d="M-7.036,0-22.289,22.353-37.942,0h-1.334l16.447,23.485V38.671h1.093V23.482L-5.714,0Z" transform="translate(39.276)"/>
+      </g>
+      <g id="Group_13532" data-name="Group 13532" transform="translate(74.186 -47.112)">
+        <path id="Path_14302" data-name="Path 14302" class="cls-13" d="M-6.9,0V37.153L-37.325,0h-1.217V38.671h1.093V1.573l30.376,37.1h1.26V0Z" transform="translate(38.542)"/>
+      </g>
+      <g id="Group_13533" data-name="Group 13533" transform="translate(0 -47.113)">
+        <path id="Path_14303" data-name="Path 14303" class="cls-13" d="M-3.622,0-20.215,38.673h1.19L-3.3,2.023l15.289,36.65h1.185L-2.959,0Z" transform="translate(20.215)"/>
+      </g>
+      <path id="Path_14304" data-name="Path 14304" class="cls-13" d="M145.561-8.441h1.093V-47.112h-1.093Z" transform="translate(-26.077 0)"/>
+    </g>
+    <g id="Group_8849" data-name="Group 8849">
+      <text id="Buscar-2" data-name="Buscar" class="cls-10" transform="translate(1037.813 119)"><tspan x="0" y="0">Buscar</tspan></text>
+      <line id="Line_3457-2" data-name="Line 3457" class="cls-11" x2="199" transform="translate(1037.5 126.5)"/>
+      <path id="Path_1358-2" data-name="Path 1358" class="cls-12" d="M883.085-1650.7l3.575,3.576-.782.782-3.575-3.576a5.667,5.667,0,0,1-3.613,1.295,5.689,5.689,0,0,1-5.689-5.689,5.689,5.689,0,0,1,5.689-5.689,5.689,5.689,0,0,1,5.689,5.689A5.666,5.666,0,0,1,883.085-1650.7Zm-4.4-8.164a4.551,4.551,0,0,0-4.552,4.552,4.552,4.552,0,0,0,4.552,4.551,4.552,4.552,0,0,0,4.552-4.551A4.551,4.551,0,0,0,878.689-1658.863Z" transform="translate(344.37 1766)"/>
+    </g>
+    <rect id="Captura_de_pantalla_2018-04-23_a_la_s_14.58.31" data-name="Captura de pantalla 2018-04-23 a la(s) 14.58.31" class="cls-14" width="17.428" height="20" transform="translate(1129.775 177) rotate(90)"/>
+    <g id="Group_11569" data-name="Group 11569">
+      <g id="Group_8950" data-name="Group 8950" transform="translate(1073.256 339)">
+        <line id="Line_3349" data-name="Line 3349" class="cls-15" x2="8.832" y2="8.832"/>
+        <line id="Line_3350" data-name="Line 3350" class="cls-15" y1="8.832" x2="8.832"/>
+      </g>
+      <text id="Cerrar" class="cls-16" transform="translate(1088 347)"><tspan x="0" y="0">Cerrar</tspan></text>
+    </g>
+    <text id="Compras" class="cls-17" transform="translate(1184.813 66)"><tspan x="0" y="0">Compras</tspan></text>
+    <text id="Mi_Cuenta" data-name="Mi Cuenta" class="cls-17" transform="translate(1091.813 66)"><tspan x="0" y="0">Mi Cuenta</tspan></text>
+    <g id="Group_11765" data-name="Group 11765" transform="translate(1163.961 49.219)">
+      <path id="Path_1345" data-name="Path 1345" class="cls-18" d="M36.14,22.129v-.88a4.249,4.249,0,1,0-8.5,0v.88H24V36.393a.609.609,0,0,0,.607.607H39.174a.609.609,0,0,0,.607-.607V22.129H36.14Zm-7.284-.85a3.035,3.035,0,0,1,6.07,0v.88h-6.07Zm9.712,14.507H25.214V23.343h2.428v3.976h1.214V23.343h6.07v3.976H36.14V23.343h2.428Z" transform="translate(-24 -17)"/>
+    </g>
+    <g id="Group_11766" data-name="Group 11766" transform="translate(1065.834 49.219)">
+      <g id="Group_2" data-name="Group 2" transform="translate(0)">
+        <g id="Mask_Group_1" data-name="Mask Group 1" class="cls-19" transform="translate(0 9.75)">
+          <g id="Ellipse_1" data-name="Ellipse 1" class="cls-1" transform="translate(2.25 2.25)">
+            <ellipse class="cls-27" cx="9.75" cy="9" rx="9.75" ry="9"/>
+            <ellipse class="cls-28" cx="9.75" cy="9" rx="8.9" ry="8.15"/>
+          </g>
+        </g>
+        <g id="Ellipse_2" data-name="Ellipse 2" class="cls-1" transform="translate(6.75)">
+          <ellipse class="cls-27" cx="5.625" cy="5.625" rx="5.625" ry="5.625"/>
+          <ellipse class="cls-28" cx="5.625" cy="5.625" rx="4.775" ry="4.775"/>
+        </g>
+      </g>
+    </g>
+    <g class="cls-30" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <g id="Rectangle_9529-2" data-name="Rectangle 9529" class="cls-20" transform="translate(802 83)">
+        <rect class="cls-27" width="478" height="279" rx="6"/>
+        <rect class="cls-28" x="0.5" y="0.5" width="477" height="278" rx="5.5"/>
+      </g>
+    </g>
+    <g id="Group_13429" data-name="Group 13429" transform="translate(891.582 -1784.423)">
+      <path id="Path_1418" data-name="Path 1418" class="cls-21" d="M0,0,18.43,13.808H32.8V55.3H0Z" transform="translate(135.878 2310.485)"/>
+      <path id="Path_13883" data-name="Path 13883" class="cls-21" d="M0,0,18.43,13.808H32.8L18.43,37.408,0,55.3Z" transform="translate(260.019 2310.71)"/>
+      <path id="Path_13882" data-name="Path 13882" class="cls-21" d="M0,0,18.43,13.808H32.8L18.43,37.408,0,55.3Z" transform="translate(148.019 2262.71)"/>
+      <path id="Path_13884" data-name="Path 13884" class="cls-21" d="M0,0,18.43,13.808H32.8L18.43,37.408,0,55.3Z" transform="translate(27.019 2346.71)"/>
+      <path id="Path_1421" data-name="Path 1421" class="cls-21" d="M0,0,18.43,13.808H32.8L18.43,37.408,0,55.3Z" transform="translate(59.504 2262.71)"/>
+      <path id="Path_1422" data-name="Path 1422" class="cls-21" d="M0,0,18.43,13.808H32.8L18.43,37.408,0,55.3Z" transform="translate(310.507 1916.203)"/>
+      <path id="Path_1424" data-name="Path 1424" class="cls-21" d="M0,0,18.43,13.808H32.8L18.43,37.408,0,55.3Z" transform="translate(40.601 1870.814)"/>
+      <path id="Path_1425" data-name="Path 1425" class="cls-21" d="M0,0,18.43,13.808H32.8L18.43,37.408,0,55.3Z" transform="translate(-25.617 1922.671)"/>
+      <path id="Path_1426" data-name="Path 1426" class="cls-21" d="M0,0,18.43,13.808H32.8L18.43,37.408,0,55.3Z" transform="translate(181.015 1888.591)"/>
+      <path id="Path_14275" data-name="Path 14275" class="cls-21" d="M0,0,18.43,13.808H32.8L18.43,37.408,0,55.3Z" transform="translate(255.015 1888.591)"/>
+      <path id="Path_14274" data-name="Path 14274" class="cls-21" d="M0,0,18.43,13.808H32.8L18.43,37.408,0,55.3Z" transform="translate(107.015 1894.591)"/>
+    </g>
+    <text id="_No_hay_compras_registradas." data-name="
+No hay compras registradas." class="cls-22" transform="translate(868 146)"><tspan class="cls-23"><tspan x="170.6" y="27"></tspan></tspan><tspan class="cls-24"><tspan x="71.672" y="57">No hay compras </tspan><tspan x="98.464" y="87">registradas.</tspan></tspan></text>
+    <g id="Group_13583" data-name="Group 13583" transform="translate(895 -614)">
+      <rect id="Rectangle_9425" data-name="Rectangle 9425" class="cls-25" width="208" height="46" transform="translate(39 894)"/>
+      <text id="AGREGAR_A_COMPRAS" data-name="AGREGAR A COMPRAS" class="cls-26" transform="translate(68 922)"><tspan x="0" y="0">AGREGAR A COMPRAS</tspan></text>
+    </g>
+  </g>
+</svg>

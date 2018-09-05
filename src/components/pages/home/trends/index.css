@@ -1,0 +1,142 @@
+.home-trends{
+    width: 100%;
+    height: auto;
+}
+
+.home-trends__title{
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-top: 65px;
+}
+
+.home-trends__title__t1{
+    font-size: 40px;
+    font-style: italic;
+    font-family: 'Times New Roman';
+    color: #000000;
+}
+
+.home-trends__title__t2{
+    font-size: 41px;
+    font-family: GOTHAM-XLIGHT; /* Pendiente de revision  */
+    color: #686260;
+}
+
+.home-trends__container{
+    height: 400px;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 40px;
+}
+
+.home-trends__container__content{
+    width: 320px;
+    height: 300px;
+    border-top: 2px #CBC8C8 solid; 
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+
+.home-trends__container__content__image{
+    width: 319.54px;
+    height: 180.01px;
+    border: 1px #CBC8C8 solid;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+}
+
+.home-trends__container__content__category{
+    font-size: 13px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Times New Roman';
+    color: #393939;
+    text-align: left;
+}
+
+.home-trends__container__content__description{
+    font-size: 20px;
+    color: #393939;
+    text-align: left;
+}
+
+.home-trends__container__content__description__caption{
+    font-family: GOTHAM-MEDIUM;
+}
+
+.home-trends__container__content__description__body{
+    font-family: GOTHAM-LIGHT;
+}
+
+/* link VER MAS */
+.home-trends__see-more{
+    width: auto;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-trends__see-more__content{
+    width: 85px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.home-trends__see-more__content__icon{
+    width: 8px;
+    height: 8px;
+    background-image: url('http://localhost:3000/icons/simple-skip.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+}
+
+.home-trends__see-more__content__text{
+    color: #686260;
+    font-size: 14px;
+    font-family: GOTHAM-BOLD;
+    font-weight: bold;
+    text-decoration: underline;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 800px){
+    .home-trends__title{
+        height: 47px;
+    }
+    .home-trends__title__t1{
+        font-size: 18px;
+        font-family: 'Times New Roman';
+        font-style: italic;
+    }
+    .home-trends__title__t2{
+        font-size: 20px;
+        font-family: GOTHAM-LIGHT;
+    }
+    .home-trends__container{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: auto;
+    }
+    .home-trends__container__content{
+        width: 90%;
+        padding-bottom: 50px;
+    }
+    
+    .home-trends__see-more{
+        height: auto;
+        padding-bottom: 40px;
+    }
+}

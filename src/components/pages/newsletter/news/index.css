@@ -1,0 +1,32 @@
+
+
+.newsletter-news{
+    margin: auto;
+    width: 94.9%;   /* default: 1280px aprox. */
+    display: flex;
+    flex-direction: column;
+}
+.newsletter-news__container{
+    padding-top: 182.66px;
+}
+
+/* small main from shop catalog panels sm-main, hidden for desktop */
+.newsletter-news__container__smmain{
+    display: none;
+}
+
+/* Mobile version */
+@media only screen and (max-width: 800px){
+    .newsletter-news{
+        width: 100%;
+    }
+    .newsletter-news__container{
+        padding-top: 58px;
+    }
+    /* small main from shop catalog panels sm-main, shown for mobile */
+    .newsletter-news__container__smmain{
+        width: 100%;
+        display: block;
+    }
+    /*******************************************************************/
+}

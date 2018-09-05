@@ -1,0 +1,203 @@
+.detail-customizer{
+    width: 324.16px;
+    height: 642px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.detail-customizer__text1{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+.detail-customizer__text1__name{
+    font-size: 18px;
+    font-family: Gotham-book;
+    color: #686260;
+}
+.detail-customizer__text1__price{
+    font-size: 30px;
+    font-family: 'Times New Roman';
+    color: #000000;
+    font-style: italic;
+    font-weight: bold;
+}
+.detail-customizer__text2{
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-size: 13px;
+    font-family: Gotham-book;
+    color: #000000;
+    text-align: left;
+    border-top: 1px #F6F7F9 solid;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-bottom: 1px #F6F7F9 solid;
+}
+.detail-customizer__choose{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.detail-customizer__choose__left{
+    height: 105.34px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.detail-customizer__choose label{
+    font-size: 15px;
+    font-family: GOTHAM-MEDIUM;
+    color: #5C5C5C;
+    text-align: left;
+}
+.detail-customizer__choose select{
+    border-radius: 4px;
+    border: 2px #393939 solid;
+    width: 150px;
+    height: 40px;
+    font-family: GOTHAM-BOLD;
+    font-size: 13px;
+    text-align: left;
+    color: #393939;
+    padding-left: 8px;
+    outline: none;
+}
+.detail-customizer__choose__left__guia{
+    font-size: 16px;
+    font-family: GOTHAM-MEDIUM;
+    color: #393939;
+    text-align: left;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.detail-customizer__choose__right{
+    height: 71px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.detail-customizer__quantity{
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.detail-customizer__quantity__counter{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 105.62px;
+    height: 40px;
+    border: none;
+    border-radius: 20px;
+    font-weight: bold;
+    background-color: #ECE9E6;
+    box-sizing: border-box;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: GOTHAM-BOLD;
+    font-size: 16px;
+    color: #212121;
+}
+.detail-customizer__quantity__counter button{
+    width: 10px;
+    height: 15px;
+    border: none;
+    background-color: inherit;
+    outline: none;
+    cursor: pointer;
+    font-weight: bold;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+.detail-customizer__quantity__counter .minus{
+    background-image: url('http://localhost:3000/icons/minus.png');
+}
+.detail-customizer__quantity__counter .plus{
+    background-image: url('http://localhost:3000/icons/plus.png');
+}
+.detail-customizer__quantity__start-to-buy{
+    width: 208px;
+    height: 46px;
+    background-color: #000000;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-family: Raleway-Bold;
+    border: none;
+    outline: none;
+}
+.detail-customizer__selection{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.detail-customizer__selection__content{
+    width: 100%;
+    height: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px #000000 solid;
+    padding-top: 10px;
+}
+.detail-customizer__selection__content__text{
+    font-size: 13px;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    color: #000000;
+}
+.detail-customizer__selection__content__icon{
+    width: 8.25px;
+    height: 6.63px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-image: url('http://localhost:3000/icons/collapse.png');
+    cursor: pointer;
+}
+.detail-customizer__share{
+    width: 60%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;    
+}
+.detail-customizer__share__text{
+    font-size: 14px;
+    font-family: GOTHAM-BOLD;
+    color: #000000;
+}
+.detail-customizer__share__icon{
+    width: 86px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.detail-customizer__share__icon__fb{
+    width: 37px;
+    height: 37px;
+    border: 1.5px #686260 solid;
+    border-radius: 20px;
+    background-image: url('http://localhost:3000/icons/facebook.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 45% 45%;
+    cursor: pointer;
+}
+.detail-customizer__share__icon__insta{
+    width: 37px;
+    height: 37px;
+    border: 1.5px #686260 solid;
+    border-radius: 20px;
+    background-image: url('http://localhost:3000/icons/Instagram.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 55% 55%;
+    cursor: pointer;
+}

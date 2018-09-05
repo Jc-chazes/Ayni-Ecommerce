@@ -1,0 +1,267 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 3034">
+  <defs>
+    <style>
+      .cls-1, .cls-18, .cls-22, .cls-24, .cls-26, .cls-4, .cls-6 {
+        fill: none;
+      }
+
+      .cls-1, .cls-4, .cls-5, .cls-8 {
+        stroke: #393939;
+      }
+
+      .cls-1 {
+        stroke-width: 1.7px;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-TERMS_AND_CONDITIONS);
+      }
+
+      .cls-11, .cls-21, .cls-3, .cls-5, .cls-7, .cls-8 {
+        fill: #393939;
+      }
+
+      .cls-3 {
+        font-size: 13px;
+        font-family: Raleway-Medium, Raleway;
+      }
+
+      .cls-20, .cls-3 {
+        font-weight: 500;
+      }
+
+      .cls-4 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-5 {
+        stroke-width: 0.5px;
+      }
+
+      .cls-14, .cls-5 {
+        fill-rule: evenodd;
+      }
+
+      .cls-6 {
+        stroke: #ece9e6;
+      }
+
+      .cls-11, .cls-7 {
+        font-size: 12px;
+      }
+
+      .cls-7 {
+        font-family: Raleway-SemiBold, Raleway;
+        font-weight: 600;
+      }
+
+      .cls-8 {
+        stroke-width: 0.2px;
+      }
+
+      .cls-9 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-10 {
+        fill: #2b2e34;
+      }
+
+      .cls-11, .cls-17, .cls-21 {
+        font-family: Gotham-Bold, Gotham;
+      }
+
+      .cls-11, .cls-13, .cls-17, .cls-21 {
+        font-weight: 700;
+      }
+
+      .cls-12, .cls-19, .cls-23 {
+        fill: #686260;
+      }
+
+      .cls-13, .cls-14, .cls-15, .cls-16, .cls-17 {
+        fill: #fff;
+      }
+
+      .cls-13 {
+        font-size: 16px;
+        font-family: Raleway-Bold, Raleway;
+      }
+
+      .cls-16 {
+        font-size: 11px;
+        font-family: SegoeUI, Segoe UI;
+        opacity: 0.5;
+      }
+
+      .cls-17, .cls-21 {
+        font-size: 14px;
+      }
+
+      .cls-17 {
+        opacity: 0.8;
+      }
+
+      .cls-18 {
+        stroke: #dfdede;
+      }
+
+      .cls-19 {
+        font-size: 10px;
+        font-family: Gotham-Book, Gotham;
+      }
+
+      .cls-20 {
+        font-family: Gotham-Medium, Gotham;
+      }
+
+      .cls-22 {
+        stroke: #000;
+        stroke-width: 2px;
+      }
+
+      .cls-23 {
+        font-size: 40px;
+        font-family: TimesNewRomanPS-ItalicMT, Times New Roman;
+        font-style: italic;
+      }
+
+      .cls-24 {
+        stroke: #707070;
+      }
+
+      .cls-25 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_16" data-name="Rectangle 16" class="cls-1" width="24" height="9.644"/>
+    </clipPath>
+    <clipPath id="clip-TERMS_AND_CONDITIONS">
+      <rect width="1280" height="3034"/>
+    </clipPath>
+  </defs>
+  <g id="TERMS_AND_CONDITIONS" data-name="TERMS AND CONDITIONS" class="cls-2">
+    <rect class="cls-15" width="1280" height="3034"/>
+    <g id="Group_14047" data-name="Group 14047" transform="translate(-497 60)">
+      <text id="Buscar" class="cls-3" transform="translate(1037.813 119)"><tspan x="0" y="0">Buscar</tspan></text>
+      <line id="Line_3457" data-name="Line 3457" class="cls-4" x2="199" transform="translate(1037.5 126.5)"/>
+      <path id="Path_1358" data-name="Path 1358" class="cls-5" d="M883.085-1650.7l3.575,3.576-.782.782-3.575-3.576a5.667,5.667,0,0,1-3.613,1.295,5.689,5.689,0,0,1-5.689-5.689,5.689,5.689,0,0,1,5.689-5.689,5.689,5.689,0,0,1,5.689,5.689A5.666,5.666,0,0,1,883.085-1650.7Zm-4.4-8.164a4.551,4.551,0,0,0-4.552,4.552,4.552,4.552,0,0,0,4.552,4.551,4.552,4.552,0,0,0,4.552-4.551A4.551,4.551,0,0,0,878.689-1658.863Z" transform="translate(344.37 1766)"/>
+    </g>
+    <line id="Line_3768" data-name="Line 3768" class="cls-6" x2="1280" transform="translate(0.5 155.5)"/>
+    <text id="Compras" class="cls-7" transform="translate(1184.813 66)"><tspan x="0" y="0">Compras</tspan></text>
+    <text id="Mi_Cuenta" data-name="Mi Cuenta" class="cls-7" transform="translate(1091.813 66)"><tspan x="0" y="0">Mi Cuenta</tspan></text>
+    <g id="Group_14048" data-name="Group 14048" transform="translate(1163.961 49.219)">
+      <path id="Path_1345" data-name="Path 1345" class="cls-8" d="M36.14,22.129v-.88a4.249,4.249,0,1,0-8.5,0v.88H24V36.393a.609.609,0,0,0,.607.607H39.174a.609.609,0,0,0,.607-.607V22.129H36.14Zm-7.284-.85a3.035,3.035,0,0,1,6.07,0v.88h-6.07Zm9.712,14.507H25.214V23.343h2.428v3.976h1.214V23.343h6.07v3.976H36.14V23.343h2.428Z" transform="translate(-24 -17)"/>
+    </g>
+    <g id="Group_14049" data-name="Group 14049" transform="translate(1065.834 49.219)">
+      <g id="Group_2" data-name="Group 2" transform="translate(0)">
+        <g id="Mask_Group_1" data-name="Mask Group 1" class="cls-9" transform="translate(0 9.75)">
+          <g id="Ellipse_1" data-name="Ellipse 1" class="cls-1" transform="translate(2.25 2.25)">
+            <ellipse class="cls-25" cx="9.75" cy="9" rx="9.75" ry="9"/>
+            <ellipse class="cls-26" cx="9.75" cy="9" rx="8.9" ry="8.15"/>
+          </g>
+        </g>
+        <g id="Ellipse_2" data-name="Ellipse 2" class="cls-1" transform="translate(6.75)">
+          <ellipse class="cls-25" cx="5.625" cy="5.625" rx="5.625" ry="5.625"/>
+          <ellipse class="cls-26" cx="5.625" cy="5.625" rx="4.775" ry="4.775"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_14050" data-name="Group 14050" transform="translate(580.158 90.447)">
+      <g id="Group_13531" data-name="Group 13531" transform="translate(32.574 -47.112)">
+        <path id="Path_14301" data-name="Path 14301" class="cls-10" d="M-7.036,0-22.289,22.353-37.942,0h-1.334l16.447,23.485V38.671h1.093V23.482L-5.714,0Z" transform="translate(39.276)"/>
+      </g>
+      <g id="Group_13532" data-name="Group 13532" transform="translate(74.186 -47.112)">
+        <path id="Path_14302" data-name="Path 14302" class="cls-10" d="M-6.9,0V37.153L-37.325,0h-1.217V38.671h1.093V1.573l30.376,37.1h1.26V0Z" transform="translate(38.542)"/>
+      </g>
+      <g id="Group_13533" data-name="Group 13533" transform="translate(0 -47.113)">
+        <path id="Path_14303" data-name="Path 14303" class="cls-10" d="M-3.622,0-20.215,38.673h1.19L-3.3,2.023l15.289,36.65h1.185L-2.959,0Z" transform="translate(20.215)"/>
+      </g>
+      <path id="Path_14304" data-name="Path 14304" class="cls-10" d="M145.561-8.441h1.093V-47.112h-1.093Z" transform="translate(-26.077 0)"/>
+    </g>
+    <g id="Group_14051" data-name="Group 14051" transform="translate(-2209 2294)">
+      <text id="COLECTIONS" class="cls-11" transform="translate(2882 -2162)"><tspan x="0" y="0">COLECTIONS</tspan></text>
+      <text id="OUR_UNIVERSE" data-name="OUR UNIVERSE" class="cls-11" transform="translate(2667 -2162)"><tspan x="0" y="0">OUR UNIVERSE</tspan></text>
+      <text id="HOME" class="cls-11" transform="translate(2594 -2162)"><tspan x="0" y="0">HOME</tspan></text>
+      <text id="NEWSLETTER" class="cls-11" transform="translate(3018 -2162)"><tspan x="0" y="0">NEWSLETTER</tspan></text>
+      <g id="Group_13534" data-name="Group 13534" transform="translate(4)">
+        <g id="Group_12953" data-name="Group 12953" transform="translate(-2606.813 8971)">
+          <text id="SHOP" class="cls-11" transform="translate(5400.813 -11133)"><tspan x="0" y="0">SHOP</tspan></text>
+        </g>
+        <path id="Path_14305" data-name="Path 14305" d="M-15030.5-5914.125h8.25l-4.125,6.625Z" transform="translate(17866 3744.125)"/>
+      </g>
+      <path id="Path_14352" data-name="Path 14352" d="M-15030.5-5914.125h8.25l-4.125,6.625Z" transform="translate(18005 3744.125)"/>
+    </g>
+    <g id="Group_14058" data-name="Group 14058" transform="translate(176 -203)">
+      <rect id="Rectangle_9680" data-name="Rectangle 9680" class="cls-12" width="1280" height="318" transform="translate(-176 2919)"/>
+      <text id="_ayniuniverse" data-name="@ayniuniverse" class="cls-13" transform="translate(276.534 3128)"><tspan x="0" y="0">@ayniuniverse</tspan></text>
+      <g id="Group_14052" data-name="Group 14052" transform="translate(249 3116)">
+        <path id="Path_3" data-name="Path 3" class="cls-14" d="M7.844,1.395a24.053,24.053,0,0,1,3.138.087,4.043,4.043,0,0,1,1.482.261,3.061,3.061,0,0,1,1.482,1.482,4.043,4.043,0,0,1,.261,1.482c0,.784.087,1.046.087,3.138a24.052,24.052,0,0,1-.087,3.138,4.043,4.043,0,0,1-.261,1.482,3.061,3.061,0,0,1-1.482,1.482,4.043,4.043,0,0,1-1.482.261c-.784,0-1.046.087-3.138.087a24.052,24.052,0,0,1-3.138-.087,4.043,4.043,0,0,1-1.482-.261,3.061,3.061,0,0,1-1.482-1.482,4.043,4.043,0,0,1-.261-1.482c0-.784-.087-1.046-.087-3.138a24.053,24.053,0,0,1,.087-3.138,4.043,4.043,0,0,1,.261-1.482,3.13,3.13,0,0,1,.61-.872,1.474,1.474,0,0,1,.872-.61,4.043,4.043,0,0,1,1.482-.261,24.053,24.053,0,0,1,3.138-.087M7.844,0A25.754,25.754,0,0,0,4.62.087,5.381,5.381,0,0,0,2.7.436a3.412,3.412,0,0,0-1.395.872A3.412,3.412,0,0,0,.436,2.7,3.971,3.971,0,0,0,.087,4.62,25.754,25.754,0,0,0,0,7.844a25.754,25.754,0,0,0,.087,3.225,5.381,5.381,0,0,0,.349,1.918,3.412,3.412,0,0,0,.872,1.395,3.412,3.412,0,0,0,1.395.872A5.381,5.381,0,0,0,4.62,15.6a25.753,25.753,0,0,0,3.225.087,25.753,25.753,0,0,0,3.225-.087,5.381,5.381,0,0,0,1.918-.349,3.657,3.657,0,0,0,2.266-2.266,5.381,5.381,0,0,0,.349-1.918c0-.872.087-1.133.087-3.225A25.753,25.753,0,0,0,15.6,4.62,5.381,5.381,0,0,0,15.253,2.7a3.412,3.412,0,0,0-.872-1.395A3.412,3.412,0,0,0,12.987.436,5.381,5.381,0,0,0,11.069.087,25.754,25.754,0,0,0,7.844,0m0,3.835A3.945,3.945,0,0,0,3.835,7.844,4.009,4.009,0,1,0,7.844,3.835m0,6.624A2.568,2.568,0,0,1,5.23,7.844,2.568,2.568,0,0,1,7.844,5.23a2.568,2.568,0,0,1,2.615,2.615,2.568,2.568,0,0,1-2.615,2.615M12.028,2.7a.959.959,0,1,0,.959.959.967.967,0,0,0-.959-.959" transform="translate(0 0)"/>
+      </g>
+      <g id="Group_14053" data-name="Group 14053" transform="translate(-5046.465 -111)">
+        <text id="_ayniuniverse-2" data-name="@ayniuniverse" class="cls-13" transform="translate(5490 3239)"><tspan x="0" y="0">@ayniuniverse</tspan></text>
+      </g>
+      <g id="Group_14054" data-name="Group 14054" transform="translate(-4872.465 -111)">
+        <text id="_ayni-universe" data-name="@ayni-universe" class="cls-13" transform="translate(5490 3239)"><tspan x="0" y="0">@ayni-universe</tspan></text>
+      </g>
+      <path id="Path_14446" data-name="Path 14446" class="cls-14" d="M84.83,14.251V7.759h2.217l.317-2.534H84.83V3.642c0-.713.238-1.267,1.267-1.267h1.346V.079C87.126.079,86.334,0,85.463,0a3.056,3.056,0,0,0-3.246,3.325v1.9H80V7.759h2.217v6.492Z" transform="translate(344 3115.5)"/>
+      <g id="Group_14055" data-name="Group 14055" transform="translate(595 3116)">
+        <path id="Path_14307" data-name="Path 14307" class="cls-15" d="M1.571,1h0a1.564,1.564,0,0,0-1.11.457A1.561,1.561,0,0,0,.471,3.681a1.531,1.531,0,0,0,1.085.441H1.59a1.536,1.536,0,0,0,1.064-.441A1.562,1.562,0,0,0,1.571,1"/>
+        <path id="Path_14308" data-name="Path 14308" class="cls-15" d="M10.645,154.7H9.069a.579.579,0,0,0-.569.587v6.82a.591.591,0,0,0,.585.582h1.56a.586.586,0,0,0,.585-.571v-6.834a.593.593,0,0,0-.585-.585" transform="translate(-8.306 -150.189)"/>
+        <path id="Path_14309" data-name="Path 14309" class="cls-15" d="M175.693,146.2h-.411a2.628,2.628,0,0,0-1.953.854v-.27a.422.422,0,0,0-.391-.391h-1.948a.4.4,0,0,0-.391.365v7.272a.383.383,0,0,0,.391.352h2.145a.383.383,0,0,0,.391-.352v-4.2a1.1,1.1,0,0,1,1.877-.813,1.073,1.073,0,0,1,.265.8v4.18a.422.422,0,0,0,.391.391h1.948a.424.424,0,0,0,.391-.391v-5.027a2.706,2.706,0,0,0-2.7-2.766" transform="translate(-166.703 -141.884)"/>
+      </g>
+      <text id="_2018_AYNI_UNIVERSE._Todos_los_derechos_reservados." data-name="© 2018, AYNI UNIVERSE. Todos los derechos reservados." class="cls-16" transform="translate(328 3190)"><tspan x="0" y="0">© 2018, AYNI UNIVERSE. Todos los derechos reservados.</tspan></text>
+      <g id="Group_14056" data-name="Group 14056" transform="translate(-116 -1842)">
+        <text id="Shipping_Returns" data-name="Shipping &amp; Returns" class="cls-17" transform="translate(398 4847)"><tspan x="0" y="0">Shipping &amp; Returns</tspan></text>
+        <text id="Payment_Methods" data-name="Payment Methods" class="cls-17" transform="translate(571 4847)"><tspan x="0" y="0">Payment Methods</tspan></text>
+        <text id="Frequent_Questions" data-name="Frequent Questions" class="cls-17" transform="translate(735 4847)"><tspan x="0" y="0">Frequent Questions</tspan></text>
+        <text id="Size_Guide" data-name="Size Guide" class="cls-17" transform="translate(285 4847.5)"><tspan x="0" y="0">Size Guide</tspan></text>
+      </g>
+      <g id="Group_14057" data-name="Group 14057" transform="translate(-188 -1842)">
+        <g id="Group_13886" data-name="Group 13886" transform="translate(-21)">
+          <text id="STORES" class="cls-17" transform="translate(423 4899)"><tspan x="0" y="0">STORES</tspan></text>
+          <g id="Rectangle_9658" data-name="Rectangle 9658" class="cls-18" transform="translate(403 4879)">
+            <rect class="cls-25" width="97" height="29"/>
+            <rect class="cls-26" x="0.5" y="0.5" width="96" height="28"/>
+          </g>
+        </g>
+        <g id="Group_13887" data-name="Group 13887">
+          <text id="TERMS_CONDITIONS" data-name="TERMS &amp; CONDITIONS" class="cls-17" transform="translate(537 4899)"><tspan x="0" y="0">TERMS &amp; CONDITIONS</tspan></text>
+          <g id="Rectangle_9659" data-name="Rectangle 9659" class="cls-18" transform="translate(517 4879)">
+            <rect class="cls-25" width="201" height="29"/>
+            <rect class="cls-26" x="0.5" y="0.5" width="200" height="28"/>
+          </g>
+        </g>
+        <g id="Group_13888" data-name="Group 13888" transform="translate(-4)">
+          <text id="PRIVACY_POLICY" data-name="PRIVACY POLICY" class="cls-17" transform="translate(782 4899)"><tspan x="0" y="0">PRIVACY POLICY</tspan></text>
+          <g id="Rectangle_9660" data-name="Rectangle 9660" class="cls-18" transform="translate(760 4879)">
+            <rect class="cls-25" width="166" height="29"/>
+            <rect class="cls-26" x="0.5" y="0.5" width="165" height="28"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="Our_company_AYNI_Design_Lab_S.A.C._is_a_corporation_organized_under_the_laws_of_the_State_of_New_York_Company_us_or_we_._We_own_the_website_www.ayni.pe_Site_._These_Terms_and_Conditions_apply_to_our_Site_and_govern_your_use_of_our_Site._PLEA" data-name="Our company, AYNI Design Lab S.A.C., is a corporation organized under the laws of the State of New York (“Company”, “us”, or “we”). We own the website www.ayni.pe (“Site”). These Terms and Conditions apply to our Site and govern your use of our Site.
+
+PLEA" class="cls-19" transform="translate(154 365)"><tspan x="0" y="10">Our company, AYNI Design Lab S.A.C., is a corporation organized under the laws of the State of New York (“Company”, “us”, or “we”). We own the website www.ayni.pe (“Site”). These Terms and </tspan><tspan x="0" y="25">Conditions apply to our Site and govern your use of our Site.</tspan><tspan x="0" y="40"></tspan><tspan x="0" y="55">PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY AS THEY CONSTITUTE A BINDING AGREEMENT BETWEEN OUR COMPANY AND YOU (“YOU” OR “USER”). BY USING OUR SITE, YOU </tspan><tspan x="0" y="70">AGREE TO BE BOUND BY THESE TERMS AND CONDITIONS AND OUR ADDITIONAL POLICIES REFERENCED HEREIN SUCH AS OUR PRIVACY POLICY (AVAILABLE AT THE FOLLOWING LINK: </tspan><tspan x="0" y="85">http://ayni.pe/privacy-policy-cookie-restriction-mode ) AND OUR TERMS OF SALE (AVAILABLE AT THE FOLLOWING LINK: http://www.ayni.pe/shipping-returns) WHICH ARE EXPRESSLY </tspan><tspan x="0" y="100">INCORPORATED HEREIN BY REFERENCE.</tspan><tspan x="0" y="115"></tspan><tspan class="cls-20"><tspan x="0" y="130">BY USING OUR SITE, YOU ALSO REPRESENT THAT YOU ARE AT LEAST THE AGE OF MAJORITY IN YOUR STATE OR PROVINCE OF RESIDENCE.</tspan></tspan><tspan x="0" y="145"></tspan><tspan x="0" y="160">These Terms and Conditions apply to any purchase you make from our Site. We reserve the right to change or modify any of these Terms and Conditions at any time, and in our sole discretion. Any </tspan><tspan x="0" y="175">change or modification will be effective immediately when we post the revised Terms and Conditions to our Site. Your continued use of our Site following our posting of a revised Terms and </tspan><tspan x="0" y="190">Conditions means that you agree and accept our revised Terms and Conditions. We therefore recommend that you frequently review these Terms and Conditions and any other applicable policies on </tspan><tspan x="0" y="205">our Site, such as our Privacy Policy, to understand the terms and conditions that apply to your use of our Site. If you do not agree to these Terms and Conditions or any revised version of these Terms </tspan><tspan x="0" y="220">and Conditions, your only option is to stop using our Site. Any new features or tools which are added to our Site shall also be subject to these Terms and Conditions or any updated version of them as </tspan><tspan x="0" y="235">the case may be.</tspan><tspan x="0" y="250"></tspan><tspan class="cls-20"><tspan x="0" y="265">PRODUCTS ON OUR SITE</tspan></tspan><tspan x="0" y="280">Certain products may be available exclusively online through our Site and/or may be one-of-a-kind products. These products may have limited quantities and are sold “as is.” We have made every </tspan><tspan x="0" y="295">effort to display as accurately as possible the colors and images of our products that appear on our Site. We cannot, however, guarantee that your computer monitor’s display of any color will be </tspan><tspan x="0" y="310">accurate. We reserve the right, but are not obligated, to limit the sales of our products to any person, geographic region or jurisdiction. We may exercise this right on a case-by-case basis at our sole </tspan><tspan x="0" y="325">discretion. We reserve the right to limit the quantities of any products that we offer or sell through our Site. Prices for our products are subject to change at our sole discretion without notice and </tspan><tspan x="0" y="340">without liability to you or to any third party. All descriptions of products or product pricing are subject to change at any time by us without notice, at our sole discretion. We reserve the right to </tspan><tspan x="0" y="355">discontinue any product at any time. Any offer for any product made on our Site is void where prohibited. We do not warrant that the quality of any products or other material purchased or obtained </tspan><tspan x="0" y="370">by you will meet your expectations, or that any errors or omissions in the products will be corrected.</tspan><tspan x="0" y="385"></tspan><tspan x="0" y="400">We also reserve the right to refuse to exchange products or refund the purchase price if any products returned to us by you do not meet our return policy requirements as set forth in our Terms of </tspan><tspan x="0" y="415">Sale available at the above link.</tspan><tspan x="0" y="430"></tspan><tspan class="cls-20"><tspan x="0" y="445">OUR SITE’S CONTENT</tspan></tspan><tspan x="0" y="460">Our Site and all of the content and other materials, including but not limited to, our trademarks and logos, and all designs, text, graphics, pictures, selection, coordination, “look and feel”, information, </tspan><tspan x="0" y="475">data, software, other files and the selection and arrangement thereof (collectively, the “Site Content”) are owned by us, are our proprietary property or, as applicable, our licensors or service providers </tspan><tspan x="0" y="490">and are protected by copyright, trademark, trade dress, unfair competition, and/or patent laws in the United States and other jurisdictions.</tspan><tspan x="0" y="505"></tspan><tspan class="cls-20"><tspan x="0" y="520">TRADEMARKS ON OUR SITE</tspan></tspan><tspan x="0" y="535">The name “Ulla Johnson” and any of its accompanying logos or stylized versions, and any other product or service name or slogan shown on our Site, whether registered or not, are our trademarks or </tspan><tspan x="0" y="550">our licensors’, service providers’, or suppliers’ trademarks, and may not be used, copied, or imitated, in whole or in part, without our express prior written permission or from the applicable trademark </tspan><tspan x="0" y="565">owner(s). You may not use any metatags or any other “hidden text” utilizing our name or trademarks or any other name, trademark or product or service name of ours without our express prior </tspan><tspan x="0" y="580">written permission. All other trademarks, whether registered or not, or product names and logos shown on our Site, are the property of their respective owners.</tspan><tspan x="0" y="595"></tspan><tspan class="cls-20"><tspan x="0" y="610">YOUR USE OF OUR SITE</tspan></tspan><tspan x="0" y="625">You are granted a personal, non-exclusive, limited, non-sublicensable, non-transferable license to access and use our Site solely for purposes for which the Site is intended, and electronically copy and </tspan><tspan x="0" y="640">print to hard copy, limited portions of our Site Content only for your informational, non-commercial and personal use. The foregoing limited license is subject to these Terms and Conditions and does </tspan><tspan x="0" y="655">not include: (1) any resale or commercial use of our Site or our Site Content; (2) the distribution, public performance or public display of any Site Content; (3) modifying or otherwise making any </tspan><tspan x="0" y="670">derivative works or uses of our Site or Site Content, or any portion thereof; (4) the collection and use of any product listings, pictures or descriptions for commercial purposes; (5) use of any </tspan><tspan x="0" y="685">automated means to access, monitor or interact with any portion of our Site, including through data mining, robots, spiders, scraping, or similar data gathering or extraction methods; (6) </tspan><tspan x="0" y="700">downloading, except for caching, any portion of our Site, the Site Content or any information contained therein, except as expressly permitted on our Site; (7) any right to make appear any pop-up, </tspan><tspan x="0" y="715">pop-under, exit windows, expanding buttons, banners, advertisement, or anything else which minimizes, covers, or frames or inhibits the full display of our Site; (8) the use of our Site in any way which </tspan><tspan x="0" y="730">interferes with the normal operation of the Site; or (9) any use of our Site or the Site Content other than for their intended purposes.</tspan><tspan x="0" y="745"></tspan><tspan x="0" y="760">Any use of our Site or the Site Content other than as specifically authorized by these Terms and Conditions, without our express prior written permission, or that is unlawful or that may result in any </tspan><tspan x="0" y="775">harm or injury to someone is strictly prohibited and will result in immediate termination of the limited license granted to you under these Terms and Conditions. Any unauthorized use may also violate </tspan><tspan x="0" y="790">applicable laws, including without limitation copyright and trademark laws and applicable communications regulations and statutes. Unless explicitly stated in these Terms and Conditions, nothing in </tspan><tspan x="0" y="805">these Terms and Conditions shall be construed as granting any license to you to any intellectual property rights owned by us or third parties, whether by estoppel, implication, or otherwise. The </tspan><tspan x="0" y="820">foregoing limited license is revocable by us at any time and in our sole discretion.</tspan><tspan x="0" y="835"></tspan><tspan class="cls-20"><tspan x="0" y="850">ACCURACY OF BILLING AND ACCOUNT INFORMATION</tspan></tspan><tspan x="0" y="865">You agree to provide current, complete and accurate purchase and account information for all purchases made through our Site. You agree to promptly update your account and other information, </tspan><tspan x="0" y="880">including your email address and credit card numbers and expiration dates, so that we can complete your transactions and contact you as needed.</tspan><tspan x="0" y="895"></tspan><tspan x="0" y="910">We reserve the right to refuse any order you place with us. We may, in our sole discretion, limit or cancel quantities purchased per person, per household or per order. These restrictions may include </tspan><tspan x="0" y="925">orders placed by or under the same customer account, the same credit card, and/or orders that use the same billing and/or shipping address. In the event that we make a change to or cancel an </tspan><tspan x="0" y="940">order, we may attempt to notify you by contacting the e-mail and/or billing address/phone number provided at the time the order was made. We reserve the right to limit or prohibit orders that, in </tspan><tspan x="0" y="955">our sole judgment, appear to be placed by dealers, resellers or distributors.</tspan><tspan x="0" y="970"></tspan><tspan class="cls-20"><tspan x="0" y="985">THIRD PARTY LINKS AND CONTENT</tspan></tspan><tspan x="0" y="1000">Our Site may provide links to other third party websites and content, including social media websites or payment processors (“Third Party Links and Content”) as a matter of convenience to those </tspan><tspan x="0" y="1015">interested in this information or wishing to purchase products from our Site. We do not monitor or have any control over any Third Party Links and Content or third party websites. Therefore, your use </tspan><tspan x="0" y="1030">of any third party websites or content may be subject to such third parties’ terms and conditions or their privacy policies. We do not endorse any Third Party Links and Content and make no </tspan><tspan x="0" y="1045">guarantee as to their accuracy or completeness. We do not represent or warrant the accuracy of any information contained therein, and undertake no responsibility to update or review any Third </tspan><tspan x="0" y="1060">Party Links and Content. You therefore use or access these Third Party Links and Content at your own risk. For example, we use the services of PayPal for payments. If you choose to use PayPal to </tspan><tspan x="0" y="1075">purchase goods from our Site, your usage of PayPal’s website or services will be governed by PayPal’s Terms and Conditions and privacy policy, both of which can be found at the link below:</tspan><tspan x="0" y="1090"></tspan><tspan x="0" y="1105">https://www.paypal.com/webapps/mpp/ua/legalhub-full?country.x=US&amp;locale.x=en_US</tspan><tspan x="0" y="1120"></tspan><tspan class="cls-20"><tspan x="0" y="1135">USER SUBMISSIONS</tspan></tspan><tspan x="0" y="1150">If you submit anything to us through our Site, you acknowledge and agree that any such materials, including but not limited to, questions, comments, feedback, suggestions, ideas, plans, notes, </tspan><tspan x="0" y="1165">drawings, original or creative materials or other information (“User Submissions”), regarding our Site, us, or our products or services that are provided by you are non-confidential and non-proprietary </tspan><tspan x="0" y="1180">and shall become our sole property. We will own all exclusive rights, including all intellectual property rights, and will be entitled to the unrestricted use and dissemination of these User Submissions </tspan><tspan x="0" y="1195">for any purpose, commercial or otherwise, without acknowledgment or compensation to you. You therefore grant to us and our affiliates, business partners, service partners, and sub-licensees an </tspan><tspan x="0" y="1210">unrestricted, worldwide, royalty-free, non-exclusive license and right to use the User Submissions and the name that you submit in connection with such User Submissions. You represent and warrant </tspan><tspan x="0" y="1225">that: (1) you own and control all of the rights to the User Submissions that you submit, or that you otherwise have the right to submit such User Submissions to our Site; (2) the User Submissions are </tspan><tspan x="0" y="1240">accurate and not misleading; and (3) our use or posting of the User Submissions you supply will not violate any rights of or cause injury to any person or entity.</tspan><tspan x="0" y="1255"></tspan><tspan x="0" y="1270">Indemnification</tspan><tspan x="0" y="1285"></tspan><tspan x="0" y="1300">You agree to defend, indemnify and hold us, and our independent contractors, service providers, affiliates, business partners, and consultants, and their respective directors, employees, and agents, </tspan><tspan x="0" y="1315">from and against any claims, damages, costs, liabilities, and expenses (including, but not limited to, reasonable attorneys’ fees) arising out of or related to any User Submissions or User Generated </tspan><tspan x="0" y="1330">Content you post, store or otherwise transmit on or through our Site or your use of or inability to use our Site, including without limitation any actual or threatened suit, demand or claim made against </tspan><tspan x="0" y="1345">us, or any of the above-named foregoing parties, arising out of or relating to the Site Content, your conduct, your violation of these Terms and Conditions or your violation of the rights of any third </tspan><tspan x="0" y="1360">party.</tspan><tspan x="0" y="1375"></tspan><tspan class="cls-20"><tspan x="0" y="1390">WARRANTY DISCLAIMER</tspan></tspan><tspan x="0" y="1405">OUR SITE, ITS CONTENT AND ANY PRODUCTS, SERVICES, OR OTHER ITEMS PURCHASED OR OBTAINED THROUGH OUR SITE ARE PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS, </tspan><tspan x="0" y="1420">WITHOUT ANY WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED. YOUR USE OF OUR SITE, ITS CONTENT AND ANY PRODUCTS, SERVICES, OR OTHER ITEMS OBTAINED THROUGH OUR </tspan><tspan x="0" y="1435">SITE IS AT YOUR OWN RISK. WE DISCLAIM ALL WARRANTIES, WHETHER EXPRESS IMPLIED, OR STATUTORY, INCLUDING, WITHOUT LIMITATION, ANY WARRANTIES OF TITLE, </tspan><tspan x="0" y="1450">NONINFRINGEMENT OF THIRD PARTY RIGHTS, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, ACCURACY, AND QUIET ENJOYMENT. INFORMATION AT OUR SITE MAY NOT BE </tspan><tspan x="0" y="1465">CURRENT AT THE MOMENT YOU VISIT OUR SITE AND MAY CONTAIN ERRORS OR OMISSIONS. NEITHER WE NOR ANY PERSON ASSOCIATED WITH US MAKES ANY WARRANTY OR </tspan><tspan x="0" y="1480">REPRESENTATION WITH RESPECT TO THE COMPLETENESS, SECURITY, RELIABILITY, QUALITY, ACCURACY OR AVAILABILITY OF OUR SITE OR ITS CONTENT. WITHOUT LIMITING THE </tspan><tspan x="0" y="1495">FOREGOING, NEITHER WE NOR ANYONE ASSOCIATED WITH US REPRESENTS OR WARRANTS THAT OUR SITE, ITS CONTENT OR ANY PRODUCTS, SERVICES, OR OTHER ITEMS OBTAINED </tspan><tspan x="0" y="1510">THROUGH OUR SITE WILL BE ACCURATE, RELIABLE, ERROR-FREE OR UNINTERRUPTED, THAT DEFECTS WILL BE CORRECTED, THAT OUR SITE OR THE SERVER(S) THAT MAKES IT AVAILABLE </tspan><tspan x="0" y="1525">ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS OR THAT OUR SITE OR ANY SERVICES OR ITEMS OBTAINED THROUGH OUR SITE WILL OTHERWISE MEET YOUR NEEDS OR </tspan><tspan x="0" y="1540">EXPECTATIONS.</tspan><tspan x="0" y="1555"></tspan><tspan class="cls-20"><tspan x="0" y="1570">LIMITATION OF LIABILITY</tspan></tspan><tspan x="0" y="1585">IN NO EVENT WILL WE, OUR AFFILIATES OR THEIR RESPECTIVE LICENSORS, SERVICE PROVIDERS, EMPLOYEES, AGENTS, OFFICERS OR DIRECTORS BE LIABLE FOR DAMAGES OF ANY KIND, </tspan><tspan x="0" y="1600">UNDER ANY LEGAL THEORY, ARISING OUT OF OR IN CONNECTION WITH YOUR USE, OR INABILITY TO USE, OUR SITE, ANY SITES LINKED TO IT, ANY CONTENT ON OUR SITE OR SUCH OTHER </tspan><tspan x="0" y="1615">WEBSITES OR ANY PRODUCTS, SERVICES, OR OTHER ITEMS OBTAINED THROUGH OUR SITE OR SUCH OTHER WEBSITES, INCLUDING ANY DIRECT, INDIRECT, SPECIAL, INCIDENTAL, </tspan><tspan x="0" y="1630">EXEMPLARY, CONSEQUENTIAL OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO, PERSONAL INJURY, PAIN AND SUFFERING, EMOTIONAL DISTRESS, LOSS OF REVENUE, LOSS OF </tspan><tspan x="0" y="1645">PROFITS, LOSS OF BUSINESS OR ANTICIPATED SAVINGS, LOSS OF USE, LOSS OF GOODWILL, LOSS OF DATA, AND WHETHER CAUSED BY TORT (INCLUDING NEGLIGENCE), BREACH OF </tspan><tspan x="0" y="1660">CONTRACT OR OTHERWISE, EVEN IF FORESEEABLE AND WHETHER OR NOT COMPANY WAS ADVISED OF THE POSSIBILITY OF SUCH DAMAGES, ON ANY THEORY OF LIABILITY. AND TO THE </tspan><tspan x="0" y="1675">EXTENT THAT WE ARE FOUND LIABLE AS TO ANY CLAIM NOT LIMITED BY THE FOREGOING OR WAIVED BY YOU UNDER THESE TERMS AND CONDITIONS, OUR TOTAL LIABLITY FOR ANY AND </tspan><tspan x="0" y="1690">ALL SUCH CLAIMS SHALL BE LIMITED TO FIFTY DOLLARS ($50) IN THE AGGREGATE.</tspan><tspan x="0" y="1705"></tspan><tspan x="0" y="1720">WE WILL NOT BE LIABLE FOR ANY LOSS OR DAMAGE CAUSED BY A DISTRIBUTED DENIAL-OF-SERVICE ATTACK, VIRUSES OR OTHER TECHNOLOGICALLY HARMFUL MATERIAL THAT MAY </tspan><tspan x="0" y="1735">INFECT YOUR COMPUTER EQUIPMENT, COMPUTER PROGRAMS, DATA OR OTHER PROPRIETARY MATERIAL DUE TO YOUR USE OF OUR SITE OR ANY SERVICES OR ITEMS OBTAINED THROUGH </tspan><tspan x="0" y="1750">OUR SITE OR TO YOUR DOWNLOADING OF ANY MATERIAL POSTED ON IT, OR ON ANY WEBSITE LINKED TO IT.</tspan><tspan x="0" y="1765"></tspan><tspan class="cls-20"><tspan x="0" y="1780">GOVERNING LAW AND VENUE; WAIVER OF JURY</tspan></tspan><tspan x="0" y="1795">These Terms and Conditions and your use of our Site are and will be governed by and construed in accordance with the laws of the State of New York, applicable to agreements made and to be </tspan><tspan x="0" y="1810">entirely performed within the State of New York, without resort to its conflict of law principles or provisions. You agree that any action at law or in equity arising out of or relating to these Terms and </tspan><tspan x="0" y="1825">Conditions or your use of our Site shall be filed only in the state and federal courts located in New York, New York and you hereby irrevocably and unconditionally consent and submit to the exclusive </tspan><tspan x="0" y="1840">jurisdiction of such courts over any suit, action or proceeding arising out of these Terms and Conditions, your use of our Site, or any purchase you make from our Site. BY YOUR USE OF OUR SITE </tspan><tspan x="0" y="1855">YOU ALSO HEREBY WAIVE YOUR RIGHT TO A TRIAL BY JURY WITH RESPECT TO ANY CLAIM, ACTION OR PROCEEDING, DIRECTLY OR INDIRECTLY, ARISING OUT OF, OR RELATING TO THESE </tspan><tspan x="0" y="1870">TERMS AND CONDITIONS TO THE FULLEST EXTENT PERMITTED BY LAW.</tspan><tspan x="0" y="1885"></tspan><tspan class="cls-20"><tspan x="0" y="1900">CHANGES TO THESE TERMS AND CONDITIONS</tspan></tspan><tspan x="0" y="1915">You agree that we may modify these Terms and Conditions and any other policies on our Site at any time and that posting the modified Terms and Conditions or policies on our Site will constitute </tspan><tspan x="0" y="1930">sufficient notice to you of such modification. Your continued use of our Site following our posting of such modified Terms and Conditions or policies will constitute your agreement to such modified </tspan><tspan x="0" y="1945">Terms and Conditions or policies.</tspan><tspan x="0" y="1960"></tspan><tspan class="cls-20"><tspan x="0" y="1975">TERMINATION</tspan></tspan><tspan x="0" y="1990">Notwithstanding anything contained in these Terms and Conditions, we reserve the right, without notice to you and in our sole discretion, to terminate your license to use or access our Site, to block </tspan><tspan x="0" y="2005">or prevent your future access to and use of our Site, or refuse to sell you any products or services through our Site.</tspan><tspan x="0" y="2020"></tspan><tspan class="cls-20"><tspan x="0" y="2035">ENTIRE AGREEMENT</tspan></tspan><tspan x="0" y="2050">The failure of us to exercise or enforce any right or provision of these Terms and Conditions shall not constitute a waiver of such right or provision. These Terms and Conditions and any policies or </tspan><tspan x="0" y="2065">operating rules posted by us on our Site or in respect of any products or services provided through our Site constitutes the entire agreement and understanding between you and us and govern your </tspan><tspan x="0" y="2080">use of our Site, superseding any prior or contemporaneous agreements, communications and proposals, whether oral or written, between you and us (including, but not limited to, any prior versions </tspan><tspan x="0" y="2095">of these Terms and Conditions). Any ambiguities in the interpretation of these Terms and Conditions shall not be construed against us no any of our licensors or service providers.</tspan><tspan x="0" y="2110"></tspan><tspan class="cls-20"><tspan x="0" y="2125">SEVERABILITY</tspan></tspan><tspan x="0" y="2140">If any provision of these Terms and Conditions shall be deemed unlawful, void or for any reason unenforceable, then that provision shall be deemed severable from these Terms and Conditions and </tspan><tspan x="0" y="2155">shall not affect the validity and enforceability of any remaining provisions.</tspan><tspan x="0" y="2170"></tspan><tspan class="cls-20"><tspan x="0" y="2185">QUESTIONS &amp; CONTACT INFORMATION</tspan></tspan><tspan x="0" y="2200">If you have any questions, please do not hesitate to contact us at: inquiries@ayni.pe</tspan></text>
+    <g id="Group_14059" data-name="Group 14059" transform="translate(2 566)">
+      <g id="Group_13704" data-name="Group 13704" transform="translate(-33.944 421)">
+        <text id="Volver_a_HOME" data-name="Volver a HOME" class="cls-21" transform="translate(621.606 1680)"><tspan x="0" y="0">Volver a HOME</tspan></text>
+      </g>
+      <g id="Group_13722" data-name="Group 13722" transform="translate(-2250.424 4157.805) rotate(180)">
+        <g id="Group_7551" data-name="Group 7551" transform="translate(-2886 2042)">
+          <g id="Group_8064" data-name="Group 8064" transform="translate(43.475 9.911)">
+            <path id="Path_588" data-name="Path 588" class="cls-22" d="M0,.731,6.41,0,5.68,6.41" transform="translate(55.174 5.702) rotate(45)"/>
+            <line id="Line_3242" data-name="Line 3242" class="cls-22" x2="39.533" transform="translate(20.025 10.235)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="Group_14060" data-name="Group 14060" transform="translate(0.5)">
+      <text id="Terms_Condicions" data-name="Terms &amp; Condicions" class="cls-23" transform="translate(640 301)"><tspan x="-164.844" y="0">Terms &amp; Condicions</tspan></text>
+      <line id="Line_3769" data-name="Line 3769" class="cls-24" x2="47" transform="translate(379.5 287.5)"/>
+      <line id="Line_3770" data-name="Line 3770" class="cls-24" x2="47" transform="translate(853.5 287.5)"/>
+    </g>
+  </g>
+</svg>

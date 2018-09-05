@@ -1,0 +1,80 @@
+.header-mobile{
+    display: none;
+}
+
+@media only screen and (max-width: 800px){
+    .header-mobile{
+        display: block;
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        border-bottom: 1px #ccc solid;
+    }
+
+    /* <- Left <- */
+    .header-mobile__top{
+        width: 100%;
+        height: 58px;
+        display: flex;
+        justify-content: space-between;
+        /*border:  1px black solid;*/
+    }
+    .header-mobile__top__main-logo{
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+        width: 35%;
+    }
+    .header-mobile__top__main-logo__main{
+        background-image: url('http://localhost:3000/icons/sharp_menu_black_18dp.png');
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: center;
+        width: 24px;
+        height: 24px;
+    }
+    .header-mobile__top__main-logo__logo{
+        background-image: url('http://localhost:3000/images/logo-jpg.jpg');
+        background-repeat: no-repeat;
+        background-size: 100% 140%;
+        background-position: center;
+        width: 81.24px;
+        height: 26.06px;
+    }
+
+    /* -> Right -> */
+    .header-mobile__top__icons{
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        width: 33%;
+    }
+    .header-mobile__top__icons__search{
+        background-image: url('http://localhost:3000/icons/search.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-position: center;
+        width: 18.32px;
+        height: 18.32px;
+    }
+    .header-mobile__top__icons__user{
+        background-image: url('http://localhost:3000/icons/user-icon.png');
+        background-repeat: no-repeat;
+        background-size: 250% 300%;
+        background-position: center -16px;
+        width: 22.6px;
+        height: 18.27px;
+    }
+    .header-mobile__top__icons__purchases{
+        background-image: url('http://localhost:3000/icons/purchases.png');
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: center;
+        width: 14.07px;
+        height: 17.83px;
+    }
+
+    /* OPTIONS */
+    
+}

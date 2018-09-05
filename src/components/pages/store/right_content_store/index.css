@@ -1,0 +1,71 @@
+.right_content_store_maps-container {
+    padding-top: 4%;
+    width: 68%;
+    padding-left: 30px;
+    display: flex;
+    flex-direction: column;
+}
+/*.findus_stores_maps-container_header {
+    display: flex;
+    width: 700px;
+    height: 105px;
+}
+.findus_stores_maps-container_header_search{
+    display: flex;
+    width: calc(100% - 145px);
+    -ms-flex-align: end;
+    align-items: flex-end;
+    margin-left: 33px;
+}
+.findus_stores_maps-container_header_search input {
+    height: 36px;
+    width: 386px;
+    border-radius: 4px;
+    border: 1px solid #C6BCB3;
+    font-family: Raleway;
+    font-size: 14px;
+    padding-left: 12px;
+    width: 100%;
+}
+.findus_stores_maps-container_header_search_button {
+    width: 123px;
+    height: 40px;
+    background-color: #C6BCB3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Raleway;
+    font-size: 14px;
+    font-weight: bold;
+    color: #fff;
+    border-radius: 4px;
+}*/
+.right_content_store_maps-container_map{
+    width: 700px;
+    height: 485px;
+    margin-top: 0px;
+}
+
+@media screen and (max-width:700px){
+    .right_content_store_maps-container_header {
+        display: flex;
+        width: 300px;
+    
+    }
+    
+    .right_content_store_maps-container_map {
+    
+        width: 300px;
+        height: 485px;
+        margin-top: 20px;
+    
+    }
+    .right_content_store_maps-container {
+
+        width: 297px;
+        padding-left: 0px;
+        display: flex;
+        flex-direction: column;
+    
+    }
+}

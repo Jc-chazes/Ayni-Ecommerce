@@ -1,0 +1,108 @@
+
+
+.newsletter-cover-page{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.newsletter-cover-page__background{
+    width: 1169.4px;
+    height: 605px;
+    background-color: darkgrey;;
+    display: flex;
+    align-items: flex-end;
+    box-sizing: border-box;
+    padding-left: 145px;
+    padding-bottom: 55px;
+    background-image: url('https://magazinefeed.me/wp-content/uploads/2018/01/tendencias-moda-2018.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+    
+}
+.newsletter-cover-page__background__content{
+    width: 403px;
+    height: 165px;
+    color: #FFFFFF;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: rgba(0, 0, 0, 0.5); /* this can be delete, doesn't belong to template*/
+}
+.newsletter-cover-page__background__content__text1{
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+}
+.newsletter-cover-page__background__content__text2{
+    font-size: 49px;
+    font-family: GOTHAM-LIGHT;
+}
+.newsletter-cover-page__background__content__text3{
+    font-size: 15px;
+    font-family: GOTHAM-LIGHT;
+}
+.newsletter-cover-page__background__content__button{
+    width: 100%;
+    height: 55px;
+    display: flex;
+    align-items: flex-end;
+}
+.newsletter-cover-page__background__content__button button{
+    width: 180px;
+    height: 43px;
+    background-color: #000000;
+    color: #FFFFFF;
+    font-family: GOTHAM-BOLD;
+    font-size: 13px;
+    background-image: url('http://localhost:3000/icons/baseline_arrow_forward_ios_white_18dp.png');
+    background-repeat: no-repeat;
+    background-size: 10px 11px;
+    background-position: 128px 17px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    text-align: left;
+    padding-left: 45px;
+}
+
+/* Mobile version */
+@media only screen and (max-width: 800px){
+    .newsletter-cover-page__background{
+        width: 100%;
+        height: 525px;
+        background-size: 250% 100%;
+        background-position: 50% 0%;
+        padding-left: 25px;
+        padding-bottom: 65px;
+    }
+    .newsletter-cover-page__background__content{
+        width: 100%;
+        height: auto;
+    }
+    .newsletter-cover-page__background__content__text1{
+        font-size: 14px;        
+    }
+    .newsletter-cover-page__background__content__text2{
+        font-size: 35px;
+        height: 45px;
+    }
+    .newsletter-cover-page__background__content__text3{
+        font-size: 15px;
+        height: 40px;
+    }
+    .newsletter-cover-page__background__content__button{
+        width: 100%;
+        height: 31.29px;
+    }
+    .newsletter-cover-page__background__content__button button{
+        width: 130.9px;
+        height: 100%;
+        font-size: 9px;
+        padding-left: 32px;
+        background-size: 8px 9px;
+        background-position: 90px 11px;
+    }
+}

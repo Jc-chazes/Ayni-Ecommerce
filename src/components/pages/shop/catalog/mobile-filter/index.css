@@ -1,0 +1,101 @@
+
+.shop-mobile-filter{
+    display: none;
+}
+@media only screen and (max-width: 800px){
+    .shop-mobile-filter{
+        display: block;
+        width: 100%;
+        height: 190px;
+        /*position: relative;*/
+    }
+    .shop-mobile-filter__body{
+        width: 100%;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        padding-top: 70px;
+    }
+    .shop-mobile-filter__body__garments-option{
+        width: 100%;
+        height: auto;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .shop-mobile-filter__body__garments-option__content{
+        width: 88%;
+        height: 43px;
+        background-color: #686260;
+        color: #FFFFFF;
+        font-family: GOTHAM-BOLD;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border: none;
+        outline: none;
+        font-size: 13px;
+        background-image: url('http://localhost:3000/icons/sharp_arrow_drop_down_white_18dp.png');
+        background-size: 20px 30px;
+        background-position: 98% 50%;
+        background-repeat: no-repeat;
+    }
+    .shop-mobile-filter__body__filter-option{
+        width: 88%;
+        height: 43px;
+        border: 1px #686260 solid;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        color: #686260;
+        font-family: GOTHAM-BOLD;
+        background-color: inherit;
+        outline: none;
+    }
+    .shop-mobile-filter__body__order-model{
+        width: 88%;
+        display: flex;
+        justify-content: space-between;
+    }
+    .shop-mobile-filter__body__order-model__content-left{
+        width: 48%;
+        height: auto;
+    }
+    .shop-mobile-filter__body__order-model__content-left__order{
+        width: 100%;
+        height: 43px;
+        background-color: inherit;
+        border: 1px #686260 solid;
+        outline: none;
+        text-align: left;
+        font-size: 10px;
+        font-family: Gotham-book;
+        background-image: url('http://localhost:3000/icons/collapse.png');
+        background-size: 8.25px 6.63px;
+        background-position: 93% 50%;
+        background-repeat: no-repeat;
+        padding-left: 15px;
+    }
+    .shop-mobile-filter__body__order-model__content-right{
+        width: 48%;
+        height: auto;
+    }
+    .shop-mobile-filter__body__order-model__content-right__model{
+        width: 100%;
+        height: 43px;
+        background-color: inherit;
+        border: 1px #686260 solid;
+        outline: none;
+        text-align: left;
+        font-size: 10px;
+        font-family: Gotham-book;
+        background-image: url('http://localhost:3000/icons/collapse.png');
+        background-size: 8.25px 6.63px;
+        background-position: 93% 50%;
+        background-repeat: no-repeat;
+        padding-left: 15px;
+    }
+}

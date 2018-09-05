@@ -1,0 +1,29 @@
+
+
+@media only screen and (max-width: 800px){
+    .mobile-option-all-garments{
+        width: 87%;
+        position: absolute;
+        transform: translateY(196px);
+        transition-duration: 0.5s;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding-top: 10px;
+        padding-bottom: 60px;
+        border: 1px #686260 solid;
+        background-color: white;        
+    }
+    .mobile-option-all-garments__content{
+        font-size: 18px;
+        font-family: 'Times New Roman';
+        font-style: italic;
+        border-bottom: 1px #707070 solid;
+        height: 55px;
+        width: 80%;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+    }
+}

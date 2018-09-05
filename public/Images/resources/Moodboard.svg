@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1018 1051">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Moodboard);
+      }
+
+      .cls-2 {
+        fill: url(#pattern);
+      }
+
+      .cls-3 {
+        fill: url(#pattern-2);
+      }
+
+      .cls-4 {
+        fill: url(#pattern-3);
+      }
+
+      .cls-5 {
+        fill: url(#pattern-4);
+      }
+
+      .cls-6 {
+        fill: url(#pattern-5);
+      }
+
+      .cls-7 {
+        fill: url(#pattern-6);
+      }
+
+      .cls-8 {
+        fill: url(#pattern-7);
+      }
+
+      .cls-9 {
+        fill: url(#pattern-8);
+      }
+
+      .cls-10 {
+        fill: url(#pattern-9);
+      }
+
+      .cls-11 {
+        fill: url(#pattern-10);
+      }
+
+      .cls-12 {
+        fill: #fff;
+      }
+    </style>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 8000 3947">
+      <image width="8000" height="3947" xlink:href="../FOTOS%20AYNI/AYNI_FOTOS_Mesa%20de%20trabajo%201.jpg"/>
+    </pattern>
+    <pattern id="pattern-2" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 8001 3897">
+      <image width="8001" height="3897" xlink:href="../FOTOS%20AYNI/AYNI_FOTOS-02.jpg"/>
+    </pattern>
+    <pattern id="pattern-3" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 2664 1494">
+      <image width="2664" height="1494" xlink:href="../FOTOS%20AYNI/AYNI_FOTOS-03.jpg"/>
+    </pattern>
+    <pattern id="pattern-4" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 3005 4500">
+      <image width="3005" height="4500" xlink:href="../FOTOS%20AYNI/AYNI_FOTOS-04.jpg"/>
+    </pattern>
+    <pattern id="pattern-5" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 1068 1600">
+      <image width="1068" height="1600" xlink:href="Moodboard-image3.jpg"/>
+    </pattern>
+    <pattern id="pattern-6" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 1068 1600">
+      <image width="1068" height="1600" xlink:href="Moodboard-image4.jpg"/>
+    </pattern>
+    <pattern id="pattern-7" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 1068 1600">
+      <image width="1068" height="1600" xlink:href="Moodboard-image5.jpg"/>
+    </pattern>
+    <pattern id="pattern-8" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 977 1464">
+      <image width="977" height="1464" xlink:href="Moodboard-image6.jpg"/>
+    </pattern>
+    <pattern id="pattern-9" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 1030 1544">
+      <image width="1030" height="1544" xlink:href="Moodboard-image7.jpg"/>
+    </pattern>
+    <pattern id="pattern-10" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 689 1033">
+      <image width="689" height="1033" xlink:href="Moodboard-image8.jpg"/>
+    </pattern>
+    <clipPath id="clip-Moodboard">
+      <rect width="1018" height="1051"/>
+    </clipPath>
+  </defs>
+  <g id="Moodboard" class="cls-1">
+    <rect class="cls-12" width="1018" height="1051"/>
+    <rect id="AYNI_FOTOS_Mesa_de_trabajo_1" data-name="AYNI_FOTOS_Mesa de trabajo 1" class="cls-2" width="622" height="307.5" transform="translate(33 33)"/>
+    <rect id="AYNI_FOTOS-02" class="cls-3" width="413.5" height="201.5" transform="translate(79 356)"/>
+    <rect id="AYNI_FOTOS-03" class="cls-4" width="302" height="170" transform="translate(675 33)"/>
+    <rect id="AYNI_FOTOS-04" class="cls-5" width="302.5" height="452" transform="translate(675 215)"/>
+    <image id="AYNI69840-3" width="134.457" height="201.44" transform="translate(508.907 356.333)" xlink:href="Moodboard-image.jpg"/>
+    <image id="AYNI69945-1" width="154.84" height="231.933" transform="translate(13.794 573.333)" xlink:href="Moodboard-image2.jpg"/>
+    <rect id="AYNI70021" class="cls-6" width="154.44" height="232.333" transform="translate(175.901 573.333)"/>
+    <rect id="AYNI70297" class="cls-7" width="154.44" height="232.333" transform="translate(337.606 573.333)"/>
+    <rect id="AYNI70646" class="cls-8" width="155.44" height="233.333" transform="translate(499.313 572.333)"/>
+    <rect id="AYNI70885-1" class="cls-9" width="170.577" height="255.12" transform="translate(840.021 674.333)"/>
+    <rect id="AYNI71166-2" class="cls-10" width="137.233" height="206.187" transform="translate(14.026 813.333)"/>
+    <rect id="AYNI71463-1" class="cls-11" width="174.537" height="260.723" transform="translate(659.527 668.333)"/>
+    <image id="AYNI_FOTOS-07" width="137.852" height="206.434" transform="translate(295.647 813.243)" xlink:href="../FOTOS%20AYNI/AYNI_FOTOS-07.jpg"/>
+    <image id="AYNI_FOTOS-10" width="68.169" height="102.083" transform="translate(223.646 813.243)" xlink:href="../FOTOS%20AYNI/AYNI_FOTOS-10.jpg"/>
+    <image id="AYNI_FOTOS-08" width="68.169" height="102.083" transform="translate(155.317 917.594)" xlink:href="../FOTOS%20AYNI/AYNI_FOTOS-08.jpg"/>
+    <image id="AYNI_FOTOS-09" width="68.169" height="102.083" transform="translate(155 813.243)" xlink:href="../FOTOS%20AYNI/AYNI_FOTOS-09.jpg"/>
+    <image id="AYNI_FOTOS-06" width="68.169" height="102.083" transform="translate(223.646 917.594)" xlink:href="../FOTOS%20AYNI/AYNI_FOTOS-06.jpg"/>
+  </g>
+</svg>

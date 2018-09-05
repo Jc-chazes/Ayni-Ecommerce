@@ -1,0 +1,282 @@
+.checkout_confirm-page {
+    width: 100%;
+    height: 800px;
+}
+.checkout__confirm-page__container {
+    display: flex;
+    justify-content: center;
+}
+.checkout__confirm-page__container__box-content {
+    width: 875px;
+    border-radius: 6px;
+    border: 1px solid #ECE9E6;
+    display: flex;
+    flex-direction: column;
+    padding: 31px 50px 58px 50px;
+    justify-content: space-between;
+}
+.checkout__confirm-page__container__box-content__info {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.checkout__confirm-page__container__box-content__info__column-left {
+    width: calc(100% - 363px);
+    height: 263px;
+    border-right: 2px solid #ECE9E6;
+    padding: 21px 58px 28px 0px;
+    display: flex;
+    flex-direction: row;
+}
+.checkout__confirm-page__container__box-content__info__column-left__info {
+    width: 50%;
+    height: 248px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.checkout__confirm-page__container__box-content__info__column-left__info__delivery {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    justify-content: space-between;
+    height: 145px;
+}
+.checkout__confirm-page__container__box-content__info__column-left__info__delivery__title {
+    font-family: Raleway-Bold;
+    font-size: 13px;
+    color: #C6BCB3;
+}
+.checkout__confirm-page__container__box-content__info__column-left__info__delivery__column-left {
+    display: flex;
+    flex-direction: column;
+    width: 30px;
+    height: 38px;
+    justify-content: space-between;
+}
+.checkout__confirm-page__container__box-content__info__column-left__info__delivery__column-left__name-icon {
+    width: 19px;
+    height: 16px;
+    background-image: url(http://localhost:3000/icons/user_name.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.checkout__confirm-page__container__box-content__info__column-left__info__delivery__column-left__address-icon {
+    width: 19px;
+    height: 16px;
+    background-image: url(http://localhost:3000/icons/checkout-address.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.checkout__confirm-page__container__box-content__info__column-left__info__delivery__column-right {
+    display: flex;
+    flex-direction: column;
+    width: calc(100% - 30px);
+    justify-content: space-between;
+    height: 110px;
+   
+}
+.checkout__confirm-page__container__box-content__info__column-left__info__delivery__column-right__user {
+    font-size: 12px;
+    color: #212121;
+    font-family: Raleway-Medium;
+}
+.checkout__confirm-page__container__box-content__info__column-left__info__delivery__column-right__district {
+    font-size: 12px;
+    color: #212121;
+    font-family: Raleway-Medium;
+}
+.checkout__confirm-page__container__box-content__info__column-left__info__delivery__column-right__address {
+    font-size: 12px;
+    color: #212121;
+    font-family: Raleway-Medium;
+}
+.checkout__confirm-page__container__box-content__info__column-left__info__delivery__column-right__int {
+    font-family: Raleway;
+    font-size: 12px;
+    color: #212121;
+}
+.checkout__confirm-page__container__box-content__info__column-left__info__delivery__column-right__phone{
+    font-size: 12px;
+    color: #212121;
+    font-family: Raleway-Medium;
+}
+.checkout__confirm-page__container__box-content__info__column-left__info__delivery__column-right__email {
+    font-size: 12px;
+    color: #212121;
+    font-family: Raleway-Medium;
+}
+.checkout__confirm-page__container__box-content__info__column-left__info__payment {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    justify-content: space-between;
+    height: 73px;
+}
+.checkout__confirm-page__container__box-content__info__column-left__info__payment__title {
+    font-family: Raleway-Bold;
+    font-size: 13px;
+    color: #C6BCB3;
+}
+.checkout__confirm-page__container__box-content__info__column-left__info__payment__column-left {
+    display: flex;
+    flex-direction: column;
+    width: 30px;
+    height: 38px;
+    justify-content: space-between;
+}
+.checkout__confirm-page__container__box-content__info__column-left__info__payment__column-left__card-icon {
+    width: 19px;
+    height: 16px;
+    background-image: url(http://localhost:3000/icons/checkout-card.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;   
+}
+.checkout__confirm-page__container__box-content__info__column-left__info__payment__column-right {
+    display: flex;
+    flex-direction: column;
+    width: calc(100% - 30px);
+    justify-content: space-between;
+    height: 28px;
+}
+.checkout__confirm-page__container__box-content__info__column-left__info__payment__column-right__nro-card {
+    font-family: Raleway-Medium;
+    font-size: 12px;
+    color: #212121;
+}
+.checkout__confirm-page__container__box-content__info__column-left__info__payment__column-right__date {
+    font-family: Raleway-Medium;
+    font-size: 12px;
+    color: #B7B7B7;
+}
+.checkout__confirm-page__container__box-content__info__column-right {
+    width: 253px;
+    padding-left: 50px;
+    text-align: right;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; 
+}
+.checkout__confirm-page__container__box-content__info__column-right__title {
+    font-family: Raleway-Bold;
+    font-size: 13px;
+    color: #C6BCB3;
+    text-align: left;
+}
+.checkout__confirm-page__container__box-content__info__column-right__container-products {
+    border-top: 1px solid #EEEBE9;
+    text-align: left;
+}
+.checkout__confirm-page__container__box-content__info__column-right__container-products__item {
+    border-bottom: 1px solid #EEEBE9;
+    height: 60px;
+    padding: 13px 0px 11px 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.checkout__confirm-page__container__box-content__info__column-right__container-products__item__image-description__image {
+    width: 60px;
+    height: 60px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.checkout__confirm-page__container__box-content__info__column-right__container-products__item__image-description {
+    display: flex;
+    flex-direction: row;
+}
+.checkout__confirm-page__container__box-content__info__column-right__container-products__item__image-description__description {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.checkout__confirm-page__container__box-content__info__column-right__container-products__item__image-description__description__name {
+    font-family: Raleway-Medium;
+    font-size: 12px;
+    color: #212121;
+}
+.checkout__confirm-page__container__box-content__info__column-right__container-products__item__image-description__description__other {
+    font-family: Raleway-Medium;
+    font-size: 12px;
+    color: #868686; 
+}
+.checkout__confirm-page__container__box-content__info__column-right__container-products__item__image-description__price {
+    font-family: Raleway-Medium;
+    font-size: 12px;
+    color: #393939;
+    width: 65px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    text-align: right;
+}
+.checkout__confirm-page__container__box-content__info__column-right__container-sub-total {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 178px;
+    margin-left: 75px;
+    height: 88px;
+}
+.checkout__confirm-page__container__box-content__info__column-right__container-sub-total__column-left{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.checkout__confirm-page__container__box-content__info__column-right__container-sub-total__column-left__content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.checkout__confirm-page__container__box-content__info__column-right__container-sub-total__column-left__label {
+    font-family: Raleway-Medium;
+    font-size: 13px;
+    color: #868686;
+}
+.checkout__confirm-page__container__box-content__info__column-right__container-sub-total__column-right {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.checkout__confirm-page__container__box-content__info__column-right__container-sub-total__column-right__content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.checkout__confirm-page__container__box-content__info__column-right__container-sub-total__column-right__value{
+    font-family: Raleway-Medium;
+    font-size: 14px;
+    color: #212121;
+}
+.checkout__confirm-page__container__box-content__info__column-right__container-sub-total__column-right__total-value{
+    font-family: Raleway-Medium;
+    font-size: 20px;
+    color: #212121;
+}
+
+@media only screen and (min-width: 320px) and (max-width : 768px) {
+    .checkout__confirm-page__container__box-content {
+        padding: 24px 20px 30px 20px;
+        height: 776px;
+        width: calc(100% - 60px);
+    }
+    .checkout__confirm-page__container__box-content__info {
+        height: 600px;
+    }
+    .checkout__confirm-page__container__box-content__info__column-left {
+        padding: 0px 23px;
+        width: 100%;
+        border: none;
+    }
+    .checkout__confirm-page__container__box-content__info__column-left__map {
+        display: none;
+    }
+    .checkout__confirm-page__container__box-content__info__column-right {
+        padding: 0px;
+    }
+}

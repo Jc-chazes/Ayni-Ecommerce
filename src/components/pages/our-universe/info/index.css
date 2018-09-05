@@ -1,0 +1,19 @@
+
+.our-info{
+    margin: auto;
+    width: 94.8%; /* 1280px */
+}
+.our-info__container{
+    width: 100%;
+    padding-top: 182.66px;
+}
+
+/* Mobile version */
+@media only screen and (max-width: 800px){
+    .our-info{
+        width: 100%;
+    }
+    .our-info__container{
+        padding-top: 58px;
+    }
+}

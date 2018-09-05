@@ -1,0 +1,42 @@
+.home-collections-mobile-images{
+    display: none;
+}
+
+@media only screen and (max-width: 800px){
+    .home-collections-mobile-images{
+        width: 100%;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+
+    .home-collections-mobile-images button{
+        width: 34.04px;
+        height: 34.47px;
+        background-repeat: no-repeat;
+        background-size: contain;
+        border: none;
+        background-color: inherit;
+        outline: none;
+    }
+
+    .home-collections-mobile-images__btn-left{
+        background-image: url('http://192.168.1.10:3000/icons/back.png');
+        background-position-x: 3px;
+    }
+
+    .home-collections-mobile-images__btn-right{
+        background-image: url('http://192.168.1.10:3000/icons/next.png');
+        background-position-x: -4px;
+    }
+
+    .home-collections-mobile-images__content{
+        width: 270px; /* 303px */
+        height: 405.08px;
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: center;
+        transition: 0.7s;
+    }
+
+}

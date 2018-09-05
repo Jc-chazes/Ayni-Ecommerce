@@ -1,0 +1,87 @@
+.checkout-review-slider-product {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    height: 645px;
+    transform: translateY(-60px);
+}
+.checkout-review-slider-product_title {    
+    padding: 45px 0px 33px 0px;
+    font-family: dk;
+    font-size: 32px;
+}
+.checkout-review-slider_container_left {
+    width: 60px;
+    display: flex;
+    align-items: center;
+}
+.checkout-review-slider_container_left-button {
+    background-size: contain;
+    width: 27px;
+    height: 27px;
+    text-decoration: none;
+    background: url(http://localhost:3000/Icons/back-item.png) no-repeat center;
+    color: white;
+    outline: none;
+    border: none;
+    transform: translate(44px,-50px);
+}
+.checkout-review-slider_container {
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    overflow: hidden;
+    width: 1389px;
+    transform:translateX(7px);
+}
+.checkout-review-slider_container_content {
+    height: 100%;
+    display: flex;
+}
+.checkout-review-slider_container_right {
+    width: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.checkout-review-slider_container_right-button {
+    background-size: contain;
+    width: 27px;
+    height: 27px;
+    text-decoration: none;
+    background: url(http://localhost:3000/Icons/next-item.png) no-repeat center;
+    color: white;
+    outline: none;
+    border: none;
+    transform: translate(-23px,-50px);
+}
+.checkout-review-slider_container_content_detail {
+    display: flex;
+    flex-direction: column;
+    padding-top: 18px;
+}
+.checkout-review-slider_container_content_detail__name {
+    margin: 0px;
+    font-family: Raleway-Regular;
+    font-size: 16px;
+    height: 18px;
+}
+.checkout-review-slider_container_content_detail__name__price{
+    font-family: Raleway-SemiBold;
+    font-size: 15px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+@media  screen and (max-width: 700px){
+    .checkout-review-slider-product__container{
+        transform: translateX(-35px)
+    }
+    .checkout-review-slider_container_left-button {
+        transform: translate(48px,-50px) !important;
+    }
+    .checkout-review-slider-product{
+        display: none !important;
+    }
+}

@@ -1,0 +1,124 @@
+.quanty-selector_amount_minus {
+    background-image: url(http://localhost:3000/Icons/minus.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 15px;
+    height: 15px;
+    outline: none;
+    border:none;
+    background-color: #EFEFED;
+}
+.quanty-selector_amount_plus {
+    background-image: url(http://localhost:3000/Icons/plus.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 15px;
+    height: 15px;
+    outline: none;
+    border:none;
+    background-color: #EFEFED;
+}
+.quanty-selector{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+    width:99px;
+    height: 36px;
+    transform: translateX(-20px);
+    border-radius: 15px;
+    background-color: #EFEFED;
+    margin-left: 24px;
+}
+.quanty-selector_total{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Raleway-Bold;
+    font-size: 13px;
+    width: 10px;
+}
+.quanty-selector__number{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    font-family: Raleway-Bold;
+    font-size: 13px;
+}
+
+.checkout-review_products_table_row {
+    height: 116px;
+    justify-content: space-around;
+    align-items: center;
+    border-bottom: 1px solid #7F7F7F;
+    display: flex;
+    width:100%;
+}
+.checkout-review_products_table_row_image {
+    width: 66px;
+    height:98px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.checkout-review_products_table_row_description {
+    height: 120px;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    justify-content: space-evenly;
+    text-align: left;
+    width: 155px;
+}
+.checkout-review_products_table_row_description_name {
+    font-family: Raleway-Medium;
+    font-size: 13px;
+    color:#212121;
+    height: 34px;
+    font-weight: bold;
+}
+.checkout-review_products_table_row_description_descrip{
+    font-family: Raleway-Medium;
+    font-size: 13px;
+    color:#868686;
+}
+.checkout-review_products_table_row_description_desc {
+    font-family: Raleway-Medium;
+    font-size: 13px;
+    height: 19px;
+    width: 100px;
+    color:#868686;
+    transform: translateX(14px);
+}
+.checkout-review_products_table_row_description_color{
+    font-family: Raleway-Medium;
+    font-size: 13px;
+    height: 19px;
+    width: 100px;
+    transform:translateX(22px);
+    color:#868686;
+}
+
+.checkout-review_products_table_row_amount {
+    width: 85px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: Raleway;
+    font-size: 15px;
+}
+.checkout-review_products_table_row_price {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Raleway-Bold;
+    font-size: 13px;
+    width: 70px;
+    height: 100%;
+    color:black;
+    margin-left: 26px;
+}
+

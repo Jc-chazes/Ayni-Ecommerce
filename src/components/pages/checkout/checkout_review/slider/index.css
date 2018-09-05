@@ -1,0 +1,46 @@
+.container-carousel{
+    width: 876px;
+    height: 347px;
+    display: flex;
+    overflow-y: hidden;
+    justify-content: space-between;
+}
+
+.card-carousel{
+    width: 172px;
+    height: 320px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.card-carousel__text{
+    width: 172px;
+    height: 16px;
+    text-align: center;
+    font-size: 13px;
+    font-family: Raleway-Medium;
+}
+.container-carousel__items{
+   
+        width: 346px;
+        height: 355px;
+        overflow: hidden;
+        display: none;
+        margin: 0 auto;
+        overflow-x: scroll;
+    }
+.carousel{
+    width: 348px;
+    height: 334px;
+    overflow: hidden;
+    display: none;
+}
+
+@media screen and (max-width: 800px){
+    .container-carousel__items{
+        display: block !important;
+    }
+    .carousel{
+        display:block !important;
+    }
+}

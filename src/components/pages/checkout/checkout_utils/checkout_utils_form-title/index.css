@@ -1,0 +1,26 @@
+.checkout_utils_form-title {
+    display: flex;
+    flex-direction: row;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.checkout_utils_form-title-icon {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 34px;
+    width: 34px;
+}
+.checkout_utils_form-title-text{
+    font-family: Raleway-Bold;
+    font-size: 14px;
+    color: #C6BCB3;
+    display: flex;
+    align-items: center;
+}
+@media only screen and (max-width:800px){
+    .checkout_utils_form-title {
+        margin-bottom: 6px !important;
+    
+    }
+}

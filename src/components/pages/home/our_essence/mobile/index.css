@@ -1,0 +1,79 @@
+.home-our-essence-mobile{
+    display: none;
+}
+
+@media only screen and (max-width: 800px){
+        /* DESKTOP VERSION */
+        .home-our-essence__text{
+            display: none;
+        }
+        .home-our-essence__video{
+            display: none;
+        }
+        .home-our-essence button{
+            display: none;
+        }
+
+        /* MOBILE VERSION */
+        .home-our-essence{
+            width: 100%;
+            height: 585px;
+            background-image: url('http://localhost:3000/images/resources/OUR UNIVERSE_Bio-image.jpg');
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center;
+        }   
+        .home-our-essence-mobile{
+            width: 100%;
+            height: 585px;
+            background-color: rgba(255, 255, 255, 0.65);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .home-our-essence-mobile__content{
+            width: 242px;
+            height: 321.29px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            align-items: center;
+        }
+        .home-our-essence-mobile__content__text{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+        }
+        .home-our-essence-mobile__content__text__up{
+            font-family: 'Times New Roman', Times;
+            font-size: 18px;
+            font-style: italic;
+            color: #000000;
+            text-align: center;
+        }
+        .home-our-essence-mobile__content__text__down{
+            
+            font-family: GOTHAM-XLIGHT;
+            color: #686260;
+            font-size: 18px;
+            letter-spacing: 2px;
+            /*transform: scaleY(1.2);*/ /* This property was omitted because was working poorly on mobile version */
+        }
+        .home-our-essence-mobile__content__logo{
+            width: 150px;
+            height: 150px;
+            border: 1px gray dashed;
+        }
+        .home-our-essence-mobile__content button{
+            display: block;
+            height: 43px;
+            background-color: inherit;
+            background-image: url('http://localhost:3000/icons/next.png');
+            background-repeat: no-repeat;
+            background-size: 10px 10px;
+            background-position: 90% 50%;
+        }
+}
+
+

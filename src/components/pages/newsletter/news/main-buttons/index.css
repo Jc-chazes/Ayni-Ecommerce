@@ -1,0 +1,55 @@
+
+
+.newsletter-main-buttons{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.newsletter-main-buttons__container{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.newsletter-main-buttons__container__content{
+    width: 125px;
+    display: flex;
+    justify-content: space-between;
+}
+.newsletter-main-buttons__container__content button{
+    width: 120px;
+    height: 34px;
+    border: 1px #686260 solid;
+    border-radius: 30px;
+    outline: none;
+    background-color: white;
+    cursor: pointer;
+    font-size: 14px;
+    font-family: GOTHAM-BOLD;
+}
+
+/* Mobile version */
+@media only screen and (max-width: 800px){
+    .newsletter-main-buttons{
+        width: 100%;
+        overflow-x: hidden;
+        overflow-y: hidden;
+        white-space: nowrap;
+    }
+    .newsletter-main-buttons__container{
+        width: 100%;
+        max-height: 100%;
+        margin-bottom: -100px;
+        padding-bottom: 100px;
+        overflow-x: auto;
+    }
+    .newsletter-main-buttons__container__content{
+        width: 110px;
+        float: left;
+        display: block;
+    }
+    .newsletter-main-buttons__container__content button{
+        width: 105px;
+    }
+}

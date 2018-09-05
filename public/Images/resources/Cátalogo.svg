@@ -1,0 +1,605 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 1957">
+  <defs>
+    <style>
+      .cls-1, .cls-10, .cls-11, .cls-30, .cls-44, .cls-45, .cls-46, .cls-47, .cls-48 {
+        fill: #fff;
+      }
+
+      .cls-1 {
+        stroke: #707070;
+      }
+
+      .cls-2, .cls-25, .cls-29, .cls-3, .cls-32, .cls-34, .cls-4, .cls-49, .cls-5 {
+        fill: none;
+      }
+
+      .cls-2 {
+        clip-rule: evenodd;
+      }
+
+      .cls-15, .cls-27, .cls-33, .cls-4, .cls-45 {
+        fill-rule: evenodd;
+      }
+
+      .cls-25, .cls-32, .cls-33, .cls-36, .cls-5 {
+        stroke: #393939;
+      }
+
+      .cls-5 {
+        stroke-width: 1.7px;
+      }
+
+      .cls-6 {
+        clip-path: url(#clip-Cátalogo);
+      }
+
+      .cls-7 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-8 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-9 {
+        fill: url(#pattern);
+      }
+
+      .cls-10 {
+        opacity: 0.51;
+      }
+
+      .cls-11 {
+        stroke: #000;
+      }
+
+      .cls-12, .cls-27, .cls-39 {
+        fill: #dfdede;
+      }
+
+      .cls-13, .cls-14, .cls-16, .cls-21, .cls-35, .cls-39 {
+        font-size: 12px;
+      }
+
+      .cls-13, .cls-21, .cls-24, .cls-26, .cls-39, .cls-41, .cls-48 {
+        font-family: Gotham-Bold, Gotham;
+      }
+
+      .cls-13, .cls-21, .cls-23, .cls-24, .cls-26, .cls-28, .cls-39, .cls-41, .cls-44, .cls-48 {
+        font-weight: 700;
+      }
+
+      .cls-14, .cls-43 {
+        fill: #686260;
+      }
+
+      .cls-14 {
+        font-family: Gotham-Book, Gotham;
+      }
+
+      .cls-15 {
+        fill: #010101;
+      }
+
+      .cls-16, .cls-21, .cls-23, .cls-24, .cls-28, .cls-31, .cls-33, .cls-35, .cls-36, .cls-41, .cls-42 {
+        fill: #393939;
+      }
+
+      .cls-16, .cls-42 {
+        font-family: GothamLight, Gotham;
+      }
+
+      .cls-17 {
+        fill: #988575;
+        text-decoration: underline;
+      }
+
+      .cls-18 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-19 {
+        clip-path: url(#clip-path-4);
+      }
+
+      .cls-20 {
+        fill: #212121;
+      }
+
+      .cls-22, .cls-48 {
+        font-size: 14px;
+      }
+
+      .cls-22 {
+        font-family: TimesNewRomanPS-ItalicMT, Times New Roman;
+      }
+
+      .cls-22, .cls-23, .cls-28 {
+        font-style: italic;
+      }
+
+      .cls-23 {
+        font-size: 15px;
+      }
+
+      .cls-23, .cls-28 {
+        font-family: TimesNewRomanPS-BoldItalicMT, Times New Roman;
+      }
+
+      .cls-24, .cls-26, .cls-31 {
+        font-size: 13px;
+      }
+
+      .cls-25 {
+        opacity: 0.3;
+      }
+
+      .cls-28 {
+        font-size: 18px;
+      }
+
+      .cls-29, .cls-30 {
+        stroke: #686260;
+        stroke-width: 2px;
+      }
+
+      .cls-31 {
+        font-family: Raleway-Medium, Raleway;
+        font-weight: 500;
+      }
+
+      .cls-32 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-33 {
+        stroke-width: 0.5px;
+      }
+
+      .cls-34 {
+        stroke: #ece9e6;
+      }
+
+      .cls-35 {
+        font-family: Raleway-SemiBold, Raleway;
+        font-weight: 600;
+      }
+
+      .cls-36 {
+        stroke-width: 0.2px;
+      }
+
+      .cls-37 {
+        clip-path: url(#clip-path-7);
+      }
+
+      .cls-38 {
+        fill: #2b2e34;
+      }
+
+      .cls-40 {
+        clip-path: url(#clip-path-12);
+      }
+
+      .cls-41 {
+        font-size: 60px;
+      }
+
+      .cls-41, .cls-42 {
+        letter-spacing: 0.1em;
+      }
+
+      .cls-42 {
+        font-size: 20px;
+      }
+
+      .cls-44 {
+        font-size: 16px;
+        font-family: Raleway-Bold, Raleway;
+      }
+
+      .cls-47 {
+        font-size: 11px;
+        font-family: SegoeUI, Segoe UI;
+        opacity: 0.5;
+      }
+
+      .cls-48 {
+        opacity: 0.8;
+      }
+
+      .cls-49 {
+        stroke: #dfdede;
+      }
+
+      .cls-50 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_9652" data-name="Rectangle 9652" class="cls-1" width="948" height="450" transform="translate(287 315)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_9651" data-name="Rectangle 9651" class="cls-1" width="972.253" height="611.333" transform="translate(100 3199)"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 1360 768">
+      <image width="1360" height="768" xlink:href="C%C3%A1talogo-image.png"/>
+    </pattern>
+    <clipPath id="clip-path-3">
+      <path id="Path_13952" data-name="Path 13952" class="cls-2" d="M619.146-111h-4.917A1.23,1.23,0,0,0,613-109.771a1.23,1.23,0,0,0,1.229,1.229h4.917a1.23,1.23,0,0,0,1.229-1.229A1.23,1.23,0,0,0,619.146-111Z" transform="translate(-613 111)"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <path id="Path_13951" data-name="Path 13951" class="cls-3" d="M-50,190.458H1130V-461H-50Z" transform="translate(50 461)"/>
+    </clipPath>
+    <clipPath id="clip-path-7">
+      <rect id="Rectangle_16" data-name="Rectangle 16" class="cls-5" width="24" height="9.644"/>
+    </clipPath>
+    <clipPath id="clip-path-12">
+      <rect id="Rectangle_9653" data-name="Rectangle 9653" class="cls-1" width="1032.744" height="649.369" transform="translate(100 3199)"/>
+    </clipPath>
+    <clipPath id="clip-Cátalogo">
+      <rect width="1280" height="1957"/>
+    </clipPath>
+  </defs>
+  <g id="Cátalogo" class="cls-6">
+    <rect class="cls-46" width="1280" height="1957"/>
+    <g id="Mask_Group_164" data-name="Mask Group 164" class="cls-7" transform="translate(0 966)">
+      <g id="Mask_Group_163" data-name="Mask Group 163" class="cls-8" transform="translate(177 -2898.333)">
+        <rect id="Image_365" data-name="Image 365" class="cls-9" width="1046" height="590" transform="translate(57 3155.333)"/>
+      </g>
+    </g>
+    <rect id="Rectangle_9656" data-name="Rectangle 9656" class="cls-10" width="949" height="455" transform="translate(287 1281)"/>
+    <g id="Rectangle_9631" data-name="Rectangle 9631" class="cls-11" transform="translate(39 719)">
+      <rect class="cls-50" width="211" height="30"/>
+      <rect class="cls-3" x="0.5" y="0.5" width="210" height="29"/>
+    </g>
+    <path id="Path_14367" data-name="Path 14367" class="cls-12" d="M19,0H929a19,19,0,0,1,0,38H19A19,19,0,0,1,19,0Z" transform="translate(287 231)"/>
+    <text id="ORDENAR_POR_:" data-name="ORDENAR POR :" class="cls-13" transform="translate(310 254)"><tspan x="0" y="0">ORDENAR POR :</tspan></text>
+    <g id="Group_8802" data-name="Group 8802" transform="translate(287 13)">
+      <text id="Descuentos" class="cls-14" transform="translate(162 241)"><tspan x="0" y="0">Descuentos</tspan></text>
+    </g>
+    <g id="Group_8804" data-name="Group 8804" transform="translate(428 13)">
+      <text id="Novedades" class="cls-14" transform="translate(162 241)"><tspan x="0" y="0">Novedades</tspan></text>
+    </g>
+    <g id="Group_8806" data-name="Group 8806" transform="translate(575 13)">
+      <text id="Popularidad" class="cls-14" transform="translate(162 241)"><tspan x="0" y="0">Popularidad</tspan></text>
+    </g>
+    <g id="Group_8807" data-name="Group 8807" transform="translate(730 13)">
+      <text id="Precio_ascendente" data-name="Precio ascendente" class="cls-14" transform="translate(162 241)"><tspan x="0" y="0">Precio ascendente</tspan></text>
+    </g>
+    <g id="Group_8810" data-name="Group 8810" transform="translate(919 13)">
+      <text id="Precio_Descendente" data-name="Precio Descendente" class="cls-14" transform="translate(162 241)"><tspan x="0" y="0">Precio Descendente</tspan></text>
+    </g>
+    <g id="Group_8801" data-name="Group 8801" transform="translate(352 -417)">
+      <rect id="rectangle" class="cls-3" width="16" height="16" transform="translate(74 659)"/>
+      <path id="checkbox" class="cls-15" d="M13.667,4.333v9.333H4.333V4.333Zm0-1.333H4.333A1.337,1.337,0,0,0,3,4.333v9.333A1.337,1.337,0,0,0,4.333,15h9.333A1.337,1.337,0,0,0,15,13.667V4.333A1.337,1.337,0,0,0,13.667,3Z" transform="translate(73 658)"/>
+    </g>
+    <g id="Group_8803" data-name="Group 8803" transform="translate(493 -417)">
+      <rect id="rectangle-2" data-name="rectangle" class="cls-3" width="16" height="16" transform="translate(74 659)"/>
+      <path id="checkbox-2" data-name="checkbox" class="cls-15" d="M13.667,4.333v9.333H4.333V4.333Zm0-1.333H4.333A1.337,1.337,0,0,0,3,4.333v9.333A1.337,1.337,0,0,0,4.333,15h9.333A1.337,1.337,0,0,0,15,13.667V4.333A1.337,1.337,0,0,0,13.667,3Z" transform="translate(73 658)"/>
+    </g>
+    <g id="Group_8805" data-name="Group 8805" transform="translate(640 -417)">
+      <rect id="rectangle-3" data-name="rectangle" class="cls-3" width="16" height="16" transform="translate(74 659)"/>
+      <path id="checkbox-3" data-name="checkbox" class="cls-15" d="M13.667,4.333v9.333H4.333V4.333Zm0-1.333H4.333A1.337,1.337,0,0,0,3,4.333v9.333A1.337,1.337,0,0,0,4.333,15h9.333A1.337,1.337,0,0,0,15,13.667V4.333A1.337,1.337,0,0,0,13.667,3Z" transform="translate(73 658)"/>
+    </g>
+    <g id="Group_8808" data-name="Group 8808" transform="translate(795 -417)">
+      <rect id="rectangle-4" data-name="rectangle" class="cls-3" width="16" height="16" transform="translate(74 659)"/>
+      <path id="checkbox-4" data-name="checkbox" class="cls-15" d="M13.667,4.333v9.333H4.333V4.333Zm0-1.333H4.333A1.337,1.337,0,0,0,3,4.333v9.333A1.337,1.337,0,0,0,4.333,15h9.333A1.337,1.337,0,0,0,15,13.667V4.333A1.337,1.337,0,0,0,13.667,3Z" transform="translate(73 658)"/>
+    </g>
+    <g id="Group_8809" data-name="Group 8809" transform="translate(984 -417)">
+      <rect id="rectangle-5" data-name="rectangle" class="cls-3" width="16" height="16" transform="translate(74 659)"/>
+      <path id="checkbox-5" data-name="checkbox" class="cls-15" d="M13.667,4.333v9.333H4.333V4.333Zm0-1.333H4.333A1.337,1.337,0,0,0,3,4.333v9.333A1.337,1.337,0,0,0,4.333,15h9.333A1.337,1.337,0,0,0,15,13.667V4.333A1.337,1.337,0,0,0,13.667,3Z" transform="translate(73 658)"/>
+    </g>
+    <text id="Home_Shop_Todo" data-name="Home  /  Shop  /  Todo" class="cls-16" transform="translate(48 254)"><tspan x="0" y="0" xml:space="preserve">Home  /  Shop  /  </tspan><tspan class="cls-17" y="0">Todo</tspan></text>
+    <g id="Group_12955" data-name="Group 12955" class="cls-18" transform="translate(225.938 822)">
+      <g id="Group_12954" data-name="Group 12954" class="cls-19" transform="translate(-814.938 -430.208)">
+        <path id="Path_13950" data-name="Path 13950" class="cls-20" d="M608-101.25h19.667V-116H608Z" transform="translate(200.792 540.063)"/>
+      </g>
+    </g>
+    <g id="Group_12957" data-name="Group 12957" class="cls-18" transform="translate(225.94 1188)">
+      <g id="Group_12956" data-name="Group 12956" class="cls-19" transform="translate(-814.938 -430.208)">
+        <path id="Path_13953" data-name="Path 13953" class="cls-20" d="M608-101.25h19.667V-116H608Z" transform="translate(200.792 540.063)"/>
+      </g>
+    </g>
+    <text id="CATEGORÍAS" class="cls-21" transform="translate(48.406 315)"><tspan x="0" y="0">CATEGORÍAS</tspan></text>
+    <text id="Todo_Saco_Jacket_Blusa_Polo_Top_Bividi_Vestido_Overall_Pantalón_Legging_Jeans_Falda_Short_Kimono_Body_Conjuntos_Chabuscas_" data-name="Todo
+Saco
+Jacket
+Blusa
+Polo
+Top
+Bividi
+Vestido
+Overall
+Pantalón
+Legging
+Jeans
+Falda
+Short
+Kimono
+Body
+Conjuntos
+
+Chabuscas
+" class="cls-22" transform="translate(51.406 333)"><tspan x="0" y="12">Todo</tspan><tspan x="0" y="32">Saco</tspan><tspan x="0" y="52">Jacket</tspan><tspan x="0" y="72">Blusa</tspan><tspan x="0" y="92">Polo</tspan><tspan x="0" y="112">Top</tspan><tspan x="0" y="132">Bividi</tspan><tspan x="0" y="152">Vestido</tspan><tspan x="0" y="172">Overall</tspan><tspan x="0" y="192">Pantalón</tspan><tspan x="0" y="212">Legging</tspan><tspan x="0" y="232">Jeans</tspan><tspan x="0" y="252">Falda</tspan><tspan x="0" y="272">Short</tspan><tspan x="0" y="292">Kimono</tspan><tspan x="0" y="312">Body</tspan><tspan x="0" y="332">Conjuntos</tspan></text>
+    <text id="Azul_Blanco_Celeste_Gris_Guinda_Verde_Rosa_Dorado_Perla_Cobalto_Ocre_Marron_Mostaza_Morado" data-name="Azul
+Blanco
+Celeste
+Gris
+Guinda
+Verde
+Rosa
+Dorado
+Perla
+Cobalto
+Ocre
+Marron
+Mostaza
+Morado" class="cls-23" transform="translate(82.406 857)"><tspan x="0" y="0">Azul</tspan><tspan x="0" y="22">Blanco</tspan><tspan x="0" y="44">Celeste</tspan><tspan x="0" y="66">Gris</tspan><tspan x="0" y="88">Guinda</tspan><tspan x="0" y="110">Verde</tspan><tspan x="0" y="132">Rosa</tspan><tspan x="0" y="154">Dorado</tspan><tspan x="0" y="176">Perla</tspan><tspan x="0" y="198">Cobalto</tspan><tspan x="0" y="220">Ocre</tspan><tspan x="0" y="242">Marron</tspan><tspan x="0" y="264">Mostaza</tspan><tspan x="0" y="286">Morado</tspan></text>
+    <text id="FILTRAR_POR:" data-name="FILTRAR POR:" class="cls-21" transform="translate(48.406 708)"><tspan x="0" y="0">FILTRAR POR:</tspan></text>
+    <text id="TALLA" class="cls-24" transform="translate(51.406 1190)"><tspan x="0" y="0">TALLA</tspan></text>
+    <text id="COLORES" class="cls-24" transform="translate(51.406 826)"><tspan x="0" y="0">COLORES</tspan></text>
+    <line id="Line_3632" data-name="Line 3632" class="cls-25" x2="187.801" transform="translate(51.5 1170)"/>
+    <line id="Line_3633" data-name="Line 3633" class="cls-25" x2="187.801" transform="translate(51.5 805)"/>
+    <g id="Group_12964" data-name="Group 12964" transform="translate(-21 186)">
+      <rect id="rectangle-6" data-name="rectangle" class="cls-3" width="16" height="16" transform="translate(74 659)"/>
+      <path id="checkbox-6" data-name="checkbox" class="cls-15" d="M13.667,4.333v9.333H4.333V4.333Zm0-1.333H4.333A1.337,1.337,0,0,0,3,4.333v9.333A1.337,1.337,0,0,0,4.333,15h9.333A1.337,1.337,0,0,0,15,13.667V4.333A1.337,1.337,0,0,0,13.667,3Z" transform="translate(73 658)"/>
+    </g>
+    <g id="Group_12965" data-name="Group 12965" transform="translate(-21 319)">
+      <rect id="rectangle-7" data-name="rectangle" class="cls-3" width="16" height="16" transform="translate(74 659)"/>
+      <path id="checkbox-7" data-name="checkbox" class="cls-15" d="M13.667,4.333v9.333H4.333V4.333Zm0-1.333H4.333A1.337,1.337,0,0,0,3,4.333v9.333A1.337,1.337,0,0,0,4.333,15h9.333A1.337,1.337,0,0,0,15,13.667V4.333A1.337,1.337,0,0,0,13.667,3Z" transform="translate(73 658)"/>
+    </g>
+    <g id="Group_12966" data-name="Group 12966" transform="translate(-21 209)">
+      <rect id="rectangle-8" data-name="rectangle" class="cls-3" width="16" height="16" transform="translate(74 659)"/>
+      <path id="checkbox-8" data-name="checkbox" class="cls-15" d="M13.667,4.333v9.333H4.333V4.333Zm0-1.333H4.333A1.337,1.337,0,0,0,3,4.333v9.333A1.337,1.337,0,0,0,4.333,15h9.333A1.337,1.337,0,0,0,15,13.667V4.333A1.337,1.337,0,0,0,13.667,3Z" transform="translate(73 658)"/>
+    </g>
+    <g id="Group_12967" data-name="Group 12967" transform="translate(-21 340)">
+      <rect id="rectangle-9" data-name="rectangle" class="cls-3" width="16" height="16" transform="translate(74 659)"/>
+      <path id="checkbox-9" data-name="checkbox" class="cls-15" d="M13.667,4.333v9.333H4.333V4.333Zm0-1.333H4.333A1.337,1.337,0,0,0,3,4.333v9.333A1.337,1.337,0,0,0,4.333,15h9.333A1.337,1.337,0,0,0,15,13.667V4.333A1.337,1.337,0,0,0,13.667,3Z" transform="translate(73 658)"/>
+    </g>
+    <g id="Group_12968" data-name="Group 12968" transform="translate(-21 230)">
+      <rect id="rectangle-10" data-name="rectangle" class="cls-3" width="16" height="16" transform="translate(74 659)"/>
+      <path id="checkbox-10" data-name="checkbox" class="cls-15" d="M13.667,4.333v9.333H4.333V4.333Zm0-1.333H4.333A1.337,1.337,0,0,0,3,4.333v9.333A1.337,1.337,0,0,0,4.333,15h9.333A1.337,1.337,0,0,0,15,13.667V4.333A1.337,1.337,0,0,0,13.667,3Z" transform="translate(73 658)"/>
+    </g>
+    <g id="Group_12969" data-name="Group 12969" transform="translate(-21 361)">
+      <rect id="rectangle-11" data-name="rectangle" class="cls-3" width="16" height="16" transform="translate(74 659)"/>
+      <path id="checkbox-11" data-name="checkbox" class="cls-15" d="M13.667,4.333v9.333H4.333V4.333Zm0-1.333H4.333A1.337,1.337,0,0,0,3,4.333v9.333A1.337,1.337,0,0,0,4.333,15h9.333A1.337,1.337,0,0,0,15,13.667V4.333A1.337,1.337,0,0,0,13.667,3Z" transform="translate(73 658)"/>
+    </g>
+    <g id="Group_12970" data-name="Group 12970" transform="translate(-21 253)">
+      <rect id="rectangle-12" data-name="rectangle" class="cls-3" width="16" height="16" transform="translate(74 659)"/>
+      <path id="checkbox-12" data-name="checkbox" class="cls-15" d="M13.667,4.333v9.333H4.333V4.333Zm0-1.333H4.333A1.337,1.337,0,0,0,3,4.333v9.333A1.337,1.337,0,0,0,4.333,15h9.333A1.337,1.337,0,0,0,15,13.667V4.333A1.337,1.337,0,0,0,13.667,3Z" transform="translate(73 658)"/>
+    </g>
+    <g id="Group_12971" data-name="Group 12971" transform="translate(-21 383)">
+      <rect id="rectangle-13" data-name="rectangle" class="cls-3" width="16" height="16" transform="translate(74 659)"/>
+      <path id="checkbox-13" data-name="checkbox" class="cls-15" d="M13.667,4.333v9.333H4.333V4.333Zm0-1.333H4.333A1.337,1.337,0,0,0,3,4.333v9.333A1.337,1.337,0,0,0,4.333,15h9.333A1.337,1.337,0,0,0,15,13.667V4.333A1.337,1.337,0,0,0,13.667,3Z" transform="translate(73 658)"/>
+    </g>
+    <g id="Group_12972" data-name="Group 12972" transform="translate(-21 276)">
+      <rect id="rectangle-14" data-name="rectangle" class="cls-3" width="16" height="16" transform="translate(74 659)"/>
+      <path id="checkbox-14" data-name="checkbox" class="cls-15" d="M13.667,4.333v9.333H4.333V4.333Zm0-1.333H4.333A1.337,1.337,0,0,0,3,4.333v9.333A1.337,1.337,0,0,0,4.333,15h9.333A1.337,1.337,0,0,0,15,13.667V4.333A1.337,1.337,0,0,0,13.667,3Z" transform="translate(73 658)"/>
+    </g>
+    <g id="Group_12973" data-name="Group 12973" transform="translate(-21 405)">
+      <rect id="rectangle-15" data-name="rectangle" class="cls-3" width="16" height="16" transform="translate(74 659)"/>
+      <path id="checkbox-15" data-name="checkbox" class="cls-15" d="M13.667,4.333v9.333H4.333V4.333Zm0-1.333H4.333A1.337,1.337,0,0,0,3,4.333v9.333A1.337,1.337,0,0,0,4.333,15h9.333A1.337,1.337,0,0,0,15,13.667V4.333A1.337,1.337,0,0,0,13.667,3Z" transform="translate(73 658)"/>
+    </g>
+    <g id="Group_12974" data-name="Group 12974" transform="translate(-21 449)">
+      <rect id="rectangle-16" data-name="rectangle" class="cls-3" width="16" height="16" transform="translate(74 659)"/>
+      <path id="checkbox-16" data-name="checkbox" class="cls-15" d="M13.667,4.333v9.333H4.333V4.333Zm0-1.333H4.333A1.337,1.337,0,0,0,3,4.333v9.333A1.337,1.337,0,0,0,4.333,15h9.333A1.337,1.337,0,0,0,15,13.667V4.333A1.337,1.337,0,0,0,13.667,3Z" transform="translate(73 658)"/>
+    </g>
+    <g id="Group_12975" data-name="Group 12975" transform="translate(-21 299)">
+      <rect id="rectangle-17" data-name="rectangle" class="cls-3" width="16" height="16" transform="translate(74 659)"/>
+      <path id="checkbox-17" data-name="checkbox" class="cls-15" d="M13.667,4.333v9.333H4.333V4.333Zm0-1.333H4.333A1.337,1.337,0,0,0,3,4.333v9.333A1.337,1.337,0,0,0,4.333,15h9.333A1.337,1.337,0,0,0,15,13.667V4.333A1.337,1.337,0,0,0,13.667,3Z" transform="translate(73 658)"/>
+    </g>
+    <g id="Group_12976" data-name="Group 12976" transform="translate(-21 427)">
+      <rect id="rectangle-18" data-name="rectangle" class="cls-3" width="16" height="16" transform="translate(74 659)"/>
+      <path id="checkbox-18" data-name="checkbox" class="cls-15" d="M13.667,4.333v9.333H4.333V4.333Zm0-1.333H4.333A1.337,1.337,0,0,0,3,4.333v9.333A1.337,1.337,0,0,0,4.333,15h9.333A1.337,1.337,0,0,0,15,13.667V4.333A1.337,1.337,0,0,0,13.667,3Z" transform="translate(73 658)"/>
+    </g>
+    <g id="Group_12977" data-name="Group 12977" transform="translate(-21 471)">
+      <rect id="rectangle-19" data-name="rectangle" class="cls-3" width="16" height="16" transform="translate(74 659)"/>
+      <path id="checkbox-19" data-name="checkbox" class="cls-15" d="M13.667,4.333v9.333H4.333V4.333Zm0-1.333H4.333A1.337,1.337,0,0,0,3,4.333v9.333A1.337,1.337,0,0,0,4.333,15h9.333A1.337,1.337,0,0,0,15,13.667V4.333A1.337,1.337,0,0,0,13.667,3Z" transform="translate(73 658)"/>
+    </g>
+    <text id="Toda_las_tallas_36_37_38_39_40_41_Talla_única_XS_XS-S_S_M_M-L_L_XL_" data-name="Toda las tallas
+36
+37
+38
+39
+40
+41
+Talla única
+XS
+XS-S
+S
+M
+M-L
+L
+XL
+
+
+" class="cls-23" transform="matrix(1, 0.017, -0.017, 1, 85.135, 1208.343)"><tspan x="0" y="13">Toda las tallas</tspan><tspan x="0" y="35">36</tspan><tspan x="0" y="57">37</tspan><tspan x="0" y="79">38</tspan><tspan x="0" y="101">39</tspan><tspan x="0" y="123">40</tspan><tspan x="0" y="145">41</tspan><tspan x="0" y="167">Talla única</tspan><tspan x="0" y="189">XS</tspan><tspan x="0" y="211">XS-S</tspan><tspan x="0" y="233">S</tspan><tspan x="0" y="255">M</tspan><tspan x="0" y="277">M-L</tspan><tspan x="0" y="299">L</tspan><tspan x="0" y="321">XL</tspan></text>
+    <g id="Group_12978" data-name="Group 12978" transform="translate(-21 683)">
+      <rect id="rectangle-20" data-name="rectangle" class="cls-3" width="16" height="16" transform="translate(74 659)"/>
+      <path id="checkbox-20" data-name="checkbox" class="cls-15" d="M13.667,4.333v9.333H4.333V4.333Zm0-1.333H4.333A1.337,1.337,0,0,0,3,4.333v9.333A1.337,1.337,0,0,0,4.333,15h9.333A1.337,1.337,0,0,0,15,13.667V4.333A1.337,1.337,0,0,0,13.667,3Z" transform="translate(73 658)"/>
+    </g>
+    <g id="Group_12979" data-name="Group 12979" transform="translate(-21 573)">
+      <rect id="rectangle-21" data-name="rectangle" class="cls-3" width="16" height="16" transform="translate(74 659)"/>
+      <path id="checkbox-21" data-name="checkbox" class="cls-15" d="M13.667,4.333v9.333H4.333V4.333Zm0-1.333H4.333A1.337,1.337,0,0,0,3,4.333v9.333A1.337,1.337,0,0,0,4.333,15h9.333A1.337,1.337,0,0,0,15,13.667V4.333A1.337,1.337,0,0,0,13.667,3Z" transform="translate(73 658)"/>
+    </g>
+    <g id="Group_12980" data-name="Group 12980" transform="translate(-21 704)">
+      <rect id="rectangle-22" data-name="rectangle" class="cls-3" width="16" height="16" transform="translate(74 659)"/>
+      <path id="checkbox-22" data-name="checkbox" class="cls-15" d="M13.667,4.333v9.333H4.333V4.333Zm0-1.333H4.333A1.337,1.337,0,0,0,3,4.333v9.333A1.337,1.337,0,0,0,4.333,15h9.333A1.337,1.337,0,0,0,15,13.667V4.333A1.337,1.337,0,0,0,13.667,3Z" transform="translate(73 658)"/>
+    </g>
+    <g id="Group_12981" data-name="Group 12981" transform="translate(-21 594)">
+      <rect id="rectangle-23" data-name="rectangle" class="cls-3" width="16" height="16" transform="translate(74 659)"/>
+      <path id="checkbox-23" data-name="checkbox" class="cls-15" d="M13.667,4.333v9.333H4.333V4.333Zm0-1.333H4.333A1.337,1.337,0,0,0,3,4.333v9.333A1.337,1.337,0,0,0,4.333,15h9.333A1.337,1.337,0,0,0,15,13.667V4.333A1.337,1.337,0,0,0,13.667,3Z" transform="translate(73 658)"/>
+    </g>
+    <g id="Group_12982" data-name="Group 12982" transform="translate(-21 725)">
+      <rect id="rectangle-24" data-name="rectangle" class="cls-3" width="16" height="16" transform="translate(74 659)"/>
+      <path id="checkbox-24" data-name="checkbox" class="cls-15" d="M13.667,4.333v9.333H4.333V4.333Zm0-1.333H4.333A1.337,1.337,0,0,0,3,4.333v9.333A1.337,1.337,0,0,0,4.333,15h9.333A1.337,1.337,0,0,0,15,13.667V4.333A1.337,1.337,0,0,0,13.667,3Z" transform="translate(73 658)"/>
+    </g>
+    <g id="Group_12983" data-name="Group 12983" transform="translate(-21 617)">
+      <rect id="rectangle-25" data-name="rectangle" class="cls-3" width="16" height="16" transform="translate(74 659)"/>
+      <path id="checkbox-25" data-name="checkbox" class="cls-15" d="M13.667,4.333v9.333H4.333V4.333Zm0-1.333H4.333A1.337,1.337,0,0,0,3,4.333v9.333A1.337,1.337,0,0,0,4.333,15h9.333A1.337,1.337,0,0,0,15,13.667V4.333A1.337,1.337,0,0,0,13.667,3Z" transform="translate(73 658)"/>
+    </g>
+    <g id="Group_12984" data-name="Group 12984" transform="translate(-21 747)">
+      <rect id="rectangle-26" data-name="rectangle" class="cls-3" width="16" height="16" transform="translate(74 659)"/>
+      <path id="checkbox-26" data-name="checkbox" class="cls-15" d="M13.667,4.333v9.333H4.333V4.333Zm0-1.333H4.333A1.337,1.337,0,0,0,3,4.333v9.333A1.337,1.337,0,0,0,4.333,15h9.333A1.337,1.337,0,0,0,15,13.667V4.333A1.337,1.337,0,0,0,13.667,3Z" transform="translate(73 658)"/>
+    </g>
+    <g id="Group_12985" data-name="Group 12985" transform="translate(-21 640)">
+      <rect id="rectangle-27" data-name="rectangle" class="cls-3" width="16" height="16" transform="translate(74 659)"/>
+      <path id="checkbox-27" data-name="checkbox" class="cls-15" d="M13.667,4.333v9.333H4.333V4.333Zm0-1.333H4.333A1.337,1.337,0,0,0,3,4.333v9.333A1.337,1.337,0,0,0,4.333,15h9.333A1.337,1.337,0,0,0,15,13.667V4.333A1.337,1.337,0,0,0,13.667,3Z" transform="translate(73 658)"/>
+    </g>
+    <g id="Group_12986" data-name="Group 12986" transform="translate(-21 769)">
+      <rect id="rectangle-28" data-name="rectangle" class="cls-3" width="16" height="16" transform="translate(74 659)"/>
+      <path id="checkbox-28" data-name="checkbox" class="cls-15" d="M13.667,4.333v9.333H4.333V4.333Zm0-1.333H4.333A1.337,1.337,0,0,0,3,4.333v9.333A1.337,1.337,0,0,0,4.333,15h9.333A1.337,1.337,0,0,0,15,13.667V4.333A1.337,1.337,0,0,0,13.667,3Z" transform="translate(73 658)"/>
+    </g>
+    <g id="Group_12987" data-name="Group 12987" transform="translate(-21 813)">
+      <rect id="rectangle-29" data-name="rectangle" class="cls-3" width="16" height="16" transform="translate(74 659)"/>
+      <path id="checkbox-29" data-name="checkbox" class="cls-15" d="M13.667,4.333v9.333H4.333V4.333Zm0-1.333H4.333A1.337,1.337,0,0,0,3,4.333v9.333A1.337,1.337,0,0,0,4.333,15h9.333A1.337,1.337,0,0,0,15,13.667V4.333A1.337,1.337,0,0,0,13.667,3Z" transform="translate(73 658)"/>
+    </g>
+    <g id="Group_12988" data-name="Group 12988" transform="translate(-21 663)">
+      <rect id="rectangle-30" data-name="rectangle" class="cls-3" width="16" height="16" transform="translate(74 659)"/>
+      <path id="checkbox-30" data-name="checkbox" class="cls-15" d="M13.667,4.333v9.333H4.333V4.333Zm0-1.333H4.333A1.337,1.337,0,0,0,3,4.333v9.333A1.337,1.337,0,0,0,4.333,15h9.333A1.337,1.337,0,0,0,15,13.667V4.333A1.337,1.337,0,0,0,13.667,3Z" transform="translate(73 658)"/>
+    </g>
+    <g id="Group_12989" data-name="Group 12989" transform="translate(-21 791)">
+      <rect id="rectangle-31" data-name="rectangle" class="cls-3" width="16" height="16" transform="translate(74 659)"/>
+      <path id="checkbox-31" data-name="checkbox" class="cls-15" d="M13.667,4.333v9.333H4.333V4.333Zm0-1.333H4.333A1.337,1.337,0,0,0,3,4.333v9.333A1.337,1.337,0,0,0,4.333,15h9.333A1.337,1.337,0,0,0,15,13.667V4.333A1.337,1.337,0,0,0,13.667,3Z" transform="translate(73 658)"/>
+    </g>
+    <g id="Group_12990" data-name="Group 12990" transform="translate(-21 835)">
+      <rect id="rectangle-32" data-name="rectangle" class="cls-3" width="16" height="16" transform="translate(74 659)"/>
+      <path id="checkbox-32" data-name="checkbox" class="cls-15" d="M13.667,4.333v9.333H4.333V4.333Zm0-1.333H4.333A1.337,1.337,0,0,0,3,4.333v9.333A1.337,1.337,0,0,0,4.333,15h9.333A1.337,1.337,0,0,0,15,13.667V4.333A1.337,1.337,0,0,0,13.667,3Z" transform="translate(73 658)"/>
+    </g>
+    <text id="Precio" class="cls-26" transform="translate(50.406 738)"><tspan x="0" y="0">Precio</tspan></text>
+    <g id="Group_12991" data-name="Group 12991" transform="translate(12 125)">
+      <rect id="checkbox_light" class="cls-3" width="16" height="16" transform="translate(41 1084)"/>
+      <path id="check_on_light" class="cls-27" d="M13.667,3H4.333A1.337,1.337,0,0,0,3,4.333v9.333A1.337,1.337,0,0,0,4.333,15h9.333A1.337,1.337,0,0,0,15,13.667V4.333A1.337,1.337,0,0,0,13.667,3Zm-6,9.333L4.333,9.128l.933-.9,2.4,2.308,5.067-4.872.933.9-6,5.769Z" transform="translate(40 1083)"/>
+    </g>
+    <g id="Group_12992" data-name="Group 12992" transform="translate(-21 857)">
+      <rect id="rectangle-33" data-name="rectangle" class="cls-3" width="16" height="16" transform="translate(74 659)"/>
+      <path id="checkbox-33" data-name="checkbox" class="cls-15" d="M13.667,4.333v9.333H4.333V4.333Zm0-1.333H4.333A1.337,1.337,0,0,0,3,4.333v9.333A1.337,1.337,0,0,0,4.333,15h9.333A1.337,1.337,0,0,0,15,13.667V4.333A1.337,1.337,0,0,0,13.667,3Z" transform="translate(73 658)"/>
+    </g>
+    <text id="s_40" data-name="s/40" class="cls-28" transform="translate(39 776)"><tspan x="0" y="0">s/40</tspan></text>
+    <text id="s_100" data-name="s/100" class="cls-28" transform="translate(210 774)"><tspan x="0" y="0">s/100</tspan></text>
+    <line id="Line_3635" data-name="Line 3635" class="cls-29" x2="131" transform="translate(74.5 770.5)"/>
+    <g id="Ellipse_341" data-name="Ellipse 341" class="cls-30" transform="translate(109 760)">
+      <circle class="cls-50" cx="10" cy="10" r="10"/>
+      <circle class="cls-3" cx="10" cy="10" r="9"/>
+    </g>
+    <g id="Group_13759" data-name="Group 13759" transform="translate(-497 60)">
+      <text id="Buscar" class="cls-31" transform="translate(1037.813 119)"><tspan x="0" y="0">Buscar</tspan></text>
+      <line id="Line_3457" data-name="Line 3457" class="cls-32" x2="199" transform="translate(1037.5 126.5)"/>
+      <path id="Path_1358" data-name="Path 1358" class="cls-33" d="M883.085-1650.7l3.575,3.576-.782.782-3.575-3.576a5.667,5.667,0,0,1-3.613,1.295,5.689,5.689,0,0,1-5.689-5.689,5.689,5.689,0,0,1,5.689-5.689,5.689,5.689,0,0,1,5.689,5.689A5.666,5.666,0,0,1,883.085-1650.7Zm-4.4-8.164a4.551,4.551,0,0,0-4.552,4.552,4.552,4.552,0,0,0,4.552,4.551,4.552,4.552,0,0,0,4.552-4.551A4.551,4.551,0,0,0,878.689-1658.863Z" transform="translate(344.37 1766)"/>
+    </g>
+    <line id="Line_3739" data-name="Line 3739" class="cls-34" x2="1280" transform="translate(0.5 155.5)"/>
+    <text id="Compras" class="cls-35" transform="translate(1184.813 66)"><tspan x="0" y="0">Compras</tspan></text>
+    <text id="Mi_Cuenta" data-name="Mi Cuenta" class="cls-35" transform="translate(1091.813 66)"><tspan x="0" y="0">Mi Cuenta</tspan></text>
+    <g id="Group_13760" data-name="Group 13760" transform="translate(1163.961 49.219)">
+      <path id="Path_1345" data-name="Path 1345" class="cls-36" d="M36.14,22.129v-.88a4.249,4.249,0,1,0-8.5,0v.88H24V36.393a.609.609,0,0,0,.607.607H39.174a.609.609,0,0,0,.607-.607V22.129H36.14Zm-7.284-.85a3.035,3.035,0,0,1,6.07,0v.88h-6.07Zm9.712,14.507H25.214V23.343h2.428v3.976h1.214V23.343h6.07v3.976H36.14V23.343h2.428Z" transform="translate(-24 -17)"/>
+    </g>
+    <g id="Group_13761" data-name="Group 13761" transform="translate(1065.834 49.219)">
+      <g id="Group_2" data-name="Group 2" transform="translate(0)">
+        <g id="Mask_Group_1" data-name="Mask Group 1" class="cls-37" transform="translate(0 9.75)">
+          <g id="Ellipse_1" data-name="Ellipse 1" class="cls-5" transform="translate(2.25 2.25)">
+            <ellipse class="cls-50" cx="9.75" cy="9" rx="9.75" ry="9"/>
+            <ellipse class="cls-3" cx="9.75" cy="9" rx="8.9" ry="8.15"/>
+          </g>
+        </g>
+        <g id="Ellipse_2" data-name="Ellipse 2" class="cls-5" transform="translate(6.75)">
+          <ellipse class="cls-50" cx="5.625" cy="5.625" rx="5.625" ry="5.625"/>
+          <ellipse class="cls-3" cx="5.625" cy="5.625" rx="4.775" ry="4.775"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_13762" data-name="Group 13762" transform="translate(580.158 90.447)">
+      <g id="Group_13531" data-name="Group 13531" transform="translate(32.574 -47.112)">
+        <path id="Path_14301" data-name="Path 14301" class="cls-38" d="M-7.036,0-22.289,22.353-37.942,0h-1.334l16.447,23.485V38.671h1.093V23.482L-5.714,0Z" transform="translate(39.276)"/>
+      </g>
+      <g id="Group_13532" data-name="Group 13532" transform="translate(74.186 -47.112)">
+        <path id="Path_14302" data-name="Path 14302" class="cls-38" d="M-6.9,0V37.153L-37.325,0h-1.217V38.671h1.093V1.573l30.376,37.1h1.26V0Z" transform="translate(38.542)"/>
+      </g>
+      <g id="Group_13533" data-name="Group 13533" transform="translate(0 -47.113)">
+        <path id="Path_14303" data-name="Path 14303" class="cls-38" d="M-3.622,0-20.215,38.673h1.19L-3.3,2.023l15.289,36.65h1.185L-2.959,0Z" transform="translate(20.215)"/>
+      </g>
+      <path id="Path_14304" data-name="Path 14304" class="cls-38" d="M145.561-8.441h1.093V-47.112h-1.093Z" transform="translate(-26.077 0)"/>
+    </g>
+    <g id="Group_13763" data-name="Group 13763" transform="translate(-2317 2295)">
+      <text id="NUESTRA_ESCENCIA" data-name="NUESTRA ESCENCIA" class="cls-21" transform="translate(2618 -2162)"><tspan x="0" y="0">NUESTRA ESCENCIA</tspan></text>
+      <text id="COLECCIONES" class="cls-21" transform="translate(2876 -2162)"><tspan x="0" y="0">COLECCIONES</tspan></text>
+      <text id="TENDENCIAS_Y_NOVEDADES" data-name="TENDENCIAS Y NOVEDADES" class="cls-21" transform="translate(3020 -2162)"><tspan x="0" y="0">TENDENCIAS Y NOVEDADES</tspan></text>
+      <text id="TIENDAS" class="cls-21" transform="translate(3242 -2162)"><tspan x="0" y="0">TIENDAS</tspan></text>
+      <g id="Group_13534" data-name="Group 13534" transform="translate(-3)">
+        <g id="Group_12953" data-name="Group 12953" transform="translate(-2606.813 8971)">
+          <text id="SHOP" class="cls-39" transform="translate(5400.813 -11133)"><tspan x="0" y="0">SHOP</tspan></text>
+        </g>
+        <path id="Path_14305" data-name="Path 14305" class="cls-12" d="M-15030.5-5914.125h8.25l-4.125,6.625Z" transform="translate(17866 3744.125)"/>
+      </g>
+      <path id="Path_14352" data-name="Path 14352" d="M-15030.5-5914.125h8.25l-4.125,6.625Z" transform="translate(18005 3744.125)"/>
+    </g>
+    <path id="Path_14368" data-name="Path 14368" d="M-15030.5-5914.125h8.25l-4.125,6.625Z" transform="translate(15262 6645.125)"/>
+    <g id="Mask_Group_160" data-name="Mask Group 160" class="cls-7">
+      <g id="Mask_Group_157" data-name="Mask Group 157" class="cls-8" transform="translate(177 -2898.333)">
+        <image id="Image_359" data-name="Image 359" width="1378.794" height="778.613" transform="translate(-68.294 3131.074)" xlink:href="C%C3%A1talogo-image2.png"/>
+      </g>
+    </g>
+    <g id="Mask_Group_162" data-name="Mask Group 162" class="cls-7" transform="translate(0 483)">
+      <g id="Mask_Group_161" data-name="Mask Group 161" class="cls-8" transform="translate(177 -2898.333)">
+        <g id="Mask_Group_165" data-name="Mask Group 165" class="cls-40" transform="translate(-60)">
+          <image id="Image_364" data-name="Image 364" width="1571.008" height="887.157" transform="translate(-9.572 3092.749)" xlink:href="C%C3%A1talogo-image3.png"/>
+        </g>
+      </g>
+    </g>
+    <rect id="Rectangle_9654" data-name="Rectangle 9654" class="cls-10" width="949" height="455" transform="translate(287 315)"/>
+    <rect id="Rectangle_9655" data-name="Rectangle 9655" class="cls-10" width="949" height="455" transform="translate(287 799)"/>
+    <text id="SS_2018" data-name="SS 2018" class="cls-41" transform="translate(624 563)"><tspan x="0" y="0">SS 2018</tspan></text>
+    <text id="FW_2018" data-name="FW 2018" class="cls-41" transform="translate(609 1063)"><tspan x="0" y="0">FW 2018</tspan></text>
+    <text id="SS_2017" data-name="SS 2017" class="cls-41" transform="translate(624 1522)"><tspan x="0" y="0">SS 2017</tspan></text>
+    <text id="PRENDAS_DE_COLECCIÓN" data-name="PRENDAS DE COLECCIÓN" class="cls-42" transform="translate(609 591)"><tspan x="0" y="0">PRENDAS DE COLECCIÓN</tspan></text>
+    <text id="PRENDAS_DE_COLECCIÓN-2" data-name="PRENDAS DE COLECCIÓN" class="cls-42" transform="translate(608 1091)"><tspan x="0" y="0">PRENDAS DE COLECCIÓN</tspan></text>
+    <text id="PRENDAS_DE_COLECCIÓN-3" data-name="PRENDAS DE COLECCIÓN" class="cls-42" transform="translate(608 1550)"><tspan x="0" y="0">PRENDAS DE COLECCIÓN</tspan></text>
+    <rect id="Rectangle_9664" data-name="Rectangle 9664" class="cls-43" width="1280" height="318" transform="translate(0 1639)"/>
+    <text id="_ayniuniverse" data-name="@ayniuniverse" class="cls-44" transform="translate(452.534 1848)"><tspan x="0" y="0">@ayniuniverse</tspan></text>
+    <g id="Group_13908" data-name="Group 13908" transform="translate(425 1836)">
+      <path id="Path_3" data-name="Path 3" class="cls-45" d="M7.844,1.395a24.053,24.053,0,0,1,3.138.087,4.043,4.043,0,0,1,1.482.261,3.061,3.061,0,0,1,1.482,1.482,4.043,4.043,0,0,1,.261,1.482c0,.784.087,1.046.087,3.138a24.052,24.052,0,0,1-.087,3.138,4.043,4.043,0,0,1-.261,1.482,3.061,3.061,0,0,1-1.482,1.482,4.043,4.043,0,0,1-1.482.261c-.784,0-1.046.087-3.138.087a24.052,24.052,0,0,1-3.138-.087,4.043,4.043,0,0,1-1.482-.261,3.061,3.061,0,0,1-1.482-1.482,4.043,4.043,0,0,1-.261-1.482c0-.784-.087-1.046-.087-3.138a24.053,24.053,0,0,1,.087-3.138,4.043,4.043,0,0,1,.261-1.482,3.13,3.13,0,0,1,.61-.872,1.474,1.474,0,0,1,.872-.61,4.043,4.043,0,0,1,1.482-.261,24.053,24.053,0,0,1,3.138-.087M7.844,0A25.754,25.754,0,0,0,4.62.087,5.381,5.381,0,0,0,2.7.436a3.412,3.412,0,0,0-1.395.872A3.412,3.412,0,0,0,.436,2.7,3.971,3.971,0,0,0,.087,4.62,25.754,25.754,0,0,0,0,7.844a25.754,25.754,0,0,0,.087,3.225,5.381,5.381,0,0,0,.349,1.918,3.412,3.412,0,0,0,.872,1.395,3.412,3.412,0,0,0,1.395.872A5.381,5.381,0,0,0,4.62,15.6a25.753,25.753,0,0,0,3.225.087,25.753,25.753,0,0,0,3.225-.087,5.381,5.381,0,0,0,1.918-.349,3.657,3.657,0,0,0,2.266-2.266,5.381,5.381,0,0,0,.349-1.918c0-.872.087-1.133.087-3.225A25.753,25.753,0,0,0,15.6,4.62,5.381,5.381,0,0,0,15.253,2.7a3.412,3.412,0,0,0-.872-1.395A3.412,3.412,0,0,0,12.987.436,5.381,5.381,0,0,0,11.069.087,25.754,25.754,0,0,0,7.844,0m0,3.835A3.945,3.945,0,0,0,3.835,7.844,4.009,4.009,0,1,0,7.844,3.835m0,6.624A2.568,2.568,0,0,1,5.23,7.844,2.568,2.568,0,0,1,7.844,5.23a2.568,2.568,0,0,1,2.615,2.615,2.568,2.568,0,0,1-2.615,2.615M12.028,2.7a.959.959,0,1,0,.959.959.967.967,0,0,0-.959-.959" transform="translate(0 0)"/>
+    </g>
+    <g id="Group_13909" data-name="Group 13909" transform="translate(-4870.466 -1391)">
+      <text id="_ayniuniverse-2" data-name="@ayniuniverse" class="cls-44" transform="translate(5490 3239)"><tspan x="0" y="0">@ayniuniverse</tspan></text>
+    </g>
+    <g id="Group_13910" data-name="Group 13910" transform="translate(-4696.466 -1391)">
+      <text id="_ayni-universe" data-name="@ayni-universe" class="cls-44" transform="translate(5490 3239)"><tspan x="0" y="0">@ayni-universe</tspan></text>
+    </g>
+    <path id="Path_14416" data-name="Path 14416" class="cls-45" d="M84.83,14.251V7.759h2.217l.317-2.534H84.83V3.642c0-.713.238-1.267,1.267-1.267h1.346V.079C87.126.079,86.334,0,85.463,0a3.056,3.056,0,0,0-3.246,3.325v1.9H80V7.759h2.217v6.492Z" transform="translate(520 1835.5)"/>
+    <g id="Group_13911" data-name="Group 13911" transform="translate(771 1836)">
+      <path id="Path_14307" data-name="Path 14307" class="cls-46" d="M1.571,1h0a1.564,1.564,0,0,0-1.11.457A1.561,1.561,0,0,0,.471,3.681a1.531,1.531,0,0,0,1.085.441H1.59a1.536,1.536,0,0,0,1.064-.441A1.562,1.562,0,0,0,1.571,1"/>
+      <path id="Path_14308" data-name="Path 14308" class="cls-46" d="M10.645,154.7H9.069a.579.579,0,0,0-.569.587v6.82a.591.591,0,0,0,.585.582h1.56a.586.586,0,0,0,.585-.571v-6.834a.593.593,0,0,0-.585-.585" transform="translate(-8.306 -150.189)"/>
+      <path id="Path_14309" data-name="Path 14309" class="cls-46" d="M175.693,146.2h-.411a2.628,2.628,0,0,0-1.953.854v-.27a.422.422,0,0,0-.391-.391h-1.948a.4.4,0,0,0-.391.365v7.272a.383.383,0,0,0,.391.352h2.145a.383.383,0,0,0,.391-.352v-4.2a1.1,1.1,0,0,1,1.877-.813,1.073,1.073,0,0,1,.265.8v4.18a.422.422,0,0,0,.391.391h1.948a.424.424,0,0,0,.391-.391v-5.027a2.706,2.706,0,0,0-2.7-2.766" transform="translate(-166.703 -141.884)"/>
+    </g>
+    <text id="_2018_AYNI_UNIVERSE._Todos_los_derechos_reservados." data-name="© 2018, AYNI UNIVERSE. Todos los derechos reservados." class="cls-47" transform="translate(504 1910)"><tspan x="0" y="0">© 2018, AYNI UNIVERSE. Todos los derechos reservados.</tspan></text>
+    <g id="Group_13912" data-name="Group 13912" transform="translate(60 -3122)">
+      <text id="Shipping_Returns" data-name="Shipping &amp; Returns" class="cls-48" transform="translate(398 4847)"><tspan x="0" y="0">Shipping &amp; Returns</tspan></text>
+      <text id="Payment_Methods" data-name="Payment Methods" class="cls-48" transform="translate(571 4847)"><tspan x="0" y="0">Payment Methods</tspan></text>
+      <text id="Frequent_Questions" data-name="Frequent Questions" class="cls-48" transform="translate(735 4847)"><tspan x="0" y="0">Frequent Questions</tspan></text>
+      <text id="Size_Guide" data-name="Size Guide" class="cls-48" transform="translate(285 4847.5)"><tspan x="0" y="0">Size Guide</tspan></text>
+    </g>
+    <g id="Group_13913" data-name="Group 13913" transform="translate(-12 -3122)">
+      <g id="Group_13886" data-name="Group 13886" transform="translate(-21)">
+        <text id="STORES" class="cls-48" transform="translate(423 4899)"><tspan x="0" y="0">STORES</tspan></text>
+        <g id="Rectangle_9658" data-name="Rectangle 9658" class="cls-49" transform="translate(403 4879)">
+          <rect class="cls-50" width="97" height="29"/>
+          <rect class="cls-3" x="0.5" y="0.5" width="96" height="28"/>
+        </g>
+      </g>
+      <g id="Group_13887" data-name="Group 13887">
+        <text id="TERMS_CONDITIONS" data-name="TERMS &amp; CONDITIONS" class="cls-48" transform="translate(537 4899)"><tspan x="0" y="0">TERMS &amp; CONDITIONS</tspan></text>
+        <g id="Rectangle_9659" data-name="Rectangle 9659" class="cls-49" transform="translate(517 4879)">
+          <rect class="cls-50" width="201" height="29"/>
+          <rect class="cls-3" x="0.5" y="0.5" width="200" height="28"/>
+        </g>
+      </g>
+      <g id="Group_13888" data-name="Group 13888" transform="translate(-4)">
+        <text id="PRIVACY_POLICY" data-name="PRIVACY POLICY" class="cls-48" transform="translate(782 4899)"><tspan x="0" y="0">PRIVACY POLICY</tspan></text>
+        <g id="Rectangle_9660" data-name="Rectangle 9660" class="cls-49" transform="translate(760 4879)">
+          <rect class="cls-50" width="166" height="29"/>
+          <rect class="cls-3" x="0.5" y="0.5" width="165" height="28"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

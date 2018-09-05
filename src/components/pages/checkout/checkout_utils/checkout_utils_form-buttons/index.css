@@ -1,0 +1,33 @@
+.checkout_utils_form-buttons{
+    width: 100%;
+    height: 43px;
+    display: flex;
+    justify-content: space-between;
+}
+.checkout_utils_form-buttons-button1{
+    width: 280px;
+    height: 43px;
+    background-color: #C6BCB3;
+    border-radius: 6px;
+    font-family: Raleway-Bold;
+    font-size: 13px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+.checkout_utils_form-buttons-button2{
+    width: 278px;
+    height: 43px;
+    border: 1px solid #C6BCB3;
+    border-radius: 6px;
+    font-family: Raleway-Bold;
+    font-size: 13px;
+    color: #C6BCB3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    cursor: pointer;
+}

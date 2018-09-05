@@ -1,0 +1,32 @@
+
+
+.header-menu{
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px #ECE9E6 solid;
+}
+.header-menu__container{
+    display: flex;
+    font-size: 12px;
+    font-family: GOTHAM-BOLD;
+    color: #393939;
+    text-align: left;
+}
+.header-menu__container__option{
+    display: flex;
+    align-items: center;
+    margin-left: 20px;
+    margin-right: 15px;
+    cursor: pointer;
+}
+.header-menu__container__option__icon{ 
+    background-image: url('http://localhost:3000/icons/collapse.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    width: 8.25px;
+    height: 6.63px;
+    margin-left: 10px;
+}

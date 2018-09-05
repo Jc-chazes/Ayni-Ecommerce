@@ -1,0 +1,19 @@
+.menu-options {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.menu-options_li {
+    text-align: center;
+    display: inline;
+    text-align: center;
+}
+.menu-options_a {
+    color: #393939;
+    text-decoration: none;
+}
+.menu-options_a-active a{
+    border-radius: 5px;
+    color: #716558;
+    text-decoration: underline;
+}

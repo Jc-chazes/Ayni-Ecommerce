@@ -1,0 +1,20 @@
+.menu-options {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.menu-options_li {
+    text-align: center;
+    display: inline;
+    text-align: center;
+}
+.menu-options_a {
+    color: #000;
+    text-decoration: none;
+    font-family:  Raleway-Semibold;
+    font-size: 12px;
+}
+.menu-options_a-active a{
+    border-radius: 5px;
+    color: #716558;
+}

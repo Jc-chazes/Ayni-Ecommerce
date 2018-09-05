@@ -1,0 +1,46 @@
+.shop-catalog-order-by{
+    width: 93%; /* 948px */
+    height: 38px;
+    background-color: #DFDEDE;
+    border-radius: 30px;
+    display: flex;
+}
+.shop-catalog-order-by__label{
+    width: 15%;
+    font-family: GOTHAM-BOLD;
+    letter-spacing: -0.5px;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.shop-catalog-order-by__options{
+    width: 86%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 10px;
+    padding-right: 45px;
+}
+.shop-catalog-order-by__options__content{
+    width: auto;
+    display: flex;
+    cursor: pointer;
+}
+.shop-catalog-order-by__options__content__marker{
+    width: 10px;
+    height: 10px;
+    border: 2px #707070 solid;
+}
+.shop-catalog-order-by__options__content__marker-selected{
+    width: 10px;
+    height: 10px;
+    border: 2px #707070 solid;
+    background-color: black;
+}
+.shop-catalog-order-by__options__content__text{
+    width: auto;
+    font-size: 12px;
+    font-family: Gotham-book;
+    padding-left: 10px;
+}

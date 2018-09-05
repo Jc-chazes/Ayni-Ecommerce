@@ -1,0 +1,66 @@
+.newsletter-body{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+}
+.newsletter-body__container{
+    width: 84%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.newsletter-body__container__content{
+    width: 345.33px;
+    height: auto;
+    padding-bottom: 30px;
+}
+.newsletter-body__container__content img{
+    width: 100%;
+    padding-bottom: 5px;
+    pointer-events: none;
+}
+.newsletter-body__container__content__category{
+    width: 60px;
+    height: 24px;
+    background-color: #DFDEDE;
+    border-radius: 12px;
+    font-family: Raleway-Bold;
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #000000;
+}
+.newsletter-body__container__content__title{
+    font-size: 24px;
+    font-family: GOTHAM-LIGHT;
+    font-weight: bold;
+    text-align: left;
+    color: #393939;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.newsletter-body__container__content__description{
+    font-size: 12px;
+    font-family: Gotham-Book;
+    color: #B7B7B7;
+    text-align: left;
+}
+.newsletter-body__container__content__date{
+    font-size: 12px;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    color: #000000;
+    text-align: left;
+}
+
+/* Mobile version */
+@media only screen and (max-width: 800px){
+    .newsletter-body__container__content{
+        padding-top: 20px;
+        padding-bottom: 20px;
+        border-bottom: 1px black solid;
+    }
+}

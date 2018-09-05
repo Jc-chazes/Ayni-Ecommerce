@@ -1,0 +1,21 @@
+.shop-detail{
+    margin: auto;
+    width: 94.9%; /* 1280px */
+    height: auto;  
+}
+.shop-detail__container{
+    width: 100%;
+    padding-top: 182.66px;
+}
+
+@media only screen and (max-width: 800px){
+    .shop-detail{
+        margin: auto;
+        width: 100%;
+        height: auto;
+    }
+    .shop-detail__container{
+        width: 100%;
+        padding-top: 58px;
+    }
+}

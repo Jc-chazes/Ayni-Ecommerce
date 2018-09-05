@@ -1,0 +1,686 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 1661">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-33, .cls-47, .cls-50, .cls-53, .cls-55, .cls-77, .cls-78, .cls-79, .cls-83, .cls-84 {
+        fill: none;
+      }
+
+      .cls-1 {
+        clip-rule: evenodd;
+      }
+
+      .cls-3 {
+        stroke: #95989a;
+      }
+
+      .cls-4 {
+        clip-path: url(#clip-SHOP);
+      }
+
+      .cls-13, .cls-22, .cls-36, .cls-41, .cls-42, .cls-43, .cls-44, .cls-45, .cls-46, .cls-48, .cls-49, .cls-5, .cls-51, .cls-52, .cls-56, .cls-58, .cls-6, .cls-72, .cls-75, .cls-80, .cls-81, .cls-82 {
+        fill: #393939;
+      }
+
+      .cls-41, .cls-5 {
+        font-size: 16px;
+      }
+
+      .cls-22, .cls-23, .cls-28, .cls-34, .cls-35, .cls-49, .cls-5, .cls-51, .cls-74, .cls-75 {
+        font-family: Raleway-Bold, Raleway;
+        font-weight: 700;
+      }
+
+      .cls-47, .cls-48, .cls-55, .cls-6, .cls-84 {
+        stroke: #393939;
+      }
+
+      .cls-48, .cls-6 {
+        stroke-width: 0.5px;
+      }
+
+      .cls-19, .cls-7, .cls-71 {
+        fill: #868686;
+      }
+
+      .cls-13, .cls-18, .cls-19, .cls-24, .cls-26, .cls-28, .cls-35, .cls-46, .cls-7, .cls-71 {
+        font-size: 13px;
+      }
+
+      .cls-24, .cls-42, .cls-56, .cls-7 {
+        font-family: Raleway-SemiBold, Raleway;
+        font-weight: 600;
+      }
+
+      .cls-8 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-9 {
+        clip-path: url(#clip-path-2);
+      }
+
+      .cls-10 {
+        fill: #ececec;
+      }
+
+      .cls-11 {
+        clip-path: url(#clip-path-3);
+      }
+
+      .cls-12 {
+        clip-path: url(#clip-path-5);
+      }
+
+      .cls-13, .cls-41, .cls-43, .cls-71 {
+        font-family: Raleway-Regular, Raleway;
+      }
+
+      .cls-14 {
+        clip-path: url(#clip-path-7);
+      }
+
+      .cls-15 {
+        fill: #f6f6f6;
+      }
+
+      .cls-16 {
+        clip-path: url(#clip-path-9);
+      }
+
+      .cls-17, .cls-18, .cls-24, .cls-26, .cls-28, .cls-34 {
+        fill: #212121;
+      }
+
+      .cls-18, .cls-19, .cls-45, .cls-46 {
+        font-family: Raleway-Medium, Raleway;
+        font-weight: 500;
+      }
+
+      .cls-20 {
+        clip-path: url(#clip-path-11);
+      }
+
+      .cls-21, .cls-35, .cls-74, .cls-87 {
+        fill: #fff;
+      }
+
+      .cls-22, .cls-23, .cls-45, .cls-49, .cls-51, .cls-56, .cls-74 {
+        font-size: 12px;
+      }
+
+      .cls-22, .cls-23, .cls-28, .cls-34 {
+        letter-spacing: 0.05em;
+      }
+
+      .cls-23 {
+        fill: #b7b7b7;
+      }
+
+      .cls-25 {
+        clip-path: url(#clip-path-13);
+      }
+
+      .cls-26 {
+        font-family: VarelaRound-Regular, Varela Round;
+      }
+
+      .cls-27 {
+        clip-path: url(#clip-path-15);
+      }
+
+      .cls-29 {
+        clip-path: url(#clip-path-16);
+      }
+
+      .cls-30 {
+        clip-path: url(#clip-path-18);
+      }
+
+      .cls-31 {
+        clip-path: url(#clip-path-20);
+      }
+
+      .cls-32 {
+        fill: url(#pattern);
+      }
+
+      .cls-33 {
+        stroke: #b7b7b7;
+      }
+
+      .cls-34 {
+        font-size: 20px;
+      }
+
+      .cls-35, .cls-74 {
+        letter-spacing: 0.024em;
+      }
+
+      .cls-36 {
+        font-size: 32px;
+        font-family: DKLemonYellowSun, DK Lemon Yellow Sun;
+        letter-spacing: 0.005em;
+      }
+
+      .cls-37 {
+        fill: #f1f1f1;
+      }
+
+      .cls-38 {
+        fill: #fafafa;
+      }
+
+      .cls-39 {
+        fill: #efefed;
+      }
+
+      .cls-40 {
+        fill: #f8f6f5;
+      }
+
+      .cls-41, .cls-43 {
+        letter-spacing: 0.014em;
+      }
+
+      .cls-42, .cls-43 {
+        font-size: 15px;
+      }
+
+      .cls-47, .cls-50 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-48, .cls-52, .cls-58, .cls-72, .cls-76, .cls-81 {
+        fill-rule: evenodd;
+      }
+
+      .cls-49, .cls-57 {
+        text-decoration: underline;
+      }
+
+      .cls-50 {
+        stroke: #988575;
+      }
+
+      .cls-53, .cls-83 {
+        stroke: #ece9e6;
+      }
+
+      .cls-54 {
+        clip-path: url(#clip-path-22);
+      }
+
+      .cls-55 {
+        stroke-width: 1.4px;
+      }
+
+      .cls-57 {
+        fill: #988575;
+      }
+
+      .cls-58 {
+        stroke: #fff;
+      }
+
+      .cls-58, .cls-83, .cls-84 {
+        stroke-width: 2px;
+      }
+
+      .cls-59, .cls-86 {
+        fill: #faf8f7;
+      }
+
+      .cls-60 {
+        clip-path: url(#clip-path-23);
+      }
+
+      .cls-61 {
+        fill: #d4d4d4;
+      }
+
+      .cls-62 {
+        clip-path: url(#clip-path-25);
+      }
+
+      .cls-63 {
+        clip-path: url(#clip-path-27);
+      }
+
+      .cls-64 {
+        clip-path: url(#clip-path-29);
+      }
+
+      .cls-65 {
+        clip-path: url(#clip-path-31);
+      }
+
+      .cls-66 {
+        clip-path: url(#clip-path-33);
+      }
+
+      .cls-67 {
+        clip-path: url(#clip-path-35);
+      }
+
+      .cls-68 {
+        clip-path: url(#clip-path-37);
+      }
+
+      .cls-69 {
+        clip-path: url(#clip-path-39);
+      }
+
+      .cls-70 {
+        clip-path: url(#clip-path-41);
+      }
+
+      .cls-73, .cls-76 {
+        fill: #c6bcb3;
+      }
+
+      .cls-75, .cls-80 {
+        font-size: 14px;
+      }
+
+      .cls-77, .cls-78 {
+        stroke: #c6bcb3;
+      }
+
+      .cls-77, .cls-78, .cls-79 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-78 {
+        stroke-dasharray: 11.984 11.984;
+      }
+
+      .cls-79 {
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+
+      .cls-80 {
+        font-family: Raleway-ExtraBold, Raleway;
+        font-weight: 800;
+        opacity: 0.8;
+      }
+
+      .cls-81 {
+        stroke: #faf8f7;
+        stroke-width: 0.8px;
+      }
+
+      .cls-82 {
+        font-size: 11px;
+        font-family: SegoeUI, Segoe UI;
+        opacity: 0.5;
+      }
+
+      .cls-85, .cls-86, .cls-87 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="Path_1615" data-name="Path 1615" class="cls-1" d="M0-261H1057.083v1.229H0Z" transform="translate(0 261)"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <path id="Path_1614" data-name="Path 1614" class="cls-2" d="M-50,190.458H1130V-461H-50Z" transform="translate(50 461)"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <path id="Path_1618" data-name="Path 1618" class="cls-1" d="M0-161H1057.083v1.229H0Z" transform="translate(0 161)"/>
+    </clipPath>
+    <clipPath id="clip-path-5">
+      <path id="Path_1621" data-name="Path 1621" class="cls-1" d="M0-61H1057.083v1.229H0Z" transform="translate(0 61)"/>
+    </clipPath>
+    <clipPath id="clip-path-7">
+      <path id="Path_1627" data-name="Path 1627" class="cls-1" d="M600-206.562A18.439,18.439,0,0,1,618.438-225H679.9a18.436,18.436,0,0,1,18.438,18.438h0A18.439,18.439,0,0,1,679.9-188.125H618.438A18.436,18.436,0,0,1,600-206.562Z" transform="translate(-600 225)"/>
+    </clipPath>
+    <clipPath id="clip-path-9">
+      <path id="Path_1630" data-name="Path 1630" class="cls-1" d="M619.146-211h-4.917A1.23,1.23,0,0,0,613-209.771a1.23,1.23,0,0,0,1.229,1.229h4.917a1.23,1.23,0,0,0,1.229-1.229A1.23,1.23,0,0,0,619.146-211Z" transform="translate(-613 211)"/>
+    </clipPath>
+    <clipPath id="clip-path-11">
+      <path id="Path_1633" data-name="Path 1633" class="cls-1" d="M0-250H98.333v98.333H0Z" transform="translate(0 250)"/>
+    </clipPath>
+    <clipPath id="clip-path-13">
+      <path id="Path_1636" data-name="Path 1636" class="cls-1" d="M667.146-210.542h-1.229v-1.229A1.23,1.23,0,0,0,664.687-213a1.23,1.23,0,0,0-1.229,1.229v1.229h-1.229A1.23,1.23,0,0,0,661-209.312a1.23,1.23,0,0,0,1.229,1.229h1.229v1.229a1.23,1.23,0,0,0,1.229,1.229,1.23,1.23,0,0,0,1.229-1.229v-1.229h1.229a1.23,1.23,0,0,0,1.229-1.229,1.23,1.23,0,0,0-1.229-1.229Z" transform="translate(-661 213)"/>
+    </clipPath>
+    <clipPath id="clip-path-15">
+      <rect id="Rectangle_2095" data-name="Rectangle 2095" class="cls-2" width="73.75" height="73.75"/>
+    </clipPath>
+    <clipPath id="clip-path-16">
+      <path id="Path_1642" data-name="Path 1642" class="cls-1" d="M600-106.562A18.439,18.439,0,0,1,618.438-125H679.9a18.436,18.436,0,0,1,18.438,18.438h0A18.439,18.439,0,0,1,679.9-88.125H618.438A18.436,18.436,0,0,1,600-106.562Z" transform="translate(-600 125)"/>
+    </clipPath>
+    <clipPath id="clip-path-18">
+      <path id="Path_1645" data-name="Path 1645" class="cls-1" d="M619.146-111h-4.917A1.23,1.23,0,0,0,613-109.771a1.23,1.23,0,0,0,1.229,1.229h4.917a1.23,1.23,0,0,0,1.229-1.229A1.23,1.23,0,0,0,619.146-111Z" transform="translate(-613 111)"/>
+    </clipPath>
+    <clipPath id="clip-path-20">
+      <path id="Path_1648" data-name="Path 1648" class="cls-1" d="M667.146-110.542h-1.229v-1.229A1.23,1.23,0,0,0,664.687-113a1.23,1.23,0,0,0-1.229,1.229v1.229h-1.229A1.23,1.23,0,0,0,661-109.312a1.23,1.23,0,0,0,1.229,1.229h1.229v1.229a1.23,1.23,0,0,0,1.229,1.229,1.23,1.23,0,0,0,1.229-1.229v-1.229h1.229a1.23,1.23,0,0,0,1.229-1.229,1.23,1.23,0,0,0-1.229-1.229Z" transform="translate(-661 113)"/>
+    </clipPath>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 750 1125">
+      <image width="750" height="1125" xlink:href="SHOP-image2.png"/>
+    </pattern>
+    <clipPath id="clip-path-22">
+      <rect id="Rectangle_16" data-name="Rectangle 16" class="cls-3" width="21.037" height="8.454"/>
+    </clipPath>
+    <clipPath id="clip-path-23">
+      <path id="Path_13985" data-name="Path 13985" class="cls-1" d="M263.438-21a1.23,1.23,0,0,1,1.229,1.229V-7.479s-.551,1.229-1.229,1.229H246.229A1.23,1.23,0,0,1,245-7.479V-19.771A1.23,1.23,0,0,1,246.229-21Zm-17.208,1.229V-7.479h17.208V-19.771Z" transform="translate(-245 21)"/>
+    </clipPath>
+    <clipPath id="clip-path-25">
+      <path id="Path_13988" data-name="Path 13988" class="cls-1" d="M247-19.031h1.229v9.846H247Z" transform="translate(-247 19.031)"/>
+    </clipPath>
+    <clipPath id="clip-path-27">
+      <path id="Path_13991" data-name="Path 13991" class="cls-1" d="M253.021-18.99h2.433v4.879h-2.433Z" transform="translate(-253.021 18.99)"/>
+    </clipPath>
+    <clipPath id="clip-path-29">
+      <path id="Path_13994" data-name="Path 13994" class="cls-1" d="M256-18.99h1.229v4.917H256Z" transform="translate(-256 18.99)"/>
+    </clipPath>
+    <clipPath id="clip-path-31">
+      <path id="Path_13997" data-name="Path 13997" class="cls-1" d="M258.021-19h1.165v9.731h-1.165Z" transform="translate(-258.021 19)"/>
+    </clipPath>
+    <clipPath id="clip-path-33">
+      <path id="Path_14000" data-name="Path 14000" class="cls-1" d="M249-19h1.229v4.917H249Z" transform="translate(-249 19)"/>
+    </clipPath>
+    <clipPath id="clip-path-35">
+      <path id="Path_14003" data-name="Path 14003" class="cls-1" d="M250.163-12.821v2.505h1.229V-13.98h-1c-.075.332-.19-.073-.344.017a2.22,2.22,0,0,1-.816.191v.951h.934" transform="translate(-249.229 13.98)"/>
+    </clipPath>
+    <clipPath id="clip-path-37">
+      <path id="Path_14006" data-name="Path 14006" class="cls-1" d="M251.978-14v1h1.34c-.3.347-.129.027-.4.5a6.1,6.1,0,0,0-.9,2.179h1.058a6.321,6.321,0,0,1,1.152-2.517c.23-.332.029-.564.167-.7V-14h-2.413" transform="translate(-251.978 13.999)"/>
+    </clipPath>
+    <clipPath id="clip-path-39">
+      <path id="Path_14009" data-name="Path 14009" class="cls-1" d="M254.978-14v1h1.34c-.3.347-.129.027-.4.5a6.1,6.1,0,0,0-.9,2.179h1.058a6.321,6.321,0,0,1,1.152-2.517c.23-.332.03-.564.167-.7V-14h-2.413" transform="translate(-254.978 13.999)"/>
+    </clipPath>
+    <clipPath id="clip-path-41">
+      <path id="Path_14012" data-name="Path 14012" class="cls-1" d="M251-19h1.229v4.917H251Z" transform="translate(-251 19)"/>
+    </clipPath>
+    <clipPath id="clip-SHOP">
+      <rect width="1280" height="1661"/>
+    </clipPath>
+    <image id="image" width="65.553" height="98.33" xlink:href="SHOP-image3.png"/>
+  </defs>
+  <g id="SHOP" class="cls-4">
+    <rect class="cls-21" width="1280" height="1661"/>
+    <text id="MIS_COMPRAS_2_" data-name="MIS COMPRAS (2)" class="cls-5" transform="translate(132.09 250)"><tspan x="0" y="0">MIS COMPRAS (2)</tspan></text>
+    <g id="Group_8775" data-name="Group 8775" transform="translate(82 215)">
+      <path id="Path_1345" data-name="Path 1345" class="cls-6" d="M36.14,22.129v-.88a4.249,4.249,0,1,0-8.5,0v.88H24V36.393a.609.609,0,0,0,.607.607H39.175a.609.609,0,0,0,.607-.607V22.129H36.14Zm-7.284-.85a3.035,3.035,0,1,1,6.07,0v.88h-6.07Zm9.712,14.507H25.214V23.343h2.428v3.976h1.214V23.343h6.07v3.976H36.14V23.343h2.428Z"/>
+    </g>
+    <text id="Total:" class="cls-7" transform="translate(902.271 623.917)"><tspan x="0" y="0">Total:</tspan></text>
+    <g id="Group_9257" data-name="Group 9257" class="cls-8" transform="translate(106.458 328.833)">
+      <g id="Group_9256" data-name="Group 9256" class="cls-9" transform="translate(-61.458 -245.833)">
+        <path id="Path_1613" data-name="Path 1613" class="cls-10" d="M-5-252.479H1064.375V-266H-5Z" transform="translate(60.313 505.688)"/>
+      </g>
+    </g>
+    <g id="Group_9259" data-name="Group 9259" class="cls-11" transform="translate(106.458 451.75)">
+      <g id="Group_9258" data-name="Group 9258" class="cls-9" transform="translate(-61.458 -368.75)">
+        <path id="Path_1616" data-name="Path 1616" class="cls-10" d="M-5-152.479H1064.375V-166H-5Z" transform="translate(60.313 528.604)"/>
+      </g>
+    </g>
+    <g id="Group_9261" data-name="Group 9261" class="cls-12" transform="translate(106.458 574.667)">
+      <g id="Group_9260" data-name="Group 9260" class="cls-9" transform="translate(-61.458 -491.667)">
+        <path id="Path_1619" data-name="Path 1619" class="cls-10" d="M-5-52.479H1064.375V-66H-5Z" transform="translate(60.313 551.521)"/>
+      </g>
+    </g>
+    <text id="Elemento" class="cls-13" transform="translate(105.844 302.729)"><tspan x="0" y="0">Elemento</tspan></text>
+    <text id="Color" class="cls-13" transform="translate(486.886 302.729)"><tspan x="0" y="0">Color</tspan></text>
+    <text id="Talla" class="cls-13" transform="translate(609.802 302.729)"><tspan x="0" y="0">Talla</tspan></text>
+    <text id="Precio" class="cls-13" transform="translate(720.427 302.729)"><tspan x="0" y="0">Precio</tspan></text>
+    <text id="Cantidad" class="cls-13" transform="translate(843.344 302.729)"><tspan x="0" y="0">Cantidad</tspan></text>
+    <text id="Total" class="cls-13" transform="translate(990.844 302.729)"><tspan x="0" y="0">Total</tspan></text>
+    <g id="Group_9265" data-name="Group 9265" class="cls-14" transform="translate(843.958 373.083)">
+      <g id="Group_9264" data-name="Group 9264" class="cls-9" transform="translate(-798.958 -290.083)">
+        <path id="Path_1625" data-name="Path 1625" class="cls-15" d="M595-180.833H705.625V-230H595Z" transform="translate(197.812 513.938)"/>
+      </g>
+    </g>
+    <g id="Group_9267" data-name="Group 9267" class="cls-16" transform="translate(859.938 390.292)">
+      <g id="Group_9266" data-name="Group 9266" class="cls-9" transform="translate(-814.938 -307.292)">
+        <path id="Path_1628" data-name="Path 1628" class="cls-17" d="M608-201.25h19.667V-216H608Z" transform="translate(200.792 517.146)"/>
+      </g>
+    </g>
+    <text id="Floral_Off-the-Shoulder_Romper" data-name="Floral Off-the-Shoulder 
+Romper" class="cls-18" transform="translate(228.146 364.188)"><tspan x="0" y="0">Floral Off-the-Shoulder </tspan><tspan x="0" y="16">Romper</tspan></text>
+    <text id="Top" class="cls-19" transform="translate(228.146 415.583)"><tspan x="0" y="0">Top</tspan></text>
+    <g id="Group_9269" data-name="Group 9269" class="cls-20" transform="translate(106 342.354)">
+      <g id="Group_9268" data-name="Group 9268" class="cls-9" transform="translate(-61.458 -259.354)">
+        <path id="Path_1631" data-name="Path 1631" class="cls-21" d="M-5-144.375H105.625V-255H-5Z" transform="translate(60.313 508.208)"/>
+      </g>
+    </g>
+    <text id="Rojo" class="cls-19" transform="translate(488.114 392.229)"><tspan x="0" y="0">Rojo</tspan></text>
+    <text id="S" class="cls-19" transform="translate(610.417 392.229)"><tspan x="0" y="0">S</tspan></text>
+    <text id="S_60.oo" data-name="S/ 60.oo" class="cls-22" transform="translate(717.042 400.688)"><tspan x="0" y="0">S/ 60.oo</tspan></text>
+    <text id="S_69.oo" data-name="S/ 69.oo" class="cls-23" transform="translate(716.208 382.146)"><tspan x="0" y="0">S/ 69.oo</tspan></text>
+    <text id="_2" data-name="2" class="cls-24" transform="translate(889.438 394.917)"><tspan x="0" y="0">2</tspan></text>
+    <g id="Group_9271" data-name="Group 9271" class="cls-25" transform="translate(918.938 387.833)">
+      <g id="Group_9270" data-name="Group 9270" class="cls-9" transform="translate(-873.938 -304.833)">
+        <path id="Path_1634" data-name="Path 1634" class="cls-17" d="M656-198.333h19.667V-218H656Z" transform="translate(211.792 516.688)"/>
+      </g>
+    </g>
+    <text id="Lyle_Scott_Men_s_Short_" data-name="Lyle &amp; Scott Men&apos;s Short " class="cls-26" transform="translate(228.146 487.104)"><tspan x="0" y="0">Lyle &amp; Scott Men&apos;s Short </tspan></text>
+    <text id="Sleeve_Camo_Pocket" data-name="Sleeve Camo Pocket" class="cls-26" transform="translate(228.146 506.771)"><tspan x="0" y="0">Sleeve Camo Pocket</tspan></text>
+    <text id="Pantalón" class="cls-19" transform="translate(228.146 538.5)"><tspan x="0" y="0">Pantalón</tspan></text>
+    <g id="Group_9274" data-name="Group 9274" class="cls-27" transform="translate(118.75 477.563)">
+      <image id="Rectangle_2094" data-name="Rectangle 2094" width="73.75" height="73.75" xlink:href="SHOP-image.png"/>
+    </g>
+    <text id="Green" class="cls-19" transform="translate(487.5 516)"><tspan x="0" y="0">Green</tspan></text>
+    <text id="XXL" class="cls-19" transform="translate(611.417 516)"><tspan x="0" y="0">XXL</tspan></text>
+    <text id="S_89.oo" data-name="S/ 89.oo" class="cls-28" transform="translate(721.042 516)"><tspan x="0" y="0">S/ 89.oo</tspan></text>
+    <g id="Group_9276" data-name="Group 9276" class="cls-29" transform="translate(843.958 496)">
+      <g id="Group_9275" data-name="Group 9275" class="cls-9" transform="translate(-798.958 -413)">
+        <path id="Path_1640" data-name="Path 1640" class="cls-15" d="M595-80.833H705.625V-130H595Z" transform="translate(197.812 536.854)"/>
+      </g>
+    </g>
+    <g id="Group_9278" data-name="Group 9278" class="cls-30" transform="translate(859.938 513.208)">
+      <g id="Group_9277" data-name="Group 9277" class="cls-9" transform="translate(-814.938 -430.208)">
+        <path id="Path_1643" data-name="Path 1643" class="cls-17" d="M608-101.25h19.667V-116H608Z" transform="translate(200.792 540.063)"/>
+      </g>
+    </g>
+    <text id="_1" data-name="1" class="cls-24" transform="translate(889.438 517.833)"><tspan x="0" y="0">1</tspan></text>
+    <g id="Group_9280" data-name="Group 9280" class="cls-31" transform="translate(918.938 510.75)">
+      <g id="Group_9279" data-name="Group 9279" class="cls-9" transform="translate(-873.938 -427.75)">
+        <path id="Path_1646" data-name="Path 1646" class="cls-17" d="M656-98.333h19.667V-118H656Z" transform="translate(211.792 539.604)"/>
+      </g>
+    </g>
+    <path id="Path_1649" data-name="Path 1649" class="cls-32" d="M0,0H65.556V98.333H0Z" transform="translate(123 342.354)"/>
+    <use id="Image_297" data-name="Image 297" transform="translate(123 465)" xlink:href="#image"/>
+    <line id="Line_3585" data-name="Line 3585" class="cls-33" x2="59" transform="translate(713.5 378.5)"/>
+    <text id="S_120.oo" data-name="S/ 120.oo" class="cls-22" transform="translate(991.042 396.688)"><tspan x="0" y="0">S/ 120.oo</tspan></text>
+    <text id="S_89.oo-2" data-name="S/ 89.oo" class="cls-28" transform="translate(990.042 516)"><tspan x="0" y="0">S/ 89.oo</tspan></text>
+    <text id="S_209.oo" data-name="S/ 209.oo" class="cls-34" transform="translate(954 625)"><tspan x="0" y="0">S/ 209.oo</tspan></text>
+    <text id="PROCESAR_COMPRA" data-name="PROCESAR COMPRA" class="cls-35" transform="translate(898 676)"><tspan x="0" y="0">PROCESAR COMPRA</tspan></text>
+    <text id="Agrega_más_prendas_a_tu_compra" data-name="Agrega más prendas a tu compra" class="cls-36" transform="translate(403 797)"><tspan x="0" y="0">Agrega más prendas a tu compra</tspan></text>
+    <g id="Group_9283" data-name="Group 9283" transform="translate(93 846.361)">
+      <rect id="Rectangle_1788" data-name="Rectangle 1788" class="cls-37" width="252.445" height="319.183" transform="translate(0 0)"/>
+      <image id="Image_118" data-name="Image 118" width="212.789" height="319.183" transform="translate(19.586 0)" xlink:href="SHOP-image4.png"/>
+    </g>
+    <g id="Group_9284" data-name="Group 9284" transform="translate(373 846.361)">
+      <rect id="Rectangle_1788-2" data-name="Rectangle 1788" class="cls-38" width="252.445" height="319.183" transform="translate(0 0)"/>
+      <image id="Image_119" data-name="Image 119" width="212.789" height="319.183" transform="translate(19.586 0)" xlink:href="SHOP-image5.png"/>
+    </g>
+    <g id="Group_9285" data-name="Group 9285" transform="translate(654 846.361)">
+      <rect id="Rectangle_1788-3" data-name="Rectangle 1788" class="cls-39" width="252.445" height="319.183" transform="translate(0 0)"/>
+      <use id="Image_120" data-name="Image 120" transform="translate(19.586 0) scale(3.246 3.246)" xlink:href="#image"/>
+    </g>
+    <g id="Group_9286" data-name="Group 9286" transform="translate(934 846.361)">
+      <rect id="Rectangle_1788-4" data-name="Rectangle 1788" class="cls-39" width="252.445" height="319.183" transform="translate(0 0)"/>
+      <g id="Group_9069" data-name="Group 9069" transform="translate(-528.096 -987.361)">
+        <rect id="Rectangle_1788-5" data-name="Rectangle 1788" class="cls-40" width="252.442" height="319.18" transform="translate(529 987)"/>
+        <image id="Image_106" data-name="Image 106" width="212.787" height="319.18" transform="translate(548.586 987)" xlink:href="SHOP-image6.png"/>
+      </g>
+    </g>
+    <text id="Paperbag_Chino_Pants" data-name="Paperbag Chino Pants" class="cls-41" transform="translate(696 1200)"><tspan x="0" y="0">Paperbag Chino Pants</tspan></text>
+    <text id="S_69.00" data-name="S/ 69.00" class="cls-42" transform="translate(749 1230)"><tspan x="0" y="0">S/ 69.00</tspan></text>
+    <text id="Off-the-Shoulder_Ribbed_Knit_Top" data-name="Off-the-Shoulder Ribbed Knit Top" class="cls-43" transform="translate(380 1199)"><tspan x="0" y="0">Off-the-Shoulder Ribbed Knit Top</tspan></text>
+    <text id="Enterizo_Lily" data-name="Enterizo Lily" class="cls-41" transform="translate(173 1200)"><tspan x="0" y="0">Enterizo Lily</tspan></text>
+    <text id="S_69.00-2" data-name="S/ 69.00" class="cls-42" transform="translate(468 1230)"><tspan x="0" y="0">S/ 69.00</tspan></text>
+    <text id="S_69.00-3" data-name="S/ 69.00" class="cls-42" transform="translate(188 1230)"><tspan x="0" y="0">S/ 69.00</tspan></text>
+    <text id="Floral_Ruffled_Hem_Crop_Top" data-name="Floral Ruffled Hem Crop Top" class="cls-41" transform="translate(952 1205)"><tspan x="0" y="0">Floral Ruffled Hem Crop Top</tspan></text>
+    <text id="S_69.00-4" data-name="S/ 69.00" class="cls-42" transform="translate(1030 1230)"><tspan x="0" y="0">S/ 69.00</tspan></text>
+    <g id="Group_11868" data-name="Group 11868" transform="translate(579 33.054)">
+      <rect id="Rectangle_1559" data-name="Rectangle 1559" class="cls-44" width="3.196" height="29.675" transform="translate(58.491 8.301)"/>
+      <path id="Path_1234" data-name="Path 1234" class="cls-44" d="M316.855,50.067v-1A14.427,14.427,0,0,0,302.447,34.8H292.5V64.475h9.947A14.426,14.426,0,0,0,316.855,50.067ZM295.625,61.66V37.591h6.154c6.727,0,11.593,4.771,11.617,11.5v.978a11.175,11.175,0,0,1-11.617,11.569h-6.154Z" transform="translate(-222.726 -26.499)"/>
+      <path id="Path_1235" data-name="Path 1235" class="cls-44" d="M13.836,37.913l10.5,23.592h3.316l-12.953-28.7L13.788,30.9l-.906,1.908L0,61.505H3.316Z" transform="translate(0 -23.529)"/>
+      <path id="Path_1236" data-name="Path 1236" class="cls-44" d="M32.2,6.608,43.555,2.171,42.6,0,33.512,3.6Z" transform="translate(-24.519)"/>
+      <path id="Path_1237" data-name="Path 1237" class="cls-44" d="M412.436,37.913l10.5,23.592h3.316l-12.953-28.7-.906-1.908-.907,1.908L398.6,61.505h3.316Z" transform="translate(-303.517 -23.529)"/>
+      <path id="Path_1238" data-name="Path 1238" class="cls-44" d="M153.162,64.551,146.7,52.576l.191-.072a9.162,9.162,0,0,0,6.083-8.373v-.573a8.829,8.829,0,0,0-8.945-8.659H132.6V64.575h3.173V37.882h8.039a6,6,0,0,1,5.916,5.7v.6a5.976,5.976,0,0,1-5.916,5.987h-2.385l7.848,14.408h3.888Z" transform="translate(-100.969 -26.575)"/>
+    </g>
+    <text id="Compras" class="cls-45" transform="translate(1184.813 66)"><tspan x="0" y="0">Compras</tspan></text>
+    <g id="Group_11869" data-name="Group 11869">
+      <text id="Buscar" class="cls-46" transform="translate(1037.813 119)"><tspan x="0" y="0">Buscar</tspan></text>
+      <line id="Line_3457" data-name="Line 3457" class="cls-47" x2="199" transform="translate(1037.5 126.5)"/>
+      <path id="Path_1358" data-name="Path 1358" class="cls-48" d="M883.085-1650.7l3.575,3.576-.782.782-3.575-3.576a5.667,5.667,0,0,1-3.613,1.295,5.689,5.689,0,0,1-5.689-5.689,5.689,5.689,0,0,1,5.689-5.689,5.689,5.689,0,0,1,5.689,5.689A5.666,5.666,0,0,1,883.085-1650.7Zm-4.4-8.164a4.551,4.551,0,0,0-4.552,4.552,4.552,4.552,0,0,0,4.552,4.551,4.552,4.552,0,0,0,4.552-4.551A4.551,4.551,0,0,0,878.689-1658.863Z" transform="translate(344.37 1766)"/>
+    </g>
+    <g id="Group_11870" data-name="Group 11870" transform="translate(1141 34)">
+      <path id="Path_1345-2" data-name="Path 1345" class="cls-44" d="M34.926,21.616v-.792a3.824,3.824,0,1,0-7.648,0v.792H24V34.454a.548.548,0,0,0,.546.546H37.657a.548.548,0,0,0,.546-.546V21.616H34.926Zm-6.555-.765a2.731,2.731,0,0,1,5.463,0v.792H28.37Zm8.741,13.056H25.093v-11.2h2.185v3.578H28.37V22.709h5.463v3.578h1.093V22.709h2.185Z" transform="translate(0 0)"/>
+    </g>
+    <g id="Group_11871" data-name="Group 11871">
+      <text id="CREAR_OUTFIT" data-name="CREAR OUTFIT" class="cls-49" transform="translate(63.09 124)"><tspan x="0" y="0">CREAR OUTFIT</tspan></text>
+      <g id="Group_8678" data-name="Group 8678" transform="translate(23.369 117.378)">
+        <path id="Path_588" data-name="Path 588" class="cls-50" d="M0,.524,4.6,0,4.072,4.6" transform="translate(29.376 0) rotate(45)"/>
+        <line id="Line_3242" data-name="Line 3242" class="cls-50" x2="12.554" transform="translate(20.025 3.25)"/>
+      </g>
+    </g>
+    <g id="Group_11872" data-name="Group 11872" transform="translate(-4961 11258)">
+      <text id="HOME" class="cls-51" transform="translate(5365 -11133)"><tspan x="0" y="0">HOME</tspan></text>
+      <text id="SALE_" data-name="SALE!" class="cls-51" transform="translate(5544.813 -11133)"><tspan x="0" y="0">SALE!</tspan></text>
+      <text id="ARIDANDO" class="cls-51" transform="translate(5626.813 -11133)"><tspan x="0" y="0">ARIDANDO</tspan></text>
+      <text id="ENCUÉNTRANOS" class="cls-51" transform="translate(5738.813 -11133)"><tspan x="0" y="0">ENCUÉNTRANOS</tspan></text>
+      <g id="Group_8538" data-name="Group 8538" transform="translate(42)">
+        <text id="SHOP-2" data-name="SHOP" class="cls-51" transform="translate(5400.813 -11133)"><tspan x="0" y="0">SHOP</tspan></text>
+        <g id="ic_arrow_drop_down" transform="translate(5262.3 -11225)">
+          <rect id="rectangle" class="cls-2" width="20" height="20" transform="translate(172 78)"/>
+          <path id="path" class="cls-52" d="M7,10l4.167,4.167L15.333,10Z" transform="translate(170.833 76.333)"/>
+        </g>
+      </g>
+    </g>
+    <line id="Line_3628" data-name="Line 3628" class="cls-53" x2="1280" transform="translate(0.5 155.5)"/>
+    <g id="Group_11873" data-name="Group 11873" transform="translate(1065.555 52)">
+      <g id="Group_2" data-name="Group 2" transform="translate(0)">
+        <g id="Mask_Group_1" data-name="Mask Group 1" class="cls-54" transform="translate(0 8.546)">
+          <g id="Ellipse_1" data-name="Ellipse 1" class="cls-55" transform="translate(1.972 1.972)">
+            <ellipse class="cls-85" cx="8.546" cy="7.889" rx="8.546" ry="7.889"/>
+            <ellipse class="cls-2" cx="8.546" cy="7.889" rx="7.846" ry="7.189"/>
+          </g>
+        </g>
+        <g id="Ellipse_2" data-name="Ellipse 2" class="cls-55" transform="translate(5.917)">
+          <ellipse class="cls-85" cx="4.931" cy="4.931" rx="4.931" ry="4.931"/>
+          <ellipse class="cls-2" cx="4.931" cy="4.931" rx="4.231" ry="4.231"/>
+        </g>
+      </g>
+    </g>
+    <text id="Mi_Cuenta" data-name="Mi Cuenta" class="cls-45" transform="translate(1091.813 66)"><tspan x="0" y="0">Mi Cuenta</tspan></text>
+    <text id="Home_Shop_Mis_compras" data-name="Home  /  Shop  /  Mis compras" class="cls-56" transform="translate(106 202)"><tspan x="0" y="0" xml:space="preserve">Home  /  Shop  /  </tspan><tspan class="cls-57" y="0">Mis compras</tspan></text>
+    <path id="Path_13981" data-name="Path 13981" class="cls-58" d="M834.292-213.949A2.05,2.05,0,0,0,832.243-216a2.035,2.035,0,0,0-1.448.6l-2.649,2.649L825.5-215.4a2.042,2.042,0,0,0-1.448-.6A2.048,2.048,0,0,0,822-213.949a2.046,2.046,0,0,0,.6,1.448l2.647,2.647-2.647,2.649a2.042,2.042,0,0,0-.6,1.448,2.047,2.047,0,0,0,2.049,2.049,2.049,2.049,0,0,0,1.448-.6l2.649-2.649,2.649,2.649a2.042,2.042,0,0,0,1.448.6,2.048,2.048,0,0,0,2.049-2.049,2.042,2.042,0,0,0-.6-1.448l-2.649-2.649,2.649-2.647a2.046,2.046,0,0,0,.6-1.448Z" transform="translate(294.5 602.5)"/>
+    <path id="Path_13982" data-name="Path 13982" class="cls-58" d="M834.292-213.949A2.05,2.05,0,0,0,832.243-216a2.035,2.035,0,0,0-1.448.6l-2.649,2.649L825.5-215.4a2.042,2.042,0,0,0-1.448-.6A2.048,2.048,0,0,0,822-213.949a2.046,2.046,0,0,0,.6,1.448l2.647,2.647-2.647,2.649a2.042,2.042,0,0,0-.6,1.448,2.047,2.047,0,0,0,2.049,2.049,2.049,2.049,0,0,0,1.448-.6l2.649-2.649,2.649,2.649a2.042,2.042,0,0,0,1.448.6,2.048,2.048,0,0,0,2.049-2.049,2.042,2.042,0,0,0-.6-1.448l-2.649-2.649,2.649-2.647a2.046,2.046,0,0,0,.6-1.448Z" transform="translate(294.5 723.5)"/>
+    <rect id="Rectangle_9496" data-name="Rectangle 9496" class="cls-59" width="296" height="36" rx="6" transform="translate(119 602)"/>
+    <g id="Group_13231" data-name="Group 13231" class="cls-60" transform="translate(137.604 612.833)">
+      <g id="Group_13230" data-name="Group 13230" class="cls-9" transform="translate(-362.604 -540.833)">
+        <path id="Path_13983" data-name="Path 13983" class="cls-61" d="M240,1.042h31.958V-26H240Z" transform="translate(116.458 560.688)"/>
+      </g>
+    </g>
+    <g id="Group_13233" data-name="Group 13233" class="cls-62" transform="translate(140.063 615.253)">
+      <g id="Group_13232" data-name="Group 13232" class="cls-9" transform="translate(-365.063 -543.254)">
+        <path id="Path_13986" data-name="Path 13986" class="cls-61" d="M242-1.894h13.521V-24.031H242Z" transform="translate(116.917 561.139)"/>
+      </g>
+    </g>
+    <g id="Group_13235" data-name="Group 13235" class="cls-63" transform="translate(147.463 615.304)">
+      <g id="Group_13234" data-name="Group 13234" class="cls-9" transform="translate(-372.463 -543.304)">
+        <path id="Path_13989" data-name="Path 13989" class="cls-61" d="M248.021-6.82h14.724V-23.99H248.021Z" transform="translate(118.296 561.148)"/>
+      </g>
+    </g>
+    <g id="Group_13237" data-name="Group 13237" class="cls-64" transform="translate(151.125 615.304)">
+      <g id="Group_13236" data-name="Group 13236" class="cls-9" transform="translate(-376.125 -543.304)">
+        <path id="Path_13992" data-name="Path 13992" class="cls-61" d="M251-6.782h13.521V-23.99H251Z" transform="translate(118.979 561.148)"/>
+      </g>
+    </g>
+    <g id="Group_13239" data-name="Group 13239" class="cls-65" transform="translate(153.609 615.292)">
+      <g id="Group_13238" data-name="Group 13238" class="cls-9" transform="translate(-378.609 -543.292)">
+        <path id="Path_13995" data-name="Path 13995" class="cls-61" d="M253.021-1.977h13.457V-24H253.021Z" transform="translate(119.442 561.146)"/>
+      </g>
+    </g>
+    <g id="Group_13241" data-name="Group 13241" class="cls-66" transform="translate(142.521 615.292)">
+      <g id="Group_13240" data-name="Group 13240" class="cls-9" transform="translate(-367.521 -543.292)">
+        <path id="Path_13998" data-name="Path 13998" class="cls-61" d="M244-6.792h13.521V-24H244Z" transform="translate(117.375 561.146)"/>
+      </g>
+    </g>
+    <g id="Group_13243" data-name="Group 13243" class="cls-67" transform="translate(142.803 621.462)">
+      <g id="Group_13242" data-name="Group 13242" class="cls-9" transform="translate(-367.802 -549.462)">
+        <path id="Path_14001" data-name="Path 14001" class="cls-61" d="M244.229-3.024h14.455V-18.98H244.229Z" transform="translate(117.427 562.296)"/>
+      </g>
+    </g>
+    <g id="Group_13245" data-name="Group 13245" class="cls-68" transform="translate(146.182 621.438)">
+      <g id="Group_13244" data-name="Group 13244" class="cls-9" transform="translate(-371.181 -549.439)">
+        <path id="Path_14004" data-name="Path 14004" class="cls-61" d="M246.978-3.02h14.7V-19h-14.7Z" transform="translate(118.057 562.292)"/>
+      </g>
+    </g>
+    <g id="Group_13247" data-name="Group 13247" class="cls-69" transform="translate(149.869 621.438)">
+      <g id="Group_13246" data-name="Group 13246" class="cls-9" transform="translate(-374.869 -549.439)">
+        <path id="Path_14007" data-name="Path 14007" class="cls-61" d="M249.978-3.02h14.7V-19h-14.7Z" transform="translate(118.745 562.292)"/>
+      </g>
+    </g>
+    <g id="Group_13249" data-name="Group 13249" class="cls-70" transform="translate(144.979 615.292)">
+      <g id="Group_13248" data-name="Group 13248" class="cls-9" transform="translate(-369.979 -543.292)">
+        <path id="Path_14010" data-name="Path 14010" class="cls-61" d="M246-6.792h13.521V-24H246Z" transform="translate(117.833 561.146)"/>
+      </g>
+    </g>
+    <text id="Código_de_promoción" data-name="Código de promoción" class="cls-71" transform="translate(174.479 625)"><tspan x="0" y="0">Código de promoción</tspan></text>
+    <g id="Path_14013" data-name="Path 14013" class="cls-72" transform="translate(-65.389 632.333)">
+      <path class="cls-85" d="M 457.6959838867188 -5.808229923248291 C 456.6814270019531 -5.808229923248291 455.8560180664063 -6.632539749145508 455.8560180664063 -7.645759582519531 C 455.8560180664063 -8.136289596557617 456.0472412109375 -8.597620010375977 456.3945007324219 -8.944759368896484 L 457.0794677734375 -9.629719734191895 L 457.9329833984375 -10.48326969146729 L 456.7258911132813 -10.48326969146729 L 443.6708374023438 -10.48326969146729 C 442.6575927734375 -10.48326969146729 441.833251953125 -11.30756950378418 441.833251953125 -12.32077980041504 C 441.833251953125 -13.33399963378906 442.6575927734375 -14.15830993652344 443.6708374023438 -14.15830993652344 L 456.7258911132813 -14.15830993652344 L 457.9330139160156 -14.15830993652344 L 457.0794372558594 -15.01185989379883 L 456.3945617675781 -15.69674015045166 C 456.0472412109375 -16.04394912719727 455.8560180664063 -16.50528907775879 455.8560180664063 -16.99581909179688 C 455.8560180664063 -18.00902938842773 456.6814270019531 -18.83333015441895 457.6959838867188 -18.83333015441895 C 458.1864624023438 -18.83333015441895 458.6477661132813 -18.64212036132813 458.9949340820313 -18.2949104309082 L 463.6700134277344 -13.61985969543457 C 464.0169372558594 -13.27095985412598 464.2085571289063 -12.80924987792969 464.2085571289063 -12.32077980041504 C 464.2085571289063 -11.83230972290039 464.0169372558594 -11.37061023712158 463.6690063476563 -11.02073001861572 L 458.9949645996094 -6.3466796875 C 458.6477661132813 -5.999449729919434 458.1864624023438 -5.808229923248291 457.6959838867188 -5.808229923248291 Z"/>
+      <path class="cls-86" d="M 457.6959838867188 -6.308229923248291 C 458.0528869628906 -6.308229923248291 458.3886413574219 -6.447429656982422 458.6414184570313 -6.700239658355713 L 463.3144836425781 -11.37329006195068 C 463.568603515625 -11.62884998321533 463.7085571289063 -11.96533966064453 463.7085571289063 -12.32077980041504 C 463.7085571289063 -12.67622947692871 463.568603515625 -13.01272964477539 463.3164672851563 -13.26630020141602 L 458.6413879394531 -17.94137954711914 C 458.3886413574219 -18.19412994384766 458.0528869628906 -18.33333015441895 457.6959838867188 -18.33333015441895 C 456.9571228027344 -18.33333015441895 456.3560180664063 -17.73332977294922 456.3560180664063 -16.99581909179688 C 456.3560180664063 -16.63887023925781 456.4952392578125 -16.30311012268066 456.7481384277344 -16.05030059814453 L 457.4330139160156 -15.36541938781738 L 459.1401062011719 -13.65830993652344 L 456.7258911132813 -13.65830993652344 L 443.6708374023438 -13.65830993652344 C 442.9332885742188 -13.65830993652344 442.333251953125 -13.05830001831055 442.333251953125 -12.32077980041504 C 442.333251953125 -11.58327007293701 442.9332885742188 -10.98326969146729 443.6708374023438 -10.98326969146729 L 456.7258911132813 -10.98326969146729 L 459.1400451660156 -10.98326969146729 L 457.4330139160156 -9.276169776916504 L 456.7480163574219 -8.59114933013916 C 456.4952392578125 -8.338449478149414 456.3560180664063 -8.00270938873291 456.3560180664063 -7.645759582519531 C 456.3560180664063 -6.908239841461182 456.9571228027344 -6.308229923248291 457.6959838867188 -6.308229923248291 M 457.6959838867188 -5.308229923248291 C 456.4031982421875 -5.308229923248291 455.3560180664063 -6.355449676513672 455.3560180664063 -7.645759582519531 C 455.3560180664063 -8.290909767150879 455.6177978515625 -8.875289916992188 456.041015625 -9.298369407653809 L 456.7258911132813 -9.983269691467285 L 443.6708374023438 -9.983269691467285 C 442.3781127929688 -9.983269691467285 441.333251953125 -11.03046989440918 441.333251953125 -12.32077980041504 C 441.333251953125 -13.6110897064209 442.3781127929688 -14.65830993652344 443.6708374023438 -14.65830993652344 L 456.7258911132813 -14.65830993652344 L 456.041015625 -15.34319019317627 C 455.6177978515625 -15.76628971099854 455.3560180664063 -16.35066986083984 455.3560180664063 -16.99581909179688 C 455.3560180664063 -18.28612899780273 456.4031982421875 -19.33333015441895 457.6959838867188 -19.33333015441895 C 458.3411254882813 -19.33333015441895 458.9254760742188 -19.07152938842773 459.3485107421875 -18.6484489440918 L 464.0235595703125 -13.97340965270996 C 464.4442749023438 -13.55031967163086 464.7085571289063 -12.96592998504639 464.7085571289063 -12.32077980041504 C 464.7085571289063 -11.67562007904053 464.4442749023438 -11.09124946594238 464.0235595703125 -10.66816997528076 L 459.3485107421875 -5.993129730224609 C 458.9254760742188 -5.570039749145508 458.3411254882813 -5.308229923248291 457.6959838867188 -5.308229923248291 Z"/>
+    </g>
+    <rect id="Rectangle_9497" data-name="Rectangle 9497" class="cls-73" width="210" height="46" rx="6" transform="translate(847 650)"/>
+    <text id="PROCESAR_COMPRA-2" data-name="PROCESAR COMPRA" class="cls-74" transform="translate(892 677)"><tspan x="0" y="0">PROCESAR COMPRA</tspan></text>
+    <g id="Group_13250" data-name="Group 13250" transform="translate(-15.944 -382)">
+      <text id="Volver_a_SHOP" data-name="Volver a SHOP" class="cls-75" transform="translate(621.606 1680)"><tspan x="0" y="0">Volver a SHOP</tspan></text>
+      <g id="Path_13771" data-name="Path 13771" class="cls-76" transform="translate(1055.842 1661.205) rotate(180)">
+        <path class="cls-85" d="M 453.6283874511719 -9.194724082946777 C 452.8794250488281 -9.194724082946777 452.2701110839844 -9.803223609924316 452.2701110839844 -10.55116367340088 C 452.2701110839844 -10.91325378417969 452.4112854003906 -11.25379371643066 452.6676330566406 -11.5100736618042 L 453.1823120117188 -12.02475357055664 L 453.8651123046875 -12.70759391784668 L 452.8994445800781 -12.70759391784668 L 443.0897521972656 -12.70759391784668 C 442.3417663574219 -12.70759391784668 441.7332458496094 -13.31608390808105 441.7332458496094 -14.06402397155762 C 441.7332458496094 -14.81196403503418 442.3417663574219 -15.42046356201172 443.0897521972656 -15.42046356201172 L 452.8994445800781 -15.42046356201172 L 453.8651123046875 -15.42046356201172 L 453.1823120117188 -16.10330390930176 L 452.6676635742188 -16.61793327331543 C 452.4112854003906 -16.87425422668457 452.2701110839844 -17.21481323242188 452.2701110839844 -17.57689476013184 C 452.2701110839844 -18.3248348236084 452.8794250488281 -18.93332481384277 453.6283874511719 -18.93332481384277 C 453.9904479980469 -18.93332481384277 454.3309936523438 -18.79217338562012 454.5872497558594 -18.53588485717773 L 458.1001586914063 -15.02299404144287 C 458.3562316894531 -14.76545429229736 458.4977111816406 -14.42460441589355 458.4977111816406 -14.06402397155762 C 458.4977111816406 -13.70344352722168 458.3562316894531 -13.36260414123535 458.099365234375 -13.10428428649902 L 454.5872802734375 -9.592204093933105 C 454.3309936523438 -9.335884094238281 453.9904479980469 -9.194724082946777 453.6283874511719 -9.194724082946777 Z"/>
+        <path class="cls-87" d="M 453.6283874511719 -9.594723701477051 C 453.8836059570313 -9.594723701477051 454.1236572265625 -9.69426441192627 454.304443359375 -9.875054359436035 L 457.8157348632813 -13.38633441925049 C 457.99755859375 -13.56919384002686 458.0977172851563 -13.80986404418945 458.0977172851563 -14.06402397155762 C 458.0977172851563 -14.31818389892578 457.99755859375 -14.55887413024902 457.8173217773438 -14.74014377593994 L 454.3044128417969 -18.25305366516113 C 454.1236877441406 -18.43378448486328 453.8836059570313 -18.53332328796387 453.6283874511719 -18.53332328796387 C 453.1000061035156 -18.53332328796387 452.6701049804688 -18.10427474975586 452.6701049804688 -17.57689476013184 C 452.6701049804688 -17.32167434692383 452.7696838378906 -17.08157348632813 452.9505310058594 -16.9007740020752 L 453.4651489257813 -16.38614463806152 L 454.8307800292969 -15.02046394348145 L 452.8994445800781 -15.02046394348145 L 443.0897521972656 -15.02046394348145 C 442.5623168945313 -15.02046394348145 442.1332397460938 -14.59140396118164 442.1332397460938 -14.06402397155762 C 442.1332397460938 -13.53664398193359 442.5623168945313 -13.10759353637695 443.0897521972656 -13.10759353637695 L 452.8994445800781 -13.10759353637695 L 454.8307800292969 -13.10759353637695 L 453.4651489257813 -11.74192428588867 L 452.950439453125 -11.22719383239746 C 452.7696533203125 -11.04647350311279 452.6701049804688 -10.80638408660889 452.6701049804688 -10.55116367340088 C 452.6701049804688 -10.02378368377686 453.1000061035156 -9.594723701477051 453.6283874511719 -9.594723701477051 M 453.6283874511719 -8.794723510742188 C 452.656982421875 -8.794723510742188 451.8701171875 -9.581613540649414 451.8701171875 -10.55116367340088 C 451.8701171875 -11.03594398498535 452.0668334960938 -11.47504425048828 452.3848266601563 -11.79295444488525 L 452.8994445800781 -12.30759429931641 L 443.0897521972656 -12.30759429931641 C 442.1183776855469 -12.30759429931641 441.333251953125 -13.09447383880615 441.333251953125 -14.06402397155762 C 441.333251953125 -15.03357410430908 442.1183776855469 -15.82046413421631 443.0897521972656 -15.82046413421631 L 452.8994445800781 -15.82046413421631 L 452.3848266601563 -16.3350944519043 C 452.0668334960938 -16.65301322937012 451.8701171875 -17.09212303161621 451.8701171875 -17.57689476013184 C 451.8701171875 -18.54645347595215 452.656982421875 -19.33332443237305 453.6283874511719 -19.33332443237305 C 454.1131591796875 -19.33332443237305 454.55224609375 -19.1366138458252 454.8701171875 -18.81870460510254 L 458.3829956054688 -15.30583381652832 C 458.6991271972656 -14.98791408538818 458.897705078125 -14.54880428314209 458.897705078125 -14.06402397155762 C 458.897705078125 -13.57924365997314 458.6991271972656 -13.14014434814453 458.3829956054688 -12.82223415374756 L 454.8701171875 -9.309364318847656 C 454.55224609375 -8.991454124450684 454.1131591796875 -8.794723510742188 453.6283874511719 -8.794723510742188 Z"/>
+      </g>
+    </g>
+    <g id="Group_13251" data-name="Group 13251" transform="translate(0.421 734)">
+      <g id="Group_8555" data-name="Group 8555" transform="translate(0 1)">
+        <line id="Line_3412" data-name="Line 3412" class="cls-77" x2="10.01" transform="translate(0 0)"/>
+        <line id="Line_3413" data-name="Line 3413" class="cls-78" x2="1229.53" transform="translate(30.029 0)"/>
+        <line id="Line_3414" data-name="Line 3414" class="cls-77" x2="10.01" transform="translate(1269.569 0)"/>
+      </g>
+    </g>
+    <g id="Group_13255" data-name="Group 13255" transform="translate(2 -144.5)">
+      <path id="Path_13948" data-name="Path 13948" class="cls-79" d="M2,2l9.041,9.041L2,20" transform="translate(42.041 1161) rotate(180)"/>
+      <path id="Path_13949" data-name="Path 13949" class="cls-79" d="M2,2l9.041,9.041L2,20" transform="translate(1234 1139)"/>
+    </g>
+    <g id="Group_13286" data-name="Group 13286" transform="translate(0 576)">
+      <rect id="Rectangle_9513" data-name="Rectangle 9513" class="cls-59" width="1280" height="318" transform="translate(0 767)"/>
+      <g id="Group_13282" data-name="Group 13282" transform="translate(-3751 -2082)">
+        <text id="Guía_de_talla" data-name="Guía de talla" class="cls-80" transform="translate(4085 2974.5)"><tspan x="0" y="0">Guía de talla</tspan></text>
+        <text id="Términos_y_condiciones" data-name="Términos y condiciones" class="cls-80" transform="translate(4196 2974.5)"><tspan x="0" y="0">Términos y condiciones</tspan></text>
+        <text id="Política_de_privacidad" data-name="Política de privacidad" class="cls-80" transform="translate(4378 2974.5)"><tspan x="0" y="0">Política de privacidad</tspan></text>
+        <text id="Política_de_privacidad-2" data-name="Política de privacidad" class="cls-80" transform="translate(4550 2974.5)"><tspan x="0" y="0">Política de privacidad</tspan></text>
+      </g>
+      <g id="Group_13283" data-name="Group 13283" transform="translate(-3758 -2086)">
+        <text id="Envíos_y_devoluciones" data-name="Envíos y devoluciones" class="cls-80" transform="translate(4114 2939)"><tspan x="0" y="0">Envíos y devoluciones</tspan></text>
+        <text id="Formas_de_Pago" data-name="Formas de Pago" class="cls-80" transform="translate(4287 2939)"><tspan x="0" y="0">Formas de Pago</tspan></text>
+        <text id="Encuéntranos-2" data-name="Encuéntranos" class="cls-80" transform="translate(4419 2939)"><tspan x="0" y="0">Encuéntranos</tspan></text>
+        <text id="Preguntas_frecuentes" data-name="Preguntas frecuentes" class="cls-80" transform="translate(4537 2939)"><tspan x="0" y="0">Preguntas frecuentes</tspan></text>
+      </g>
+      <g id="Group_13284" data-name="Group 13284" transform="translate(-3.466 -524)">
+        <text id="_aridaspirit" data-name="@aridaspirit" class="cls-5" transform="translate(532 1500)"><tspan x="0" y="0">@aridaspirit</tspan></text>
+        <g id="Group_9138" data-name="Group 9138" transform="translate(500.465 1486.529)">
+          <path id="Path_3" data-name="Path 3" class="cls-52" d="M7.844,1.395a24.053,24.053,0,0,1,3.138.087,4.043,4.043,0,0,1,1.482.261,3.061,3.061,0,0,1,1.482,1.482,4.043,4.043,0,0,1,.261,1.482c0,.784.087,1.046.087,3.138a24.052,24.052,0,0,1-.087,3.138,4.043,4.043,0,0,1-.261,1.482,3.061,3.061,0,0,1-1.482,1.482,4.043,4.043,0,0,1-1.482.261c-.784,0-1.046.087-3.138.087a24.052,24.052,0,0,1-3.138-.087,4.043,4.043,0,0,1-1.482-.261,3.061,3.061,0,0,1-1.482-1.482,4.043,4.043,0,0,1-.261-1.482c0-.784-.087-1.046-.087-3.138a24.053,24.053,0,0,1,.087-3.138,4.043,4.043,0,0,1,.261-1.482,3.13,3.13,0,0,1,.61-.872,1.474,1.474,0,0,1,.872-.61,4.043,4.043,0,0,1,1.482-.261,24.053,24.053,0,0,1,3.138-.087M7.844,0A25.754,25.754,0,0,0,4.62.087,5.381,5.381,0,0,0,2.7.436a3.412,3.412,0,0,0-1.395.872A3.412,3.412,0,0,0,.436,2.7,3.971,3.971,0,0,0,.087,4.62,25.754,25.754,0,0,0,0,7.844a25.754,25.754,0,0,0,.087,3.225,5.381,5.381,0,0,0,.349,1.918,3.412,3.412,0,0,0,.872,1.395,3.412,3.412,0,0,0,1.395.872A5.381,5.381,0,0,0,4.62,15.6a25.753,25.753,0,0,0,3.225.087,25.753,25.753,0,0,0,3.225-.087,5.381,5.381,0,0,0,1.918-.349,3.657,3.657,0,0,0,2.266-2.266,5.381,5.381,0,0,0,.349-1.918c0-.872.087-1.133.087-3.225A25.753,25.753,0,0,0,15.6,4.62,5.381,5.381,0,0,0,15.253,2.7a3.412,3.412,0,0,0-.872-1.395A3.412,3.412,0,0,0,12.987.436,5.381,5.381,0,0,0,11.069.087,25.754,25.754,0,0,0,7.844,0m0,3.835A3.945,3.945,0,0,0,3.835,7.844,4.009,4.009,0,1,0,7.844,3.835m0,6.624A2.568,2.568,0,0,1,5.23,7.844,2.568,2.568,0,0,1,7.844,5.23a2.568,2.568,0,0,1,2.615,2.615,2.568,2.568,0,0,1-2.615,2.615M12.028,2.7a.959.959,0,1,0,.959.959.967.967,0,0,0-.959-.959" transform="translate(0 0)"/>
+        </g>
+        <g id="Group_9132" data-name="Group 9132" transform="translate(-4791 -1739)">
+          <text id="_aridaspirit-2" data-name="@aridaspirit" class="cls-5" transform="translate(5490 3239)"><tspan x="0" y="0">@aridaspirit</tspan></text>
+        </g>
+        <path id="Path_1651" data-name="Path 1651" class="cls-81" d="M84.83,14.251V7.759h2.217l.317-2.534H84.83V3.642c0-.713.238-1.267,1.267-1.267h1.346V.079C87.126.079,86.334,0,85.463,0a3.056,3.056,0,0,0-3.246,3.325v1.9H80V7.759h2.217v6.492Z" transform="translate(599.466 1488)"/>
+      </g>
+      <text id="_2018_ÁRIDA_STORE._Todos_los_derechos_reservados." data-name="© 2018, ÁRIDA STORE. Todos los derechos reservados." class="cls-82" transform="translate(502 1062)"><tspan x="0" y="0">© 2018, ÁRIDA STORE. Todos los derechos reservados.</tspan></text>
+      <line id="Line_3687" data-name="Line 3687" class="cls-83" x2="1280" transform="translate(0 768)"/>
+      <g id="Group_13285" data-name="Group 13285" transform="translate(-875.911 -1876.818) rotate(-90)">
+        <g id="Group_7551" data-name="Group 7551" transform="translate(-2886 2042)">
+          <g id="Group_8064" data-name="Group 8064" transform="translate(43.475 9.911)">
+            <path id="Path_588-2" data-name="Path 588" class="cls-84" d="M0,.731,6.41,0,5.68,6.41" transform="translate(55.174 5.702) rotate(45)"/>
+            <line id="Line_3242-2" data-name="Line 3242" class="cls-84" x2="39.533" transform="translate(20.025 10.235)"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

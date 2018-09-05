@@ -1,0 +1,403 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 800">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Cuenta_-_CREAR_CUENTA);
+      }
+
+      .cls-2 {
+        fill: #fefae8;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-13, .cls-16, .cls-17, .cls-18, .cls-21, .cls-23, .cls-27, .cls-3, .cls-31, .cls-33, .cls-34, .cls-35, .cls-37, .cls-38, .cls-4, .cls-46, .cls-50, .cls-6 {
+        fill: #393939;
+      }
+
+      .cls-13, .cls-3, .cls-6 {
+        font-size: 15px;
+      }
+
+      .cls-3 {
+        font-family: Perpetua-Bold, Perpetua;
+      }
+
+      .cls-10, .cls-16, .cls-20, .cls-3, .cls-34, .cls-37, .cls-43, .cls-46, .cls-49, .cls-6 {
+        font-weight: 700;
+      }
+
+      .cls-17, .cls-20, .cls-23, .cls-4, .cls-45, .cls-46 {
+        font-size: 14px;
+      }
+
+      .cls-11, .cls-13, .cls-21, .cls-27, .cls-31, .cls-4 {
+        font-family: Raleway-Medium, Raleway;
+      }
+
+      .cls-11, .cls-13, .cls-17, .cls-21, .cls-27, .cls-31, .cls-4 {
+        font-weight: 500;
+      }
+
+      .cls-5 {
+        fill: url(#pattern);
+      }
+
+      .cls-10, .cls-16, .cls-20, .cls-34, .cls-37, .cls-43, .cls-46, .cls-49, .cls-6 {
+        font-family: Raleway-Bold, Raleway;
+      }
+
+      .cls-15, .cls-19, .cls-22, .cls-32, .cls-36, .cls-42, .cls-7, .cls-8 {
+        fill: none;
+      }
+
+      .cls-14, .cls-22, .cls-32, .cls-33, .cls-50, .cls-7, .cls-8 {
+        stroke: #393939;
+      }
+
+      .cls-7, .cls-9 {
+        opacity: 0.5;
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-16 {
+        font-size: 16px;
+      }
+
+      .cls-11, .cls-17 {
+        opacity: 0.8;
+      }
+
+      .cls-12 {
+        font-family: Raleway-SemiBold, Raleway;
+        font-weight: 600;
+      }
+
+      .cls-12, .cls-37, .cls-46 {
+        text-decoration: underline;
+      }
+
+      .cls-14, .cls-20, .cls-28, .cls-29, .cls-30, .cls-40, .cls-44, .cls-49, .cls-52 {
+        fill: #fff;
+      }
+
+      .cls-16, .cls-49 {
+        letter-spacing: 0.03em;
+      }
+
+      .cls-17 {
+        font-family: Raleway-MediumItalic, Raleway;
+        font-style: italic;
+      }
+
+      .cls-19 {
+        stroke: #988575;
+      }
+
+      .cls-19, .cls-32 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-20 {
+        letter-spacing: 0.01em;
+      }
+
+      .cls-21, .cls-34, .cls-37 {
+        font-size: 12px;
+      }
+
+      .cls-22, .cls-38 {
+        stroke-width: 2px;
+      }
+
+      .cls-23, .cls-40 {
+        font-family: SegoeUI, Segoe UI;
+      }
+
+      .cls-24 {
+        fill: #f1f1f1;
+      }
+
+      .cls-25 {
+        fill: #fafafa;
+      }
+
+      .cls-26 {
+        fill: #efefed;
+      }
+
+      .cls-27 {
+        font-size: 24px;
+        letter-spacing: 0.005em;
+      }
+
+      .cls-28 {
+        opacity: 0.95;
+      }
+
+      .cls-29, .cls-42 {
+        stroke: #c6bcb3;
+      }
+
+      .cls-31, .cls-40, .cls-43, .cls-49 {
+        font-size: 13px;
+      }
+
+      .cls-33, .cls-50 {
+        stroke-width: 0.5px;
+      }
+
+      .cls-33, .cls-35, .cls-38, .cls-47 {
+        fill-rule: evenodd;
+      }
+
+      .cls-36, .cls-44 {
+        stroke: #ece9e6;
+      }
+
+      .cls-38 {
+        stroke: #fff;
+      }
+
+      .cls-39 {
+        fill: #0162b2;
+      }
+
+      .cls-41 {
+        fill: #cd3919;
+      }
+
+      .cls-43, .cls-47, .cls-48 {
+        fill: #c6bcb3;
+      }
+
+      .cls-45 {
+        fill: #d4d4d4;
+        font-family: Raleway-Regular, Raleway;
+      }
+
+      .cls-50 {
+        font-size: 35px;
+        font-family: DKLemonYellowSun, DK Lemon Yellow Sun;
+      }
+
+      .cls-51, .cls-52 {
+        stroke: none;
+      }
+
+      .cls-53 {
+        filter: url(#Rectangle_1888);
+      }
+    </style>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 750 1125">
+      <image width="750" height="1125" xlink:href="Cuenta%20-%20CREAR%20CUENTA-1-image.png"/>
+    </pattern>
+    <filter id="Rectangle_1888" x="959" y="398" width="244.904" height="69.101" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Cuenta_-_CREAR_CUENTA">
+      <rect width="1280" height="800"/>
+    </clipPath>
+    <image id="image" width="80" height="120" xlink:href="Cuenta%20-%20CREAR%20CUENTA-1-image2.png"/>
+  </defs>
+  <g id="Cuenta_-_CREAR_CUENTA" data-name="Cuenta - CREAR CUENTA" class="cls-1">
+    <rect class="cls-30" width="1280" height="800"/>
+    <rect id="Rectangle_1899" data-name="Rectangle 1899" class="cls-2" width="348" height="337.582" transform="translate(885 134.987)"/>
+    <text id="Floral_Off-the-Shoulder_Romper" data-name="Floral Off-the-Shoulder 
+Romper" class="cls-3" transform="translate(178 226)"><tspan x="0" y="0">Floral Off-the-Shoulder </tspan><tspan x="0" y="17">Romper</tspan></text>
+    <text id="Paperbag_Chino_Pants" data-name="Paperbag Chino Pants" class="cls-3" transform="translate(178 378)"><tspan x="0" y="0">Paperbag Chino Pants</tspan></text>
+    <text id="S_69.oo" data-name="S/ 69.oo" class="cls-4" transform="translate(554.832 266)"><tspan x="0" y="0">S/ 69.oo</tspan></text>
+    <text id="S_69.oo-2" data-name="S/ 69.oo" class="cls-4" transform="translate(554.832 410)"><tspan x="0" y="0">S/ 69.oo</tspan></text>
+    <path id="Path_1389" data-name="Path 1389" class="cls-5" d="M0,0H80V120H0Z" transform="translate(62 199)"/>
+    <text id="Elemento" class="cls-6" transform="translate(56 157)"><tspan x="0" y="0">Elemento</tspan></text>
+    <text id="Descripción" class="cls-6" transform="translate(178 157)"><tspan x="0" y="0">Descripción</tspan></text>
+    <text id="Cantidad" class="cls-6" transform="translate(385 157)"><tspan x="0" y="0">Cantidad</tspan></text>
+    <text id="Precio" class="cls-6" transform="translate(555 157)"><tspan x="0" y="0">Precio</tspan></text>
+    <line id="Line_3495" data-name="Line 3495" class="cls-7" x2="268" transform="translate(926.5 266.5)"/>
+    <line id="Line_3494" data-name="Line 3494" class="cls-7" x2="767" transform="translate(42 329)"/>
+    <line id="Line_3493" data-name="Line 3493" class="cls-8" x2="766.343" transform="translate(42.544 185)"/>
+    <g id="Group_8766" data-name="Group 8766" class="cls-9" transform="translate(42 473)">
+      <line id="Line_3378" data-name="Line 3378" class="cls-7" x2="767" transform="translate(0)"/>
+    </g>
+    <text id="Total:" class="cls-10" transform="translate(926 300)"><tspan x="0" y="0">Total:</tspan></text>
+    <text id="Subtotal_2_:" data-name="Subtotal (2):" class="cls-11" transform="translate(924 247)"><tspan x="0" y="0">Subtotal (2):</tspan></text>
+    <text id="Aplicar_cupón_de_descuento" data-name="Aplicar cupón de descuento" class="cls-12" transform="translate(924 198)"><tspan x="0" y="0">Aplicar cupón de descuento</tspan></text>
+    <text id="_1" data-name="1" class="cls-13" transform="translate(421.833 264)"><tspan x="0" y="0">1</tspan></text>
+    <text id="_1-2" data-name="1" class="cls-13" transform="translate(423.833 408)"><tspan x="0" y="0">1</tspan></text>
+    <g id="Rectangle_1897" data-name="Rectangle 1897" class="cls-14" transform="translate(444 247)">
+      <rect class="cls-51" width="24" height="24" rx="12"/>
+      <rect class="cls-15" x="0.5" y="0.5" width="23" height="23" rx="11.5"/>
+    </g>
+    <g id="Rectangle_1898" data-name="Rectangle 1898" class="cls-14" transform="translate(446 391)">
+      <rect class="cls-51" width="24" height="24" rx="12"/>
+      <rect class="cls-15" x="0.5" y="0.5" width="23" height="23" rx="11.5"/>
+    </g>
+    <g id="Rectangle_1895" data-name="Rectangle 1895" class="cls-14" transform="translate(385 247)">
+      <rect class="cls-51" width="24" height="24" rx="12"/>
+      <rect class="cls-15" x="0.5" y="0.5" width="23" height="23" rx="11.5"/>
+    </g>
+    <g id="Rectangle_1896" data-name="Rectangle 1896" class="cls-14" transform="translate(387 391)">
+      <rect class="cls-51" width="24" height="24" rx="12"/>
+      <rect class="cls-15" x="0.5" y="0.5" width="23" height="23" rx="11.5"/>
+    </g>
+    <g id="Group_8769" data-name="Group 8769" transform="translate(462 265) rotate(180)">
+      <g id="Group_7233" data-name="Group 7233" transform="translate(2 1.75)">
+        <path id="Path_180" data-name="Path 180" class="cls-8" d="M0,8.5V0" transform="translate(4.25 0)"/>
+        <line id="Line_3188" data-name="Line 3188" class="cls-8" x2="8.5" transform="translate(0 4.25)"/>
+      </g>
+      <rect id="Rectangle_212" data-name="Rectangle 212" class="cls-15" width="12" height="12" transform="translate(0 0)"/>
+    </g>
+    <g id="Group_8770" data-name="Group 8770" transform="translate(464 409) rotate(180)">
+      <g id="Group_7233-2" data-name="Group 7233" transform="translate(2 1.75)">
+        <path id="Path_180-2" data-name="Path 180" class="cls-8" d="M0,8.5V0" transform="translate(4.25 0)"/>
+        <line id="Line_3188-2" data-name="Line 3188" class="cls-8" x2="8.5" transform="translate(0 4.25)"/>
+      </g>
+      <rect id="Rectangle_212-2" data-name="Rectangle 212" class="cls-15" width="12" height="12" transform="translate(0 0)"/>
+    </g>
+    <g id="Group_8767" data-name="Group 8767" transform="translate(403 265) rotate(180)">
+      <g id="Group_7233-3" data-name="Group 7233" transform="translate(2 1.75)">
+        <line id="Line_3188-3" data-name="Line 3188" class="cls-8" x2="8.5" transform="translate(0 4.25)"/>
+      </g>
+      <rect id="Rectangle_212-3" data-name="Rectangle 212" class="cls-15" width="12" height="12" transform="translate(0 0)"/>
+    </g>
+    <g id="Group_8768" data-name="Group 8768" transform="translate(405 409) rotate(180)">
+      <g id="Group_7233-4" data-name="Group 7233" transform="translate(2 1.75)">
+        <line id="Line_3188-4" data-name="Line 3188" class="cls-8" x2="8.5" transform="translate(0 4.25)"/>
+      </g>
+      <rect id="Rectangle_212-4" data-name="Rectangle 212" class="cls-15" width="12" height="12" transform="translate(0 0)"/>
+    </g>
+    <use id="Image_146" data-name="Image 146" transform="translate(62 343)" xlink:href="#image"/>
+    <text id="S_138.00" data-name="S/ 138.00" class="cls-16" transform="translate(1116 300)"><tspan x="0" y="0">S/ 138.00</tspan></text>
+    <text id="S_138.00-2" data-name="S/ 138.00" class="cls-11" transform="translate(1122 247)"><tspan x="0" y="0">S/ 138.00</tspan></text>
+    <text id="Sin_agregar_impuestos" data-name="Sin agregar impuestos" class="cls-17" transform="translate(1051 337)"><tspan x="0" y="0">Sin agregar impuestos</tspan></text>
+    <g id="Group_8773" data-name="Group 8773" transform="translate(304 -299)">
+      <g class="cls-53" transform="matrix(1, 0, 0, 1, -304, 299)">
+        <rect id="Rectangle_1888-2" data-name="Rectangle 1888" class="cls-18" width="226.904" height="51.101" transform="translate(968 404)"/>
+      </g>
+      <g id="Group_8755" data-name="Group 8755" transform="translate(821.369 725.378)">
+        <path id="Path_588" data-name="Path 588" class="cls-19" d="M0,.645,5.657,0,5.012,5.657" transform="translate(31.534 0) rotate(45)"/>
+        <line id="Line_3242" data-name="Line 3242" class="cls-19" x2="15.451" transform="translate(20.025 4)"/>
+      </g>
+      <text id="PROCESAR_COMPRA" data-name="PROCESAR COMPRA" class="cls-20" transform="translate(695 734)"><tspan x="0" y="0">PROCESAR COMPRA</tspan></text>
+    </g>
+    <text id="Remover" class="cls-21" transform="translate(724.832 261)"><tspan x="0" y="0">Remover</tspan></text>
+    <text id="Remover-2" data-name="Remover" class="cls-21" transform="translate(724.832 418)"><tspan x="0" y="0">Remover</tspan></text>
+    <g id="Group_8771" data-name="Group 8771" transform="translate(724.523 254.345) rotate(135)">
+      <g id="Group_7233-5" data-name="Group 7233" transform="translate(4 3.5)">
+        <path id="Path_180-3" data-name="Path 180" class="cls-22" d="M0,17V0" transform="translate(8.5 0)"/>
+        <line id="Line_3188-5" data-name="Line 3188" class="cls-22" x2="17" transform="translate(0 8.5)"/>
+      </g>
+      <rect id="Rectangle_212-5" data-name="Rectangle 212" class="cls-15" width="24" height="24" transform="translate(0 0)"/>
+    </g>
+    <g id="Group_8774" data-name="Group 8774" transform="translate(724.523 411.345) rotate(135)">
+      <g id="Group_7233-6" data-name="Group 7233" transform="translate(4 3.5)">
+        <path id="Path_180-4" data-name="Path 180" class="cls-22" d="M0,17V0" transform="translate(8.5 0)"/>
+        <line id="Line_3188-6" data-name="Line 3188" class="cls-22" x2="17" transform="translate(0 8.5)"/>
+      </g>
+      <rect id="Rectangle_212-6" data-name="Rectangle 212" class="cls-15" width="24" height="24" transform="translate(0 0)"/>
+    </g>
+    <text id="Talla:_Small" data-name="Talla: Small" class="cls-23" transform="translate(178 406)"><tspan x="0" y="0">Talla: Small</tspan></text>
+    <text id="Color:_Rojo" data-name="Color: Rojo" class="cls-23" transform="translate(178 429)"><tspan x="0" y="0">Color: Rojo</tspan></text>
+    <text id="Talla:_Small-2" data-name="Talla: Small" class="cls-23" transform="translate(178 275)"><tspan x="0" y="0">Talla: Small</tspan></text>
+    <text id="Color:_Rojo-2" data-name="Color: Rojo" class="cls-23" transform="translate(178 298)"><tspan x="0" y="0">Color: Rojo</tspan></text>
+    <g id="Group_8776" data-name="Group 8776" transform="translate(-447 -359)">
+      <rect id="Rectangle_1788" data-name="Rectangle 1788" class="cls-24" width="348" height="440" transform="translate(529 987)"/>
+      <image id="Image_118" data-name="Image 118" width="293.333" height="440" transform="translate(556 987)" xlink:href="Cuenta%20-%20CREAR%20CUENTA-1-image3.png"/>
+    </g>
+    <g id="Group_8777" data-name="Group 8777" transform="translate(-62 -359)">
+      <rect id="Rectangle_1788-2" data-name="Rectangle 1788" class="cls-25" width="348" height="440" transform="translate(529 987)"/>
+      <image id="Image_119" data-name="Image 119" width="293.333" height="440" transform="translate(556 987)" xlink:href="Cuenta%20-%20CREAR%20CUENTA-1-image4.png"/>
+    </g>
+    <g id="Group_8778" data-name="Group 8778" transform="translate(323 -359)">
+      <rect id="Rectangle_1788-3" data-name="Rectangle 1788" class="cls-26" width="348" height="440" transform="translate(529 987)"/>
+      <use id="Image_120" data-name="Image 120" transform="translate(556 987) scale(3.667 3.667)" xlink:href="#image"/>
+    </g>
+    <text id="Agrega_más_prendas_a_tu_compra" data-name="Agrega más prendas a tu compra" class="cls-27" transform="translate(451 588)"><tspan x="0" y="0">Agrega más prendas a tu compra</tspan></text>
+    <rect id="Rectangle_1900" data-name="Rectangle 1900" class="cls-28" width="1280" height="719" transform="translate(0 81)"/>
+    <g id="Rectangle_1901" data-name="Rectangle 1901" class="cls-29" transform="translate(382 139)">
+      <rect class="cls-51" width="516" height="582" rx="6"/>
+      <rect class="cls-15" x="0.5" y="0.5" width="515" height="581" rx="5.5"/>
+    </g>
+    <g id="Group_13206" data-name="Group 13206" transform="translate(-2382 2211)">
+      <rect id="Rectangle_1804" data-name="Rectangle 1804" class="cls-30" width="1280" height="80" transform="translate(2382 -2211)"/>
+      <g id="Group_8559" data-name="Group 8559" transform="translate(2414 -2186)">
+        <path id="Path_1235" data-name="Path 1235" class="cls-18" d="M10.9,36.427l8.271,18.592h2.613L11.58,32.4l-.714-1.5-.714,1.5L0,55.019H2.613Z" transform="translate(0 -25.091)"/>
+        <path id="Path_1236" data-name="Path 1236" class="cls-18" d="M32.2,5.207l8.948-3.5L40.4,0,33.234,2.839Z" transform="translate(-26.147)"/>
+      </g>
+      <g id="Group_11564" data-name="Group 11564" transform="translate(2382 -2287)">
+        <text id="Buscar" class="cls-31" transform="translate(1037.813 119)"><tspan x="0" y="0">Buscar</tspan></text>
+        <line id="Line_3457" data-name="Line 3457" class="cls-32" x2="199" transform="translate(1037.5 126.5)"/>
+        <path id="Path_1358" data-name="Path 1358" class="cls-33" d="M883.085-1650.7l3.575,3.576-.782.782-3.575-3.576a5.667,5.667,0,0,1-3.613,1.295,5.689,5.689,0,0,1-5.689-5.689,5.689,5.689,0,0,1,5.689-5.689,5.689,5.689,0,0,1,5.689,5.689A5.666,5.666,0,0,1,883.085-1650.7Zm-4.4-8.164a4.551,4.551,0,0,0-4.552,4.552,4.552,4.552,0,0,0,4.552,4.551,4.552,4.552,0,0,0,4.552-4.551A4.551,4.551,0,0,0,878.689-1658.863Z" transform="translate(344.37 1766)"/>
+      </g>
+      <g id="Group_11566" data-name="Group 11566" transform="translate(-2579 8971)">
+        <text id="HOME" class="cls-34" transform="translate(5365 -11133)"><tspan x="0" y="0">HOME</tspan></text>
+        <text id="SALE_" data-name="SALE!" class="cls-34" transform="translate(5544.813 -11133)"><tspan x="0" y="0">SALE!</tspan></text>
+        <text id="ARIDANDO" class="cls-34" transform="translate(5626.813 -11133)"><tspan x="0" y="0">ARIDANDO</tspan></text>
+        <text id="ENCUÉNTRANOS" class="cls-34" transform="translate(5738.813 -11133)"><tspan x="0" y="0">ENCUÉNTRANOS</tspan></text>
+        <g id="Group_8538" data-name="Group 8538" transform="translate(42)">
+          <text id="SHOP" class="cls-34" transform="translate(5400.813 -11133)"><tspan x="0" y="0">SHOP</tspan></text>
+          <g id="ic_arrow_drop_down" transform="translate(5262.3 -11225)">
+            <rect id="rectangle" class="cls-15" width="20" height="20" transform="translate(172 78)"/>
+            <path id="path" class="cls-35" d="M7,10l4.167,4.167L15.333,10Z" transform="translate(170.833 76.333)"/>
+          </g>
+        </g>
+      </g>
+      <line id="Line_3622" data-name="Line 3622" class="cls-36" x2="1280" transform="translate(2382.5 -2131.5)"/>
+      <g id="Group_11572" data-name="Group 11572" transform="translate(1881 -3843)">
+        <text id="CREAR_OUTFIT" data-name="CREAR OUTFIT" class="cls-37" transform="translate(621.606 1680)"><tspan x="0" y="0">CREAR OUTFIT</tspan></text>
+        <g id="Group_8848" data-name="Group 8848" transform="translate(577.976 1672)">
+          <path id="Path_588-2" data-name="Path 588" class="cls-19" d="M0,.645,5.657,0,5.012,5.657" transform="translate(31.534 0) rotate(45)"/>
+          <line id="Line_3242-2" data-name="Line 3242" class="cls-19" x2="15.451" transform="translate(20.025 4)"/>
+        </g>
+      </g>
+    </g>
+    <g id="Group_13207" data-name="Group 13207" transform="translate(282 13)">
+      <g id="Ellipse_336" data-name="Ellipse 336" class="cls-32" transform="translate(939 90)">
+        <circle class="cls-51" cx="18.5" cy="18.5" r="18.5"/>
+        <circle class="cls-15" cx="18.5" cy="18.5" r="17.75"/>
+      </g>
+      <path id="Path_13776" data-name="Path 13776" class="cls-38" d="M834.292-213.949A2.05,2.05,0,0,0,832.243-216a2.035,2.035,0,0,0-1.448.6l-2.649,2.649L825.5-215.4a2.042,2.042,0,0,0-1.448-.6A2.048,2.048,0,0,0,822-213.949a2.046,2.046,0,0,0,.6,1.448l2.647,2.647-2.647,2.649a2.042,2.042,0,0,0-.6,1.448,2.047,2.047,0,0,0,2.049,2.049,2.049,2.049,0,0,0,1.448-.6l2.649-2.649,2.649,2.649a2.042,2.042,0,0,0,1.448.6,2.048,2.048,0,0,0,2.049-2.049,2.042,2.042,0,0,0-.6-1.448l-2.649-2.649,2.649-2.647a2.046,2.046,0,0,0,.6-1.448Z" transform="translate(129.5 318.5)"/>
+    </g>
+    <g id="Group_13454" data-name="Group 13454" transform="translate(461 87)">
+      <rect id="Rectangle_9534" data-name="Rectangle 9534" class="cls-39" width="319.592" height="45.449" rx="6" transform="translate(20 180)"/>
+      <g id="Group_13454-2" data-name="Group 13454" transform="translate(-433.994 -70)">
+        <text id="CREAR_CON_FACEBOOK" data-name="CREAR CON FACEBOOK" class="cls-40" transform="translate(556.991 276.635)"><tspan x="0" y="0">CREAR CON FACEBOOK</tspan></text>
+        <image id="Captura_de_pantalla_2018-04-09_a_la_s_17.14.16" data-name="Captura de pantalla 2018-04-09 a la(s) 17.14.16" width="30.868" height="29.088" transform="translate(516.995 258.181)" xlink:href="Cuenta%20-%20CREAR%20CUENTA-1-image5.png"/>
+      </g>
+      <rect id="Rectangle_9535" data-name="Rectangle 9535" class="cls-41" width="319.592" height="45.449" rx="6" transform="translate(20 246.355)"/>
+      <g id="Group_13455" data-name="Group 13455" transform="translate(-433.723 -70)">
+        <text id="CREAR_CON_GOOGLE_" data-name="CREAR CON GOOGLE +" class="cls-40" transform="translate(558.809 342.991)"><tspan x="0" y="0">CREAR CON GOOGLE +</tspan></text>
+        <image id="Captura_de_pantalla_2018-04-09_a_la_s_17.14.12" data-name="Captura de pantalla 2018-04-09 a la(s) 17.14.12" width="26.361" height="24.713" transform="translate(519.722 326.355)" xlink:href="Cuenta%20-%20CREAR%20CUENTA-1-image6.png"/>
+      </g>
+      <line id="Line_3690" data-name="Line 3690" class="cls-42" x2="319" transform="translate(20.5 339.5)"/>
+      <text id="Crear_manualmente" data-name="Crear manualmente" class="cls-43" transform="translate(34 381)"><tspan x="0" y="0">Crear manualmente</tspan></text>
+      <g id="Rectangle_9536" data-name="Rectangle 9536" class="cls-44" transform="translate(34.436 393)">
+        <rect class="cls-51" width="291.163" height="38" rx="4"/>
+        <rect class="cls-15" x="0.5" y="0.5" width="290.163" height="37" rx="3.5"/>
+      </g>
+      <text id="Ingresa_tu_correo" data-name="Ingresa tu correo" class="cls-45" transform="translate(76 417)"><tspan x="0" y="0">Ingresa tu correo</tspan></text>
+      <g id="Group_13456" data-name="Group 13456" transform="translate(-509.944 -1094)">
+        <text id="YA_TENGO_UNA_CUENTA" data-name="YA TENGO UNA CUENTA" class="cls-46" transform="translate(621.606 1680)"><tspan x="0" y="0">YA TENGO UNA CUENTA</tspan></text>
+        <g id="Path_13771" data-name="Path 13771" class="cls-47" transform="translate(155.611 1689.333)">
+          <path class="cls-51" d="M 453.6283874511719 -9.194724082946777 C 452.8794250488281 -9.194724082946777 452.2701110839844 -9.803223609924316 452.2701110839844 -10.55116367340088 C 452.2701110839844 -10.91325378417969 452.4112854003906 -11.25379371643066 452.6676330566406 -11.5100736618042 L 453.1823120117188 -12.02475357055664 L 453.8651123046875 -12.70759391784668 L 452.8994445800781 -12.70759391784668 L 443.0897521972656 -12.70759391784668 C 442.3417663574219 -12.70759391784668 441.7332458496094 -13.31608390808105 441.7332458496094 -14.06402397155762 C 441.7332458496094 -14.81196403503418 442.3417663574219 -15.42046356201172 443.0897521972656 -15.42046356201172 L 452.8994445800781 -15.42046356201172 L 453.8651123046875 -15.42046356201172 L 453.1823120117188 -16.10330390930176 L 452.6676635742188 -16.61793327331543 C 452.4112854003906 -16.87425422668457 452.2701110839844 -17.21481323242188 452.2701110839844 -17.57689476013184 C 452.2701110839844 -18.3248348236084 452.8794250488281 -18.93332481384277 453.6283874511719 -18.93332481384277 C 453.9904479980469 -18.93332481384277 454.3309936523438 -18.79217338562012 454.5872497558594 -18.53588485717773 L 458.1001586914063 -15.02299404144287 C 458.3562316894531 -14.76545429229736 458.4977111816406 -14.42460441589355 458.4977111816406 -14.06402397155762 C 458.4977111816406 -13.70344352722168 458.3562316894531 -13.36260414123535 458.099365234375 -13.10428428649902 L 454.5872802734375 -9.592204093933105 C 454.3309936523438 -9.335884094238281 453.9904479980469 -9.194724082946777 453.6283874511719 -9.194724082946777 Z"/>
+          <path class="cls-52" d="M 453.6283874511719 -9.594723701477051 C 453.8836059570313 -9.594723701477051 454.1236572265625 -9.69426441192627 454.304443359375 -9.875054359436035 L 457.8157348632813 -13.38633441925049 C 457.99755859375 -13.56919384002686 458.0977172851563 -13.80986404418945 458.0977172851563 -14.06402397155762 C 458.0977172851563 -14.31818389892578 457.99755859375 -14.55887413024902 457.8173217773438 -14.74014377593994 L 454.3044128417969 -18.25305366516113 C 454.1236877441406 -18.43378448486328 453.8836059570313 -18.53332328796387 453.6283874511719 -18.53332328796387 C 453.1000061035156 -18.53332328796387 452.6701049804688 -18.10427474975586 452.6701049804688 -17.57689476013184 C 452.6701049804688 -17.32167434692383 452.7696838378906 -17.08157348632813 452.9505310058594 -16.9007740020752 L 453.4651489257813 -16.38614463806152 L 454.8307800292969 -15.02046394348145 L 452.8994445800781 -15.02046394348145 L 443.0897521972656 -15.02046394348145 C 442.5623168945313 -15.02046394348145 442.1332397460938 -14.59140396118164 442.1332397460938 -14.06402397155762 C 442.1332397460938 -13.53664398193359 442.5623168945313 -13.10759353637695 443.0897521972656 -13.10759353637695 L 452.8994445800781 -13.10759353637695 L 454.8307800292969 -13.10759353637695 L 453.4651489257813 -11.74192428588867 L 452.950439453125 -11.22719383239746 C 452.7696533203125 -11.04647350311279 452.6701049804688 -10.80638408660889 452.6701049804688 -10.55116367340088 C 452.6701049804688 -10.02378368377686 453.1000061035156 -9.594723701477051 453.6283874511719 -9.594723701477051 M 453.6283874511719 -8.794723510742188 C 452.656982421875 -8.794723510742188 451.8701171875 -9.581613540649414 451.8701171875 -10.55116367340088 C 451.8701171875 -11.03594398498535 452.0668334960938 -11.47504425048828 452.3848266601563 -11.79295444488525 L 452.8994445800781 -12.30759429931641 L 443.0897521972656 -12.30759429931641 C 442.1183776855469 -12.30759429931641 441.333251953125 -13.09447383880615 441.333251953125 -14.06402397155762 C 441.333251953125 -15.03357410430908 442.1183776855469 -15.82046413421631 443.0897521972656 -15.82046413421631 L 452.8994445800781 -15.82046413421631 L 452.3848266601563 -16.3350944519043 C 452.0668334960938 -16.65301322937012 451.8701171875 -17.09212303161621 451.8701171875 -17.57689476013184 C 451.8701171875 -18.54645347595215 452.656982421875 -19.33332443237305 453.6283874511719 -19.33332443237305 C 454.1131591796875 -19.33332443237305 454.55224609375 -19.1366138458252 454.8701171875 -18.81870460510254 L 458.3829956054688 -15.30583381652832 C 458.6991271972656 -14.98791408538818 458.897705078125 -14.54880428314209 458.897705078125 -14.06402397155762 C 458.897705078125 -13.57924365997314 458.6991271972656 -13.14014434814453 458.3829956054688 -12.82223415374756 L 454.8701171875 -9.309364318847656 C 454.55224609375 -8.991454124450684 454.1131591796875 -8.794723510742188 453.6283874511719 -8.794723510742188 Z"/>
+        </g>
+      </g>
+      <g id="Group_13457" data-name="Group 13457" transform="translate(0 -24)">
+        <rect id="Rectangle_9458" data-name="Rectangle 9458" class="cls-48" width="180" height="46" rx="6" transform="translate(90 486)"/>
+        <g id="Group_12816" data-name="Group 12816" transform="translate(68 -332)">
+          <text id="CONTINUAR" class="cls-49" transform="translate(72 846)"><tspan x="0" y="0">CONTINUAR</tspan></text>
+        </g>
+      </g>
+      <g id="Group_13458" data-name="Group 13458" transform="translate(0 -2)">
+        <g id="Rectangle_9483" data-name="Rectangle 9483" class="cls-44" transform="translate(46 407)">
+          <rect class="cls-51" width="19.204" height="12"/>
+          <rect class="cls-15" x="0.5" y="0.5" width="18.204" height="11"/>
+        </g>
+        <path id="Path_14242" data-name="Path 14242" class="cls-36" d="M2716.676,4265.769l8.912,6.846,8.913-6.846" transform="translate(-2670.058 -3858)"/>
+      </g>
+    </g>
+    <text id="CREAR_CUENTA" data-name="CREAR CUENTA" class="cls-50" transform="translate(519.5 235)"><tspan x="0" y="0">CREAR CUENTA</tspan></text>
+  </g>
+</svg>

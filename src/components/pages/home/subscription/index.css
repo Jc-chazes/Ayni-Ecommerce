@@ -1,0 +1,51 @@
+.home-subscription{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 60px;
+}
+
+.home-subscription__content{
+    height: 140px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.home-subscription__content__title{
+    font-size: 32px;
+    font-family: Gotham-book;
+    color: #393939;
+}
+
+.home-subscription__content__input input{
+    width: 288px;
+    height: 28px;
+    border-bottom: 2px #393939 solid;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 14px;
+    color: #393939;
+    font-family: Gotham-book;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    outline: none;
+    background-image: url('http://localhost:3000/icons/check-icon-black.png');
+    background-repeat: no-repeat;
+    background-position: 97% 0px;
+    background-size: 18px 15px;
+}
+
+.home-subscription__content__text{
+    font-size: 14px;
+    font-family: GOTHAM-MEDIUM;
+    color: #393939;
+}
+
+@media only screen and (max-width: 800px){
+    .home-subscription{
+        display: none;
+    }
+}

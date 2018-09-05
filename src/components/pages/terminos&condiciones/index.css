@@ -1,0 +1,80 @@
+.terms{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.terms-tittle{
+    font-size: 40px;
+    font-family: 'Times New Roman';
+    font-style: oblique;
+    color: #686260;
+}
+.terms-tittle::before{
+    content: "-";
+    padding-right: 20px;
+}
+.terms-tittle::after{
+    content: "-";
+    padding-left: 20px;
+}
+.terms-text{
+    text-align: justify;
+    width: 70%;
+    font-size: 10px;
+    font-family: GOTHAM;
+    color: #686260;
+}
+.blog-article_content-close {
+    position: absolute;
+    right: 0px;
+    top: 3px;
+    display: flex;
+    flex-direction: column;
+    height: 30px;
+    width: 30px;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-family: Raleway;
+    font-size: 16px;
+    font-weight: 550;
+}
+
+@media screen and (max-width:700px){
+    .terms-tittle{
+        font-weight: normal;
+        font-size: 22px;
+        color: #ffffff;
+        margin-bottom: 0px;
+    }
+    .terms-tittle::before{
+        display: none;
+    }
+    .terms-tittle::after{
+        display: none;
+    }
+    .terms-tittle-line{
+        width: 30px;
+        color: #fff;
+    }
+    .terms-text{
+        font-weight: normal;
+        font-size: 7px;
+        color: #ffffff;
+    }
+    .terms{
+        padding-top: 20px;
+        background-color: #686260;
+    }
+    .blog-article_content-close-icon{
+        width: 20px;
+        height: 20px;
+        margin-left: 0%;
+        margin-top: 0%;
+        color: #fff;
+        background-size: contain;
+        background: url("http://localhost:3000/Icons/close-blank.png") no-repeat center;
+    }
+}

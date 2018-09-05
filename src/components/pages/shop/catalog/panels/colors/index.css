@@ -1,0 +1,46 @@
+.shop-catalog-colors{
+    width: 80px;
+    height: auto;
+    padding-top: 10px;
+}
+.shop-catalog-colors__content{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+    padding-left: 5px;
+}
+.shop-catalog-colors__content__marker{
+    width: 10px;
+    height: 10px;
+    border: 2px #707070 solid;
+}
+.shop-catalog-colors__content__marker-selected{
+    width: 10px;
+    height: 10px;
+    border: 2px lightgray solid;
+    background-color: lightgray;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.shop-catalog-colors__content__text{
+    width: 53px;
+    text-align: left;
+    font-size: 15px;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+    font-style: italic;
+}
+
+/* check */
+.color-checked{
+    display: block;
+    color: white;
+    font-weight: bold;
+    font-size: 10px;
+}
+.color-nochecked{
+    display: none;
+}

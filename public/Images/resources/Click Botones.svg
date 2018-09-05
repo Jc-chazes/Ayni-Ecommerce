@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 476 130">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-Click_Botones);
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #393939;
+        font-size: 12px;
+        font-family: Raleway-Medium, Raleway;
+        font-weight: 500;
+      }
+
+      .cls-4 {
+        filter: url(#Rectangle_9316);
+      }
+
+      .cls-5 {
+        filter: url(#Rectangle_9317);
+      }
+    </style>
+    <filter id="Rectangle_9317" x="23" y="18" width="282" height="86" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_9316" x="316" y="18" width="148" height="88" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-Click_Botones">
+      <rect width="476" height="130"/>
+    </clipPath>
+  </defs>
+  <g id="Click_Botones" data-name="Click Botones" class="cls-1">
+    <rect class="cls-2" width="476" height="130"/>
+    <g class="cls-5" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="Rectangle_9317-2" data-name="Rectangle 9317" class="cls-2" width="264" height="68" transform="translate(32 24)"/>
+    </g>
+    <text id="El_código_de_seguridad_o_CCV_son_los_3_o_4_números_adicionales_que_aparecen_en_el_reverso_o_frente_de_la_tarjeta." data-name="El código de seguridad o CCV son los 3 o 4 números adicionales que aparecen en el reverso o frente de la tarjeta." class="cls-3" transform="translate(43 34)"><tspan x="0" y="11">El código de seguridad o CCV son los 3 o 4 </tspan><tspan x="0" y="27">números adicionales que aparecen en el </tspan><tspan x="0" y="43">reverso o frente de la tarjeta.</tspan></text>
+    <g class="cls-4" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <rect id="Rectangle_9316-2" data-name="Rectangle 9316" class="cls-2" width="130" height="70" transform="translate(325 24)"/>
+    </g>
+    <text id="Las_transacciones_están_encriptadas_y_son_seguras" data-name="Las transacciones 
+están encriptadas 
+y son seguras" class="cls-3" transform="translate(338 48)"><tspan x="0" y="0">Las transacciones </tspan><tspan x="0" y="15">están encriptadas </tspan><tspan x="0" y="30">y son seguras</tspan></text>
+  </g>
+</svg>

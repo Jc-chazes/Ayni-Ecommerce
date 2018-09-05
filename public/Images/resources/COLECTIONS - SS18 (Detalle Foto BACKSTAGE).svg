@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 956">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-COLECTIONS_-_SS18_Detalle_Foto_BACKSTAGE_);
+      }
+
+      .cls-2, .cls-9 {
+        fill: #686260;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4 {
+        fill: url(#pattern);
+      }
+
+      .cls-11, .cls-5, .cls-6 {
+        fill: none;
+      }
+
+      .cls-5, .cls-6 {
+        stroke: #fff;
+      }
+
+      .cls-5 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-6 {
+        stroke-width: 2px;
+      }
+
+      .cls-7 {
+        fill: url(#pattern-2);
+      }
+
+      .cls-8 {
+        fill: url(#pattern-3);
+      }
+
+      .cls-9 {
+        stroke: #707070;
+        opacity: 0.5;
+      }
+
+      .cls-10 {
+        stroke: none;
+      }
+    </style>
+    <pattern id="pattern" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 480 626">
+      <image width="480" height="626" xlink:href="../BACKSTAGE/11-af056a.jpeg"/>
+    </pattern>
+    <pattern id="pattern-2" width="1" height="1" viewBox="-15.596 0 458.573 687">
+      <image preserveAspectRatio="xMidYMid slice" width="530.413" height="687" xlink:href="../BACKSTAGE/10-9c7b83.jpeg"/>
+    </pattern>
+    <pattern id="pattern-3" preserveAspectRatio="xMidYMid slice" width="100%" height="100%" viewBox="0 0 465 640">
+      <image width="465" height="640" xlink:href="../BACKSTAGE/12-c6a032.jpeg"/>
+    </pattern>
+    <clipPath id="clip-COLECTIONS_-_SS18_Detalle_Foto_BACKSTAGE_">
+      <rect width="1280" height="956"/>
+    </clipPath>
+  </defs>
+  <g id="COLECTIONS_-_SS18_Detalle_Foto_BACKSTAGE_" data-name="COLECTIONS - SS18 (Detalle Foto BACKSTAGE)" class="cls-1">
+    <rect class="cls-3" width="1280" height="956"/>
+    <path id="Path_14448" data-name="Path 14448" class="cls-2" d="M0,0H1281V970H0Z" transform="translate(0 -12)"/>
+    <g id="Group_14069" data-name="Group 14069" transform="translate(580.158 90.447)">
+      <g id="Group_13531" data-name="Group 13531" transform="translate(32.574 -47.112)">
+        <path id="Path_14301" data-name="Path 14301" class="cls-3" d="M-7.036,0-22.289,22.353-37.942,0h-1.334l16.447,23.485V38.671h1.093V23.482L-5.714,0Z" transform="translate(39.276)"/>
+      </g>
+      <g id="Group_13532" data-name="Group 13532" transform="translate(74.186 -47.112)">
+        <path id="Path_14302" data-name="Path 14302" class="cls-3" d="M-6.9,0V37.153L-37.325,0h-1.217V38.671h1.093V1.573l30.376,37.1h1.26V0Z" transform="translate(38.542)"/>
+      </g>
+      <g id="Group_13533" data-name="Group 13533" transform="translate(0 -47.113)">
+        <path id="Path_14303" data-name="Path 14303" class="cls-3" d="M-3.622,0-20.215,38.673h1.19L-3.3,2.023l15.289,36.65h1.185L-2.959,0Z" transform="translate(20.215)"/>
+      </g>
+      <path id="Path_14304" data-name="Path 14304" class="cls-3" d="M145.561-8.441h1.093V-47.112h-1.093Z" transform="translate(-26.077 0)"/>
+    </g>
+    <rect id="_11-af056a" data-name="11-af056a" class="cls-4" width="542.5" height="812" transform="translate(369 107)"/>
+    <g id="Group_14070" data-name="Group 14070" transform="translate(-16 -63.5)">
+      <g id="Group_13675" data-name="Group 13675" transform="translate(1186 107)">
+        <g id="Ellipse_336" data-name="Ellipse 336" class="cls-5" transform="translate(0 0)">
+          <circle class="cls-10" cx="22.75" cy="22.75" r="22.75"/>
+          <circle class="cls-11" cx="22.75" cy="22.75" r="22"/>
+        </g>
+      </g>
+      <g id="Group_13676" data-name="Group 13676" transform="translate(1203.307 124.8)">
+        <path id="Path_14294" data-name="Path 14294" class="cls-6" d="M0,0V15.74" transform="translate(11.13 0) rotate(45)"/>
+        <path id="Path_14295" data-name="Path 14295" class="cls-6" d="M0,0V15.74" transform="translate(11.13 11.13) rotate(135)"/>
+      </g>
+    </g>
+    <rect id="_10-9c7b83" data-name="10-9c7b83" class="cls-7" width="458.573" height="687" transform="translate(-133 170)"/>
+    <rect id="_12-c6a032" data-name="12-c6a032" class="cls-8" width="458.53" height="686.412" transform="translate(954 170)"/>
+    <g id="Rectangle_9682" data-name="Rectangle 9682" class="cls-9" transform="translate(954 170)">
+      <rect class="cls-10" width="345.621" height="687"/>
+      <rect class="cls-11" x="0.5" y="0.5" width="344.621" height="686"/>
+    </g>
+    <g id="Rectangle_9683" data-name="Rectangle 9683" class="cls-9" transform="translate(-19.561 170)">
+      <rect class="cls-10" width="345.62" height="687"/>
+      <rect class="cls-11" x="0.5" y="0.5" width="344.62" height="686"/>
+    </g>
+  </g>
+</svg>

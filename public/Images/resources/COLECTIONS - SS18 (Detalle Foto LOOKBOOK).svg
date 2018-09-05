@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 956">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-COLECTIONS_-_SS18_Detalle_Foto_LOOKBOOK_);
+      }
+
+      .cls-2, .cls-6 {
+        fill: #686260;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-4, .cls-5, .cls-8 {
+        fill: none;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: #fff;
+      }
+
+      .cls-4 {
+        stroke-width: 1.5px;
+      }
+
+      .cls-5 {
+        stroke-width: 2px;
+      }
+
+      .cls-6 {
+        stroke: #707070;
+        opacity: 0.5;
+      }
+
+      .cls-7 {
+        stroke: none;
+      }
+    </style>
+    <clipPath id="clip-COLECTIONS_-_SS18_Detalle_Foto_LOOKBOOK_">
+      <rect width="1280" height="956"/>
+    </clipPath>
+  </defs>
+  <g id="COLECTIONS_-_SS18_Detalle_Foto_LOOKBOOK_" data-name="COLECTIONS - SS18 (Detalle Foto LOOKBOOK)" class="cls-1">
+    <rect class="cls-3" width="1280" height="956"/>
+    <path id="Path_14341" data-name="Path 14341" class="cls-2" d="M0,0H1281V970H0Z" transform="translate(0 -12)"/>
+    <g id="Group_13674" data-name="Group 13674" transform="translate(580.158 90.447)">
+      <g id="Group_13531" data-name="Group 13531" transform="translate(32.574 -47.112)">
+        <path id="Path_14301" data-name="Path 14301" class="cls-3" d="M-7.036,0-22.289,22.353-37.942,0h-1.334l16.447,23.485V38.671h1.093V23.482L-5.714,0Z" transform="translate(39.276)"/>
+      </g>
+      <g id="Group_13532" data-name="Group 13532" transform="translate(74.186 -47.112)">
+        <path id="Path_14302" data-name="Path 14302" class="cls-3" d="M-6.9,0V37.153L-37.325,0h-1.217V38.671h1.093V1.573l30.376,37.1h1.26V0Z" transform="translate(38.542)"/>
+      </g>
+      <g id="Group_13533" data-name="Group 13533" transform="translate(0 -47.113)">
+        <path id="Path_14303" data-name="Path 14303" class="cls-3" d="M-3.622,0-20.215,38.673h1.19L-3.3,2.023l15.289,36.65h1.185L-2.959,0Z" transform="translate(20.215)"/>
+      </g>
+      <path id="Path_14304" data-name="Path 14304" class="cls-3" d="M145.561-8.441h1.093V-47.112h-1.093Z" transform="translate(-26.077 0)"/>
+    </g>
+    <image id="AYNI70885-1" width="542.5" height="812" transform="translate(369 107)" xlink:href="../FOTOS%20AYNI/SS%2018/AYNI70885-1.jpg"/>
+    <g id="Group_13677" data-name="Group 13677" transform="translate(-16 -63.5)">
+      <g id="Group_13675" data-name="Group 13675" transform="translate(1186 107)">
+        <g id="Ellipse_336" data-name="Ellipse 336" class="cls-4" transform="translate(0 0)">
+          <circle class="cls-7" cx="22.75" cy="22.75" r="22.75"/>
+          <circle class="cls-8" cx="22.75" cy="22.75" r="22"/>
+        </g>
+      </g>
+      <g id="Group_13676" data-name="Group 13676" transform="translate(1203.307 124.8)">
+        <path id="Path_14294" data-name="Path 14294" class="cls-5" d="M0,0V15.74" transform="translate(11.13 0) rotate(45)"/>
+        <path id="Path_14295" data-name="Path 14295" class="cls-5" d="M0,0V15.74" transform="translate(11.13 11.13) rotate(135)"/>
+      </g>
+    </g>
+    <image id="AYNI70828" width="458.573" height="687" transform="translate(-133 170)" xlink:href="../FOTOS%20AYNI/SS%2018/AYNI70828.jpg"/>
+    <image id="AYNI71258" width="458.53" height="686.412" transform="translate(954 170)" xlink:href="../FOTOS%20AYNI/SS%2018/AYNI71258.jpg"/>
+    <g id="Rectangle_9612" data-name="Rectangle 9612" class="cls-6" transform="translate(954 170)">
+      <rect class="cls-7" width="345.621" height="687"/>
+      <rect class="cls-8" x="0.5" y="0.5" width="344.621" height="686"/>
+    </g>
+    <g id="Rectangle_9613" data-name="Rectangle 9613" class="cls-6" transform="translate(-19.561 170)">
+      <rect class="cls-7" width="345.62" height="687"/>
+      <rect class="cls-8" x="0.5" y="0.5" width="344.62" height="686"/>
+    </g>
+  </g>
+</svg>

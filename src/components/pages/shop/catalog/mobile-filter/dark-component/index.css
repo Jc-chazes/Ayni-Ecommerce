@@ -1,0 +1,36 @@
+
+
+@media only screen and (max-width: 800px){
+    .shop-mobile-dark-component{
+        width: 42.2%;
+        height: 220px;
+        display: flex;
+        flex-direction: column;
+        background-color: #686260;
+        position: absolute;
+        box-sizing: border-box;
+        padding-top: 30px;
+        padding-left: 5%;
+    }
+    .shop-mobile-dark-component__content{
+        display: flex;
+        height: 19%;
+    }
+    .shop-mobile-dark-component__content__icon{
+        width: 10px;
+        height: 10px;
+        border: 1.5px #DFDEDE solid;
+        border-radius: 4px;
+        /* "check" background additional properties */
+        background: no-repeat;
+        background-position: center;
+        background-size: 9px 9px;
+    }
+
+    .shop-mobile-dark-component__content__text{
+        font-size: 10px;
+        font-family: Gotham-book;
+        color: #FFFFFF;
+        padding-left: 9px;
+    }
+}

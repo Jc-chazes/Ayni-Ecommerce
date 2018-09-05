@@ -1,0 +1,156 @@
+/* FATHER */
+.home-best-garments{
+    width: 100%;
+    height: 100%;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* Text container */ 
+.home-best-garments__text{
+    height: 105px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 70px;
+}
+
+.home-best-garments__text__up{
+    width: 463px;
+    height: 45px;
+    font-size: 40px;
+    font-family: 'Times New Roman';
+    font-style: italic;
+    color: #000000;
+    text-align: center;
+}
+
+.home-best-garments__text__down{
+    width: 266px;
+    height: 54px;
+    color: #686260;
+    font-size: 41px;
+    font-family: GOTHAM-THIN;
+    font-style: Light;
+}
+
+/* Slider container  */
+.home-best-garments__pics{
+    width: 1110px;
+    height: 100%; /* 500px */
+    display: flex;
+    justify-content: space-between;
+}
+
+/* Container for data */
+.home-best-garments__pics__data{
+    width: auto;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.home-best-garments__pics__data__image{
+    width: 348px;
+    height: 440px;
+    background-color: wheat;
+    border-radius: 6px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.home-best-garments__pics__data__text{
+    height: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.home-best-garments__pics__data__text__name{
+    color: #393939;
+    font-family: GOTHAM-MEDIUM; /* PENDIENTE DE REVISION */
+    font-size: 14px;
+}
+
+.home-best-garments__pics__data__text__price{
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Times New Roman';
+    color: #686260;
+}
+/****** End for data ******/
+
+
+/* link VER MAS */
+.home-best-garments__see-more{
+    width: 82.29px;
+    height: 150px;
+    color: #686260;
+    font-size: 14px;
+    font-family: GOTHAM-BOLD;
+    font-weight: bold;
+    text-decoration: underline;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+}
+
+.home-best-garments__see-more__icon{
+    background-image: url('http://192.168.1.10:3000/icons/simple-skip.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    width: 8px;
+    height: 8px;
+}
+
+/* MOBILE CONTAINER */
+.home-best-garments-mobile-pics{
+    display: none;
+}
+
+@media only screen and (max-width: 800px){
+    .home-best-garments{
+        width: 100%;
+    }
+    .home-best-garments__text{
+        width: 100%;
+        height: 67px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        align-items: center;
+        padding-bottom: 5px;
+        padding-top: 0px;
+    }
+    .home-best-garments__text__up{
+        width: 100%;
+        font-size: 18px;
+        font-family: 'Times New Roman';
+        font-style: italic;
+        letter-spacing: 1px;
+    }
+    .home-best-garments__text__down{
+        width: 100%;
+        font-size: 20px;
+        font-family: GOTHAM-LIGHT;
+        letter-spacing: 3px;
+        /*transform: scaleY(1.3);*/ /* This property was omitted because was working poorly on mobile version */
+    }
+    .home-best-garments__pics{
+        display: none;
+    }
+    .home-best-garments__see-more{
+        display: none;
+    } 
+
+
+    
+}

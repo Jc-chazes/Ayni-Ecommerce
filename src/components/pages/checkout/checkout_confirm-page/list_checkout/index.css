@@ -1,0 +1,21 @@
+.list_container{
+    height: 60px;
+    width: 132px;
+}
+.list_container__item{
+    font-family: Raleway-Medium;
+    font-size: 12px;
+    color:#868686;
+}
+.list_container__values{
+    display: flex;
+    height: 16px;
+    width: 83px;
+}
+.list{  
+    display: flex;
+    width: 300px;
+    justify-content: space-between;
+    height: 60px;
+    align-items: flex-end;
+}   

@@ -1,0 +1,70 @@
+@media only screen and (max-width: 800px){
+    .home-best-garments-mobile-pics{
+        display: block;
+        width: 100%;
+        height: 100%;
+    }
+
+    .home-best-garments-mobile-pics__container{
+        width: 100%;
+        height: 537px;
+        background-position: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        box-sizing: border-box;
+        padding-left: 8%;
+    }
+
+    .home-best-garments-mobile-pics__container__text{
+        width: 254px;
+        height: 209px;
+        background-color:  rgba(0, 0, 0, 0.4);
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        box-sizing: border-box;
+        padding-top: 30px;
+        padding-left: 7%;
+        padding-bottom: 25px;
+    }
+
+    .home-best-garments-mobile-pics__container__text__name{
+        color: #FFFFFF;
+        font-size: 17px;
+        font-family: GOTHAM-BOLD;
+        text-align: left;
+        letter-spacing: 0.2px;
+    }
+
+    .home-best-garments-mobile-pics__container__text__price{
+        font-size: 40px;
+        font-family: 'Times New Roman';
+        text-align: left;
+        color: #DFDEDE;
+        font-weight: bold;
+        font-style: italic;
+    }
+
+    .home-best-garments-mobile-pics__container__text button{
+        width: 194.43px;
+        height: 43px;
+        background-color: #686260;
+        color: #FFFFFF;
+        /*font-family: GOTHAM-MEDIUM;*/
+        font-weight: bold;
+        border: none;
+        outline: none;
+    }
+
+    .home-best-garments-mobile-pics__container__footer{
+        width: 100%;
+        height: 60px;
+    }
+
+    .swiper-container{
+        width: 100%;
+    }
+}

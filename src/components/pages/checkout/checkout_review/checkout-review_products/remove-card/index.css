@@ -1,0 +1,14 @@
+.remove-card__icon {
+    width: 12px;
+    height: 12px;
+    background-image: url(http://localhost:3000/Icons/close.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    cursor:pointer;
+    outline:none;
+    border:none;
+    background-color: #fff;
+}
+
+

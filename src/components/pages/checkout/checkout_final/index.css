@@ -1,0 +1,48 @@
+.checkout_final {
+    width: 100%;
+    height: 100%;
+}
+.checkout_final__container {
+    display: flex;
+    justify-content: center;
+}
+.checkout_final__container__congrats {
+    width: 324px;
+    height: 277px;
+    -ms-flex-pack: center;
+    justify-content: space-between;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    -ms-flex-align: center;
+    align-items: center;
+    padding: 98px 0px 53px 0px;
+}
+.checkout_final__container__congrats__image {
+    background-image: url(http://localhost:3000/icons/congrats.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 145px;
+    width: 100%;
+}
+.checkout_final__container__congrats__label {
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: bold;
+}
+.checkout_final__container__congrats__button {
+    width: 225px;
+    height: 43px;
+    background-color: #C6BCB3;
+    border-radius: 6px;
+    font-family: Raleway;
+    font-size: 13px;
+    font-weight: bold;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
