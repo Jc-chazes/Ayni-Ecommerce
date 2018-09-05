@@ -1,5 +1,9 @@
 import React, { Component } from 'react';
 import './index.css';
+import {BrowserRouter as Router,NavLink}  from 'react-router-dom';
+import ShopCatalog from '../../../../pages/shop/catalog/index.js';
+import Route from 'react-router-dom/Route';
+import { withRouter } from 'react-router-dom';
 
 class HeaderMenu extends Component{
     render(){
@@ -10,10 +14,12 @@ class HeaderMenu extends Component{
                         return(
                             data.text==='STORE'?null: /* hide "STORE" option for desktop version */
                             <div className="header-menu__container__option" key={index}>
-                                <div className="header-menu__container__option__text">{data.text}</div>
-                                {index===2||index===3?
+                                <div onClick={()=>this.props.history.push(data.route)} className="header-menu__container__option__text">
+                                    <div>{data.text}</div>
+                                </div>
+                                {/* {index===2||index===3?
                                     <div className="header-menu__container__option__icon"/>:null
-                                }                             
+                                } */}
                             </div>
                         )
                     })}
@@ -23,4 +29,4 @@ class HeaderMenu extends Component{
     }
 }
 
-export default HeaderMenu;
+export default withRouter(HeaderMenu);

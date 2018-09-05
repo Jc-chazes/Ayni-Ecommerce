@@ -5,8 +5,7 @@ import SM from '../../../mini_containers/sm-main/';
 import OULeft from './left/';
 import OUCenter from './center/';
 import OURight from './right/';
-import Header from '../../../fixed/header';
-import Footer from '../../../fixed/footer';
+
 
 class OurUnivDetail extends Component{
     constructor(){
@@ -16,7 +15,7 @@ class OurUnivDetail extends Component{
     render(){
         return(
             <div className="our-univ-detail">
-                <Header />
+
                 <div className="our-univ-detail__container">
                     <div className="our-univ-detail__container__sm-main">
                         <SM main={this.smOurUnivDetailOptions} />
@@ -28,7 +27,7 @@ class OurUnivDetail extends Component{
                     </div>
                     <div className="our-univ-detail__container__close"></div>
                 </div>
-                <Footer />
+
             </div>
         )
     }

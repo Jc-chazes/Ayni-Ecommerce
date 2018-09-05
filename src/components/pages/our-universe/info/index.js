@@ -38,7 +38,7 @@ class OurInfo extends Component{
                 description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s"
             }
         ]
-        
+
         /* Functions */
         this.OActiveButton=this.OActiveButton.bind(this)
     }
@@ -48,13 +48,11 @@ class OurInfo extends Component{
     render(){
         return(
             <div className="our-info">
-                <Header />
                 <div className="our-info__container">
                     <OurCovPage />
                     <OurMenuButton btnOptions={this.btnOptions} OActiveButton={this.OActiveButton} OActived={this.state.ourBtnSelected} />
                     <OurContentInfo OData={this.OurUniverseData} OActived={this.state.ourBtnSelected} />
-                </div>
-                <Footer />    
+                </div> 
             </div>
         )
     }

@@ -10,9 +10,9 @@ import ShopCatalog from './components/pages/shop/catalog';
 import ShopDetail from './components/pages/shop/detail';
 import AppShell from './components/fixed/index.js';
 import Newsletter from './components/pages/newsletter/index.js';
-import OurUniverse from './components/pages/our-universe/index.js';
+import OurInfo from './components/pages/our-universe/info/index.js';
 import OptionPanel from './components/pages/store';
-import Terms from './components/pages/terminos&condiciones';
+import Terms from './components/pages/terminos/index.js';
 class App extends Component {
   render() {
     return (
@@ -24,9 +24,9 @@ class App extends Component {
                   <Route path="/shop-catalog" component={ShopCatalog}/>
                   <Route path="/shop-detail/:id" component={ShopDetail}/>
                   <Route path="/news-letter" component={Newsletter}/>
-                  <Route path="/our-universe" component={OurUniverse}/>
+                  <Route path="/our-universe" component={OurInfo}/>
                   <Route path="/option-panel" component={OptionPanel}/>
-                  <Route path="terminos" component={Terms}/>
+                  <Route path="/terminos" component={Terms}/>
                 </AppShell>
               </Router>
           </Provider>

@@ -8,12 +8,12 @@ class Header extends Component{
     constructor(){
         super()
         this.menuOptions=[
-            {text: 'HOME', subtext: ''},
-            {text: 'OUR UNIVERSE', subtext: ''},
-            {text: 'SHOP', subtext: 'All clothes'},
-            {text: 'COLLECTIONS', subtext: 'Spring Summer & Fall Winter'},
-            {text: 'NEWSLETTER', subtext: ''},
-            {text: 'STORE', subtext: ''}
+            {text: 'HOME', subtext: '',route:"/"},
+            {text: 'OUR UNIVERSE', subtext: '',route:"/our-universe"},
+            {text: 'SHOP', subtext: 'All clothes',route:"/shop-catalog"},
+            {text: 'COLLECTIONS', subtext: 'Spring Summer & Fall Winter',route:"/"},
+            {text: 'NEWSLETTER', subtext: '',route:"/news-letter"},
+            {text: 'STORE', subtext: '',route:"/option-panel"}
         ]
     }
     render(){

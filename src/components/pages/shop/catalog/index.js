@@ -8,14 +8,12 @@ import Categories from './panels/categories/';
 import RangePrice from './panels/slider-price/';
 import Colors from './panels/colors/';
 import Sizes from './panels/sizes/';
-
 import MobileFilter from './mobile-filter/';
 import Footer from '../../../fixed/footer';
-import Header from '../../../fixed/header';
 
 class ShopCatalog extends Component{
-    constructor(){
-        super()
+    constructor(props){
+        super(props)
         this.state={
             colorsUP: false,
             sizesUP: false,
@@ -38,7 +36,6 @@ class ShopCatalog extends Component{
         ]
     }
 
-    /* Deploy only for Desktop */
     deploy(to){
         switch(to){
             case 1:
@@ -115,7 +112,7 @@ class ShopCatalog extends Component{
                         </div>
                     </div>
                 </div>
-              
+
             </div>
         )
     }

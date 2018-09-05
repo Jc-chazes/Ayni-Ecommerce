@@ -75,8 +75,8 @@ class Newsletter extends Component{
     render(){
         return(
             <div className="newsletter">
-                {<News dataBody={this.dataBody} />}
-                {/*<Article />*/}
+                <News dataBody={this.dataBody} />
+
             </div>
         )
     }
